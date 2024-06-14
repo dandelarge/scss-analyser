@@ -1,0 +1,11 @@
+prefix=/usr/local
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: tree-sitter-scss
+Description: Scss grammar for tree-sitter
+URL: https://github.com/daniel-fuga/tree-sitter-scss
+Version: 0.0.1
+Requires: 
+Libs: -L${libdir}  -ltree-sitter-scss
+Cflags: -I${includedir}
