@@ -1,0 +1,1119 @@
+{
+  "variables": {},
+  "functions": {},
+  "mixins": {
+    "": [],
+    "border": [
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "border",
+        "line_number": 202,
+        "match": "border"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "border",
+        "line_number": 202,
+        "match": "border"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "border",
+        "line_number": 13,
+        "match": "border"
+      }
+    ],
+    "button": [
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "button",
+        "line_number": 240,
+        "match": "button"
+      },
+      {
+        "file": "components/section/section.scss",
+        "line": "button",
+        "line_number": 39,
+        "match": "button"
+      }
+    ],
+    "buttonNoStyle": [
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "buttonNoStyle",
+        "line_number": 172,
+        "match": "buttonNoStyle"
+      },
+      {
+        "file": "barrels/player/play-asset-button.scss",
+        "line": "buttonNoStyle",
+        "line_number": 11,
+        "match": "buttonNoStyle"
+      },
+      {
+        "file": "components/slider/slider.scss",
+        "line": "buttonNoStyle",
+        "line_number": 8,
+        "match": "buttonNoStyle"
+      }
+    ],
+    "center-element": [],
+    "container": [
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "container",
+        "line_number": 188,
+        "match": "container"
+      },
+      {
+        "file": "barrels/accounting-sub-org/accounting-dashboard.scss",
+        "line": "container",
+        "line_number": 6,
+        "match": "container"
+      },
+      {
+        "file": "barrels/custom-report/custom-report.scss",
+        "line": "container",
+        "line_number": 8,
+        "match": "container"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "container",
+        "line_number": 27,
+        "match": "container"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "container",
+        "line_number": 8,
+        "match": "container"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-detail.scss",
+        "line": "container",
+        "line_number": 7,
+        "match": "container"
+      }
+    ],
+    "container-with-subheader": [
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "container-with-subheader",
+        "line_number": 8,
+        "match": "container-with-subheader"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "container-with-subheader",
+        "line_number": 17,
+        "match": "container-with-subheader"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "container-with-subheader",
+        "line_number": 8,
+        "match": "container-with-subheader"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "container-with-subheader",
+        "line_number": 10,
+        "match": "container-with-subheader"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "container-with-subheader",
+        "line_number": 8,
+        "match": "container-with-subheader"
+      }
+    ],
+    "custom-scroll": [
+      {
+        "file": "components/popup/popup.scss",
+        "line": "custom-scroll",
+        "line_number": 19,
+        "match": "custom-scroll"
+      }
+    ],
+    "ellipsis": [],
+    "fontNormalText": [],
+    "masthead-subheader": [
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "masthead-subheader",
+        "line_number": 12,
+        "match": "masthead-subheader"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "masthead-subheader",
+        "line_number": 195,
+        "match": "masthead-subheader"
+      },
+      {
+        "file": "hoc/scroll-context-styles.scss",
+        "line": "masthead-subheader",
+        "line_number": 8,
+        "match": "masthead-subheader"
+      },
+      {
+        "file": "hoc/scroll-context.scss",
+        "line": "masthead-subheader",
+        "line_number": 8,
+        "match": "masthead-subheader"
+      }
+    ],
+    "media-lg": [],
+    "media-max-lg": [
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "media-max-lg",
+        "line_number": 75,
+        "match": "media-max-lg"
+      },
+      {
+        "file": "components/artist/list/artist-list.scss",
+        "line": "media-max-lg",
+        "line_number": 52,
+        "match": "media-max-lg"
+      }
+    ],
+    "media-max-md": [
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "media-max-md",
+        "line_number": 146,
+        "match": "media-max-md"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "media-max-md",
+        "line_number": 255,
+        "match": "media-max-md"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "media-max-md",
+        "line_number": 255,
+        "match": "media-max-md"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "media-max-md",
+        "line_number": 78,
+        "match": "media-max-md"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "media-max-md",
+        "line_number": 108,
+        "match": "media-max-md"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "media-max-md",
+        "line_number": 86,
+        "match": "media-max-md"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "media-max-md",
+        "line_number": 362,
+        "match": "media-max-md"
+      },
+      {
+        "file": "barrels/product-view/product-state-progress.scss",
+        "line": "media-max-md",
+        "line_number": 77,
+        "match": "media-max-md"
+      },
+      {
+        "file": "barrels/product-view/product-state-progress.scss",
+        "line": "media-max-md",
+        "line_number": 121,
+        "match": "media-max-md"
+      },
+      {
+        "file": "barrels/trends/trends-filter.scss",
+        "line": "media-max-md",
+        "line_number": 115,
+        "match": "media-max-md"
+      },
+      {
+        "file": "barrels/trends/trends-menu.scss",
+        "line": "media-max-md",
+        "line_number": 63,
+        "match": "media-max-md"
+      },
+      {
+        "file": "barrels/trends/trends-menu.scss",
+        "line": "media-max-md",
+        "line_number": 102,
+        "match": "media-max-md"
+      },
+      {
+        "file": "components/delivery/dsp-group-dsp-list-selector.scss",
+        "line": "media-max-md",
+        "line_number": 36,
+        "match": "media-max-md"
+      },
+      {
+        "file": "components/territory/territories-detailed.scss",
+        "line": "media-max-md",
+        "line_number": 46,
+        "match": "media-max-md"
+      },
+      {
+        "file": "components/territory/territory-overrides.scss",
+        "line": "media-max-md",
+        "line_number": 14,
+        "match": "media-max-md"
+      }
+    ],
+    "media-max-sm": [
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "media-max-sm",
+        "line_number": 17,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "media-max-sm",
+        "line_number": 110,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "media-max-sm",
+        "line_number": 181,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "media-max-sm",
+        "line_number": 197,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "media-max-sm",
+        "line_number": 209,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "media-max-sm",
+        "line_number": 235,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "media-max-sm",
+        "line_number": 243,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "media-max-sm",
+        "line_number": 256,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "media-max-sm",
+        "line_number": 99,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "media-max-sm",
+        "line_number": 120,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "media-max-sm",
+        "line_number": 184,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "media-max-sm",
+        "line_number": 207,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "media-max-sm",
+        "line_number": 222,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/breadcrumb/breadcrumb.scss",
+        "line": "media-max-sm",
+        "line_number": 12,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/breadcrumb/breadcrumb.scss",
+        "line": "media-max-sm",
+        "line_number": 37,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/breadcrumb/breadcrumb.scss",
+        "line": "media-max-sm",
+        "line_number": 45,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "media-max-sm",
+        "line_number": 259,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "media-max-sm",
+        "line_number": 259,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "media-max-sm",
+        "line_number": 21,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "media-max-sm",
+        "line_number": 89,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/form/form-errors-snack.scss",
+        "line": "media-max-sm",
+        "line_number": 16,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/form/form.scss",
+        "line": "media-max-sm",
+        "line_number": 100,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/form/form.scss",
+        "line": "media-max-sm",
+        "line_number": 143,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/labels/labels-view.scss",
+        "line": "media-max-sm",
+        "line_number": 36,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/organization/organization-view.scss",
+        "line": "media-max-sm",
+        "line_number": 17,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "media-max-sm",
+        "line_number": 97,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "media-max-sm",
+        "line_number": 368,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/product-view/product-state-progress.scss",
+        "line": "media-max-sm",
+        "line_number": 64,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/product-view/product-state-progress.scss",
+        "line": "media-max-sm",
+        "line_number": 127,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "media-max-sm",
+        "line_number": 308,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "media-max-sm",
+        "line_number": 325,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "media-max-sm",
+        "line_number": 349,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "media-max-sm",
+        "line_number": 624,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends/trend-percentage-indicator.scss",
+        "line": "media-max-sm",
+        "line_number": 16,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends/trends-product.scss",
+        "line": "media-max-sm",
+        "line_number": 17,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends/trends-product.scss",
+        "line": "media-max-sm",
+        "line_number": 31,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends/trends-product.scss",
+        "line": "media-max-sm",
+        "line_number": 41,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends/trends-product.scss",
+        "line": "media-max-sm",
+        "line_number": 52,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends/trends-product.scss",
+        "line": "media-max-sm",
+        "line_number": 69,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "media-max-sm",
+        "line_number": 107,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "media-max-sm",
+        "line_number": 152,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "media-max-sm",
+        "line_number": 167,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "media-max-sm",
+        "line_number": 280,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "media-max-sm",
+        "line_number": 283,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-detail.scss",
+        "line": "media-max-sm",
+        "line_number": 22,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-detail.scss",
+        "line": "media-max-sm",
+        "line_number": 42,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-detail.scss",
+        "line": "media-max-sm",
+        "line_number": 77,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-detail.scss",
+        "line": "media-max-sm",
+        "line_number": 89,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-detail.scss",
+        "line": "media-max-sm",
+        "line_number": 98,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-detail.scss",
+        "line": "media-max-sm",
+        "line_number": 127,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-detail.scss",
+        "line": "media-max-sm",
+        "line_number": 141,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-view.scss",
+        "line": "media-max-sm",
+        "line_number": 21,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-view.scss",
+        "line": "media-max-sm",
+        "line_number": 35,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 30,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 50,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 63,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 76,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 157,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 170,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 210,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 302,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 312,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 338,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 349,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 355,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 388,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "media-max-sm",
+        "line_number": 423,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/user/user-view.scss",
+        "line": "media-max-sm",
+        "line_number": 14,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/webhooks/webhooks.scss",
+        "line": "media-max-sm",
+        "line_number": 70,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/webhooks/webhooks.scss",
+        "line": "media-max-sm",
+        "line_number": 81,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "barrels/webhooks/webhooks.scss",
+        "line": "media-max-sm",
+        "line_number": 91,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/artist/list/artist-list.scss",
+        "line": "media-max-sm",
+        "line_number": 63,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/artist/list/artist-list.scss",
+        "line": "media-max-sm",
+        "line_number": 84,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "media-max-sm",
+        "line_number": 34,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "media-max-sm",
+        "line_number": 44,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "media-max-sm",
+        "line_number": 55,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "media-max-sm",
+        "line_number": 75,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "media-max-sm",
+        "line_number": 85,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "media-max-sm",
+        "line_number": 93,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "media-max-sm",
+        "line_number": 114,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/chart/pie/pie-chart.scss",
+        "line": "media-max-sm",
+        "line_number": 73,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/delivery/dsp-group-dsp-list-selector.scss",
+        "line": "media-max-sm",
+        "line_number": 40,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/grid/infinite-grid.scss",
+        "line": "media-max-sm",
+        "line_number": 76,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/lists/title-list.scss",
+        "line": "media-max-sm",
+        "line_number": 38,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/search/search.scss",
+        "line": "media-max-sm",
+        "line_number": 10,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/search/search.scss",
+        "line": "media-max-sm",
+        "line_number": 22,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/shared-scss/login-form.scss",
+        "line": "media-max-sm",
+        "line_number": 17,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/shared-scss/login-form.scss",
+        "line": "media-max-sm",
+        "line_number": 32,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "media-max-sm",
+        "line_number": 95,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/suggestions/suggestions.scss",
+        "line": "media-max-sm",
+        "line_number": 16,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "components/territory/territories-detailed.scss",
+        "line": "media-max-sm",
+        "line_number": 50,
+        "match": "media-max-sm"
+      },
+      {
+        "file": "containers/contact/contact.scss",
+        "line": "media-max-sm",
+        "line_number": 15,
+        "match": "media-max-sm"
+      }
+    ],
+    "media-max-xl": [
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "media-max-xl",
+        "line_number": 64,
+        "match": "media-max-xl"
+      },
+      {
+        "file": "components/artist/list/artist-list.scss",
+        "line": "media-max-xl",
+        "line_number": 40,
+        "match": "media-max-xl"
+      }
+    ],
+    "media-max-xs": [
+      {
+        "file": "components/badge/badge.scss",
+        "line": "media-max-xs",
+        "line_number": 16,
+        "match": "media-max-xs"
+      },
+      {
+        "file": "components/badge/trends-badge.scss",
+        "line": "media-max-xs",
+        "line_number": 40,
+        "match": "media-max-xs"
+      }
+    ],
+    "media-md": [],
+    "media-sm": [
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "media-sm",
+        "line_number": 38,
+        "match": "media-sm"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "media-sm",
+        "line_number": 19,
+        "match": "media-sm"
+      }
+    ],
+    "media-xl": [],
+    "media-xs": [
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "media-xs",
+        "line_number": 41,
+        "match": "media-xs"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "media-xs",
+        "line_number": 15,
+        "match": "media-xs"
+      },
+      {
+        "file": "components/lists/title-list.scss",
+        "line": "media-xs",
+        "line_number": 19,
+        "match": "media-xs"
+      },
+      {
+        "file": "components/section/section.scss",
+        "line": "media-xs",
+        "line_number": 33,
+        "match": "media-xs"
+      },
+      {
+        "file": "components/section/section.scss",
+        "line": "media-xs",
+        "line_number": 49,
+        "match": "media-xs"
+      },
+      {
+        "file": "components/section/section.scss",
+        "line": "media-xs",
+        "line_number": 62,
+        "match": "media-xs"
+      }
+    ],
+    "media-xxl": [],
+    "paper-shadow": [
+      {
+        "file": "barrels/help/help-slider.scss",
+        "line": "paper-shadow",
+        "line_number": 42,
+        "match": "paper-shadow"
+      },
+      {
+        "file": "components/scroll-to-top/scroll-to-top.scss",
+        "line": "paper-shadow",
+        "line_number": 18,
+        "match": "paper-shadow"
+      },
+      {
+        "file": "components/selector/selector.scss",
+        "line": "paper-shadow",
+        "line_number": 40,
+        "match": "paper-shadow"
+      }
+    ],
+    "responsive-container": [
+      {
+        "file": "barrels/accounting-sub-org/accounting-dashboard.scss",
+        "line": "responsive-container",
+        "line_number": 166,
+        "match": "responsive-container"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "responsive-container",
+        "line_number": 203,
+        "match": "responsive-container"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "responsive-container",
+        "line_number": 30,
+        "match": "responsive-container"
+      },
+      {
+        "file": "barrels/product-view/product-menu-header.scss",
+        "line": "responsive-container",
+        "line_number": 87,
+        "match": "responsive-container"
+      },
+      {
+        "file": "styles/global.scss",
+        "line": "responsive-container",
+        "line_number": 52,
+        "match": "responsive-container"
+      }
+    ],
+    "responsive-container-full-width": [],
+    "section-shadow": [
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "section-shadow",
+        "line_number": 114,
+        "match": "section-shadow"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "section-shadow",
+        "line_number": 270,
+        "match": "section-shadow"
+      },
+      {
+        "file": "components/lists/editable-list-button.scss",
+        "line": "section-shadow",
+        "line_number": 12,
+        "match": "section-shadow"
+      }
+    ],
+    "sectionBox": [],
+    "sectionTitle": [],
+    "shadow": [
+      {
+        "file": "barrels/accounting-sub-org/accounting-dashboard.scss",
+        "line": "shadow",
+        "line_number": 234,
+        "match": "shadow"
+      },
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "shadow",
+        "line_number": 236,
+        "match": "shadow"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "shadow",
+        "line_number": 533,
+        "match": "shadow"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "shadow",
+        "line_number": 19,
+        "match": "shadow"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "shadow",
+        "line_number": 28,
+        "match": "shadow"
+      },
+      {
+        "file": "barrels/product-view/product-menu-header.scss",
+        "line": "shadow",
+        "line_number": 70,
+        "match": "shadow"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "shadow",
+        "line_number": 354,
+        "match": "shadow"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-view.scss",
+        "line": "shadow",
+        "line_number": 12,
+        "match": "shadow"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "shadow",
+        "line_number": 20,
+        "match": "shadow"
+      }
+    ],
+    "textOverflow": [
+      {
+        "file": "barrels/breadcrumb/breadcrumb.scss",
+        "line": "textOverflow",
+        "line_number": 52,
+        "match": "textOverflow"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "textOverflow",
+        "line_number": 106,
+        "match": "textOverflow"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "textOverflow",
+        "line_number": 115,
+        "match": "textOverflow"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "textOverflow",
+        "line_number": 188,
+        "match": "textOverflow"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "textOverflow",
+        "line_number": 196,
+        "match": "textOverflow"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "textOverflow",
+        "line_number": 143,
+        "match": "textOverflow"
+      },
+      {
+        "file": "barrels/trends-playlists/trends-playlists-detail.scss",
+        "line": "textOverflow",
+        "line_number": 40,
+        "match": "textOverflow"
+      }
+    ],
+    "tileShadow": [
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "tileShadow",
+        "line_number": 181,
+        "match": "tileShadow"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "tileShadow",
+        "line_number": 55,
+        "match": "tileShadow"
+      },
+      {
+        "file": "components/date-range-selector/date-range-selector.scss",
+        "line": "tileShadow",
+        "line_number": 48,
+        "match": "tileShadow"
+      },
+      {
+        "file": "components/month-range-selector/month-range-selector.scss",
+        "line": "tileShadow",
+        "line_number": 25,
+        "match": "tileShadow"
+      },
+      {
+        "file": "components/suggestions/suggestions.scss",
+        "line": "tileShadow",
+        "line_number": 23,
+        "match": "tileShadow"
+      }
+    ]
+  }
+}

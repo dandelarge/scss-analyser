@@ -1,0 +1,243 @@
+{
+  "variables": {
+    "": [],
+    "$font-family-main": [
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "$font-family-main",
+        "line_number": 496,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$font-family-main",
+        "line_number": 169,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$font-family-main",
+        "line_number": 260,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "barrels/trends/trends-product.scss",
+        "line": "$font-family-main",
+        "line_number": 29,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "$font-family-main",
+        "line_number": 558,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "components/artist/list/artist-list.scss",
+        "line": "$font-family-main",
+        "line_number": 143,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "components/chart/pie/pie-chart.scss",
+        "line": "$font-family-main",
+        "line_number": 28,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "components/circular-progressbar/circular-progressbar.scss",
+        "line": "$font-family-main",
+        "line_number": 34,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "components/grid/grid.scss",
+        "line": "$font-family-main",
+        "line_number": 21,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "components/grid/grid.scss",
+        "line": "$font-family-main",
+        "line_number": 40,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "components/lists/title-list.scss",
+        "line": "$font-family-main",
+        "line_number": 36,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "components/missing-fields/missing-fields.scss",
+        "line": "$font-family-main",
+        "line_number": 11,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "components/missing-fields/missing-fields.scss",
+        "line": "$font-family-main",
+        "line_number": 27,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "components/section/section.scss",
+        "line": "$font-family-main",
+        "line_number": 44,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "styles/global.scss",
+        "line": "$font-family-main",
+        "line_number": 22,
+        "match": "$font-family-main"
+      },
+      {
+        "file": "styles/reset.scss",
+        "line": "$font-family-main",
+        "line_number": 26,
+        "match": "$font-family-main"
+      }
+    ],
+    "$font-player": [
+      {
+        "file": "components/player/player.scss",
+        "line": "$font-player",
+        "line_number": 84,
+        "match": "$font-player"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$font-player",
+        "line_number": 100,
+        "match": "$font-player"
+      }
+    ],
+    "$font-size-large": [
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$font-size-large",
+        "line_number": 261,
+        "match": "$font-size-large"
+      }
+    ],
+    "$font-size-normal": [
+      {
+        "file": "barrels/asset-details/metadata-translations/styles.scss",
+        "line": "$font-size-normal",
+        "line_number": 28,
+        "match": "$font-size-normal"
+      },
+      {
+        "file": "barrels/product-view/metadata-translations/styles.scss",
+        "line": "$font-size-normal",
+        "line_number": 28,
+        "match": "$font-size-normal"
+      },
+      {
+        "file": "styles/global.scss",
+        "line": "$font-size-normal",
+        "line_number": 42,
+        "match": "$font-size-normal"
+      }
+    ],
+    "$font-size-small": [],
+    "$font-size-xl": []
+  },
+  "functions": {},
+  "mixins": {
+    "": [],
+    "Body1": [
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "Body1",
+        "line_number": 152,
+        "match": "Body1"
+      },
+      {
+        "file": "barrels/breadcrumb/breadcrumb.scss",
+        "line": "Body1",
+        "line_number": 56,
+        "match": "Body1"
+      }
+    ],
+    "Body2": [
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "Body2",
+        "line_number": 42,
+        "match": "Body2"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "Body2",
+        "line_number": 144,
+        "match": "Body2"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "Body2",
+        "line_number": 156,
+        "match": "Body2"
+      }
+    ],
+    "Body3": [
+      {
+        "file": "barrels/labels/labels-view.scss",
+        "line": "Body3",
+        "line_number": 53,
+        "match": "Body3"
+      },
+      {
+        "file": "barrels/organization/organization-view.scss",
+        "line": "Body3",
+        "line_number": 34,
+        "match": "Body3"
+      },
+      {
+        "file": "barrels/organization/organization-view.scss",
+        "line": "Body3",
+        "line_number": 41,
+        "match": "Body3"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "Body3",
+        "line_number": 377,
+        "match": "Body3"
+      },
+      {
+        "file": "barrels/user/user-view.scss",
+        "line": "Body3",
+        "line_number": 41,
+        "match": "Body3"
+      }
+    ],
+    "H1": [],
+    "H2": [],
+    "H3": [],
+    "H4": [],
+    "H5": [],
+    "H6": [],
+    "Sub1": [],
+    "Sub2": [
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "Sub2",
+        "line_number": 37,
+        "match": "Sub2"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "Sub2",
+        "line_number": 140,
+        "match": "Sub2"
+      }
+    ],
+    "Sub3": [],
+    "Sub4": [],
+    "Sub5": [],
+    "Sub6": [],
+    "Sub7": []
+  }
+}

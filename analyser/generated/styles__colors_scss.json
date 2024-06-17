@@ -1,0 +1,1945 @@
+{
+  "variables": {
+    "": [],
+    "$alizarin": [],
+    "$apricot-delight": [],
+    "$aqua-marine": [],
+    "$bg-color": [],
+    "$blue-steel": [
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$blue-steel",
+        "line_number": 245,
+        "match": "$blue-steel"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$blue-steel",
+        "line_number": 246,
+        "match": "$blue-steel"
+      }
+    ],
+    "$boyish-blue": [],
+    "$bright-white": [
+      {
+        "file": "barrels/accounting-sub-org/accounting-dashboard.scss",
+        "line": "$bright-white",
+        "line_number": 16,
+        "match": "$bright-white"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$bright-white",
+        "line_number": 484,
+        "match": "$bright-white"
+      },
+      {
+        "file": "barrels/product-view/product-menu-header.scss",
+        "line": "$bright-white",
+        "line_number": 73,
+        "match": "$bright-white"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$bright-white",
+        "line_number": 352,
+        "match": "$bright-white"
+      },
+      {
+        "file": "components/search/search.scss",
+        "line": "$bright-white",
+        "line_number": 53,
+        "match": "$bright-white"
+      }
+    ],
+    "$charlotte": [],
+    "$color-black": [
+      {
+        "file": "barrels/form/input-fields/input-fields.scss",
+        "line": "$color-black",
+        "line_number": 112,
+        "match": "$color-black"
+      }
+    ],
+    "$color-blue-google": [],
+    "$color-fuga-red": [],
+    "$color-gray": [
+      {
+        "file": "barrels/trends/trends-product.scss",
+        "line": "$color-gray",
+        "line_number": 67,
+        "match": "$color-gray"
+      },
+      {
+        "file": "barrels/trends/trends-product.scss",
+        "line": "$color-gray",
+        "line_number": 71,
+        "match": "$color-gray"
+      },
+      {
+        "file": "components/lists/title-list.scss",
+        "line": "$color-gray",
+        "line_number": 31,
+        "match": "$color-gray"
+      },
+      {
+        "file": "components/territory/territory-overrides.scss",
+        "line": "$color-gray",
+        "line_number": 30,
+        "match": "$color-gray"
+      }
+    ],
+    "$color-gray-border": [
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "$color-gray-border",
+        "line_number": 204,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$color-gray-border",
+        "line_number": 73,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-gray-border",
+        "line_number": 17,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-gray-border",
+        "line_number": 247,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-gray-border",
+        "line_number": 248,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$color-gray-border",
+        "line_number": 61,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/trends/total-selector.scss",
+        "line": "$color-gray-border",
+        "line_number": 41,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-border",
+        "line_number": 115,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-border",
+        "line_number": 188,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-border",
+        "line_number": 295,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/trends-playlists/paginator.scss",
+        "line": "$color-gray-border",
+        "line_number": 6,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "$color-gray-border",
+        "line_number": 289,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "$color-gray-border",
+        "line_number": 294,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "$color-gray-border",
+        "line_number": 414,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "$color-gray-border",
+        "line_number": 121,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "components/month-range-selector/calendar.scss",
+        "line": "$color-gray-border",
+        "line_number": 14,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$color-gray-border",
+        "line_number": 210,
+        "match": "$color-gray-border"
+      }
+    ],
+    "$color-gray-grid": [
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-grid",
+        "line_number": 97,
+        "match": "$color-gray-grid"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-grid",
+        "line_number": 291,
+        "match": "$color-gray-grid"
+      },
+      {
+        "file": "components/grid/grid.scss",
+        "line": "$color-gray-grid",
+        "line_number": 53,
+        "match": "$color-gray-grid"
+      },
+      {
+        "file": "components/month-range-selector/calendar.scss",
+        "line": "$color-gray-grid",
+        "line_number": 8,
+        "match": "$color-gray-grid"
+      }
+    ],
+    "$color-gray-hard": [
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$color-gray-hard",
+        "line_number": 84,
+        "match": "$color-gray-hard"
+      }
+    ],
+    "$color-gray-heavy": [
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 153,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 160,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 176,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 16,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 49,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 122,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "barrels/trends/trends-product.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 50,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 176,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 203,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 127,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 135,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "components/empty-section/empty-section.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 21,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "components/filter-panel/filter-panel.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 11,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "components/grid/infinite-grid.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 92,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "components/shared-scss/login-form.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 10,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "components/shared-scss/login-form.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 67,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "components/shared-scss/login-form.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 117,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "styles/global.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 57,
+        "match": "$color-gray-heavy"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$color-gray-heavy",
+        "line_number": 217,
+        "match": "$color-gray-heavy"
+      }
+    ],
+    "$color-gray-light": [
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-gray-light",
+        "line_number": 100,
+        "match": "$color-gray-light"
+      },
+      {
+        "file": "barrels/product-view/product-delivery/redeliver-product-dialog.scss",
+        "line": "$color-gray-light",
+        "line_number": 14,
+        "match": "$color-gray-light"
+      },
+      {
+        "file": "barrels/product-view/product-delivery/redeliver-product-dialog.scss",
+        "line": "$color-gray-light",
+        "line_number": 15,
+        "match": "$color-gray-light"
+      },
+      {
+        "file": "barrels/product-view/product-delivery-history.scss",
+        "line": "$color-gray-light",
+        "line_number": 46,
+        "match": "$color-gray-light"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-light",
+        "line_number": 161,
+        "match": "$color-gray-light"
+      },
+      {
+        "file": "components/loader/loader.scss",
+        "line": "$color-gray-light",
+        "line_number": 26,
+        "match": "$color-gray-light"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$color-gray-light",
+        "line_number": 114,
+        "match": "$color-gray-light"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$color-gray-light",
+        "line_number": 221,
+        "match": "$color-gray-light"
+      }
+    ],
+    "$color-gray-normal": [
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "$color-gray-normal",
+        "line_number": 230,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "$color-gray-normal",
+        "line_number": 198,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "$color-gray-normal",
+        "line_number": 430,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-gray-normal",
+        "line_number": 49,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-gray-normal",
+        "line_number": 52,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-gray-normal",
+        "line_number": 238,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$color-gray-normal",
+        "line_number": 255,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$color-gray-normal",
+        "line_number": 357,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/player/play-asset-button.scss",
+        "line": "$color-gray-normal",
+        "line_number": 25,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/product-view/product-delivery-history.scss",
+        "line": "$color-gray-normal",
+        "line_number": 17,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/product-view/product-state-progress.scss",
+        "line": "$color-gray-normal",
+        "line_number": 43,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/product-view/product-state-progress.scss",
+        "line": "$color-gray-normal",
+        "line_number": 116,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$color-gray-normal",
+        "line_number": 48,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$color-gray-normal",
+        "line_number": 53,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/trends/total-selector.scss",
+        "line": "$color-gray-normal",
+        "line_number": 31,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/trends/trends-filter.scss",
+        "line": "$color-gray-normal",
+        "line_number": 75,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-normal",
+        "line_number": 210,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-normal",
+        "line_number": 225,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "$color-gray-normal",
+        "line_number": 72,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "$color-gray-normal",
+        "line_number": 82,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "components/search/search-input.scss",
+        "line": "$color-gray-normal",
+        "line_number": 21,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "components/shared-scss/login-form.scss",
+        "line": "$color-gray-normal",
+        "line_number": 59,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "components/slider/slider.scss",
+        "line": "$color-gray-normal",
+        "line_number": 22,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "styles/global.scss",
+        "line": "$color-gray-normal",
+        "line_number": 60,
+        "match": "$color-gray-normal"
+      }
+    ],
+    "$color-gray-normal-heavy": [
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 127,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 255,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 227,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "barrels/form/form.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 45,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 114,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 280,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "barrels/trends/trends-product.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 38,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "barrels/trends/trends-product.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 80,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 142,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 233,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "components/empty-section/empty-section.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 16,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "components/empty-section/empty-section.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 28,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "components/error-section/error-section.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 22,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "components/lists/title-list.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 45,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "components/lists/title-list.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 54,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "components/popup/popup.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 81,
+        "match": "$color-gray-normal-heavy"
+      },
+      {
+        "file": "components/section/section.scss",
+        "line": "$color-gray-normal-heavy",
+        "line_number": 60,
+        "match": "$color-gray-normal-heavy"
+      }
+    ],
+    "$color-gray-soft": [
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "$color-gray-soft",
+        "line_number": 249,
+        "match": "$color-gray-soft"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$color-gray-soft",
+        "line_number": 38,
+        "match": "$color-gray-soft"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-gray-soft",
+        "line_number": 13,
+        "match": "$color-gray-soft"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-gray-soft",
+        "line_number": 95,
+        "match": "$color-gray-soft"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-gray-soft",
+        "line_number": 150,
+        "match": "$color-gray-soft"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-gray-soft",
+        "line_number": 153,
+        "match": "$color-gray-soft"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-gray-soft",
+        "line_number": 282,
+        "match": "$color-gray-soft"
+      },
+      {
+        "file": "barrels/product-view/product-delivery/edit-delivery-instruction.scss",
+        "line": "$color-gray-soft",
+        "line_number": 23,
+        "match": "$color-gray-soft"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$color-gray-soft",
+        "line_number": 221,
+        "match": "$color-gray-soft"
+      },
+      {
+        "file": "components/circular-progressbar/circular-progressbar.scss",
+        "line": "$color-gray-soft",
+        "line_number": 21,
+        "match": "$color-gray-soft"
+      },
+      {
+        "file": "components/section/section.scss",
+        "line": "$color-gray-soft",
+        "line_number": 8,
+        "match": "$color-gray-soft"
+      },
+      {
+        "file": "components/shared-scss/login-form.scss",
+        "line": "$color-gray-soft",
+        "line_number": 85,
+        "match": "$color-gray-soft"
+      }
+    ],
+    "$color-gray-softer": [
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-gray-softer",
+        "line_number": 107,
+        "match": "$color-gray-softer"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$color-gray-softer",
+        "line_number": 264,
+        "match": "$color-gray-softer"
+      },
+      {
+        "file": "components/grid/grid.scss",
+        "line": "$color-gray-softer",
+        "line_number": 38,
+        "match": "$color-gray-softer"
+      },
+      {
+        "file": "components/grid/grid.scss",
+        "line": "$color-gray-softer",
+        "line_number": 39,
+        "match": "$color-gray-softer"
+      }
+    ],
+    "$color-gray-territory-override": [],
+    "$color-gray-tile": [],
+    "$color-green": [
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$color-green",
+        "line_number": 447,
+        "match": "$color-green"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-green",
+        "line_number": 221,
+        "match": "$color-green"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-green",
+        "line_number": 232,
+        "match": "$color-green"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-green",
+        "line_number": 233,
+        "match": "$color-green"
+      },
+      {
+        "file": "barrels/product-view/product-delivery/edit-delivery-instruction.scss",
+        "line": "$color-green",
+        "line_number": 52,
+        "match": "$color-green"
+      }
+    ],
+    "$color-main": [
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "$color-main",
+        "line_number": 105,
+        "match": "$color-main"
+      },
+      {
+        "file": "barrels/accounting/accounting-view.scss",
+        "line": "$color-main",
+        "line_number": 121,
+        "match": "$color-main"
+      },
+      {
+        "file": "barrels/accounting-sub-org/accounting-dashboard.scss",
+        "line": "$color-main",
+        "line_number": 138,
+        "match": "$color-main"
+      },
+      {
+        "file": "barrels/asset-details/metadata-translations/styles.scss",
+        "line": "$color-main",
+        "line_number": 23,
+        "match": "$color-main"
+      },
+      {
+        "file": "barrels/asset-details/metadata-translations/styles.scss",
+        "line": "$color-main",
+        "line_number": 24,
+        "match": "$color-main"
+      },
+      {
+        "file": "barrels/asset-details/metadata-translations/styles.scss",
+        "line": "$color-main",
+        "line_number": 27,
+        "match": "$color-main"
+      },
+      {
+        "file": "barrels/asset-details/metadata-translations/styles.scss",
+        "line": "$color-main",
+        "line_number": 31,
+        "match": "$color-main"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-main",
+        "line_number": 99,
+        "match": "$color-main"
+      },
+      {
+        "file": "barrels/product-view/metadata-translations/styles.scss",
+        "line": "$color-main",
+        "line_number": 23,
+        "match": "$color-main"
+      },
+      {
+        "file": "barrels/product-view/metadata-translations/styles.scss",
+        "line": "$color-main",
+        "line_number": 24,
+        "match": "$color-main"
+      },
+      {
+        "file": "barrels/product-view/metadata-translations/styles.scss",
+        "line": "$color-main",
+        "line_number": 27,
+        "match": "$color-main"
+      },
+      {
+        "file": "barrels/product-view/metadata-translations/styles.scss",
+        "line": "$color-main",
+        "line_number": 31,
+        "match": "$color-main"
+      },
+      {
+        "file": "components/empty-section/empty-section.scss",
+        "line": "$color-main",
+        "line_number": 11,
+        "match": "$color-main"
+      },
+      {
+        "file": "components/error-section/error-section.scss",
+        "line": "$color-main",
+        "line_number": 11,
+        "match": "$color-main"
+      },
+      {
+        "file": "components/territory/territories-detailed.scss",
+        "line": "$color-main",
+        "line_number": 68,
+        "match": "$color-main"
+      }
+    ],
+    "$color-main-darker": [],
+    "$color-main-light": [],
+    "$color-main-lighter": [],
+    "$color-main-saturated": [],
+    "$color-main-soft": [],
+    "$color-orange": [
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "$color-orange",
+        "line_number": 73,
+        "match": "$color-orange"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-orange",
+        "line_number": 193,
+        "match": "$color-orange"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "$color-orange",
+        "line_number": 134,
+        "match": "$color-orange"
+      }
+    ],
+    "$color-red": [
+      {
+        "file": "barrels/accounting-sub-org/accounting-dashboard.scss",
+        "line": "$color-red",
+        "line_number": 147,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "$color-red",
+        "line_number": 673,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$color-red",
+        "line_number": 443,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-red",
+        "line_number": 274,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/form/form-errors-snack.scss",
+        "line": "$color-red",
+        "line_number": 13,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/form/form.scss",
+        "line": "$color-red",
+        "line_number": 120,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/form/form.scss",
+        "line": "$color-red",
+        "line_number": 124,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/form/form.scss",
+        "line": "$color-red",
+        "line_number": 128,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/form/form.scss",
+        "line": "$color-red",
+        "line_number": 140,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-red",
+        "line_number": 167,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$color-red",
+        "line_number": 185,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/organization/organization-view.scss",
+        "line": "$color-red",
+        "line_number": 117,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/product-view/product-delivery/edit-delivery-instruction.scss",
+        "line": "$color-red",
+        "line_number": 48,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/trends/trend-percentage-indicator.scss",
+        "line": "$color-red",
+        "line_number": 4,
+        "match": "$color-red"
+      },
+      {
+        "file": "barrels/user/user-view.scss",
+        "line": "$color-red",
+        "line_number": 65,
+        "match": "$color-red"
+      },
+      {
+        "file": "components/error-section/error-section.scss",
+        "line": "$color-red",
+        "line_number": 16,
+        "match": "$color-red"
+      },
+      {
+        "file": "components/input/input.scss",
+        "line": "$color-red",
+        "line_number": 80,
+        "match": "$color-red"
+      }
+    ],
+    "$color-white": [
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$color-white",
+        "line_number": 13,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-white",
+        "line_number": 30,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-white",
+        "line_number": 54,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-white",
+        "line_number": 59,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-white",
+        "line_number": 68,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$color-white",
+        "line_number": 113,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$color-white",
+        "line_number": 155,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$color-white",
+        "line_number": 183,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$color-white",
+        "line_number": 220,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$color-white",
+        "line_number": 246,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$color-white",
+        "line_number": 253,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/trends/total-selector.scss",
+        "line": "$color-white",
+        "line_number": 20,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-white",
+        "line_number": 182,
+        "match": "$color-white"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "$color-white",
+        "line_number": 12,
+        "match": "$color-white"
+      },
+      {
+        "file": "components/grid/infinite-grid.scss",
+        "line": "$color-white",
+        "line_number": 87,
+        "match": "$color-white"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$color-white",
+        "line_number": 69,
+        "match": "$color-white"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$color-white",
+        "line_number": 79,
+        "match": "$color-white"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$color-white",
+        "line_number": 84,
+        "match": "$color-white"
+      }
+    ],
+    "$cotton-candy": [],
+    "$forest-green": [],
+    "$granny-apple-color": [],
+    "$granny-smith-apple": [],
+    "$grey": [],
+    "$gun-metal-grey": [
+      {
+        "file": "barrels/asset-details/metadata-translations/styles.scss",
+        "line": "$gun-metal-grey",
+        "line_number": 32,
+        "match": "$gun-metal-grey"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$gun-metal-grey",
+        "line_number": 402,
+        "match": "$gun-metal-grey"
+      },
+      {
+        "file": "barrels/product-view/metadata-translations/styles.scss",
+        "line": "$gun-metal-grey",
+        "line_number": 32,
+        "match": "$gun-metal-grey"
+      }
+    ],
+    "$hero-blue": [],
+    "$hero-green": [
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "$hero-green",
+        "line_number": 248,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$hero-green",
+        "line_number": 66,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$hero-green",
+        "line_number": 167,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$hero-green",
+        "line_number": 214,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$hero-green",
+        "line_number": 232,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$hero-green",
+        "line_number": 263,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$hero-green",
+        "line_number": 264,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/form/input-fields/input-fields.scss",
+        "line": "$hero-green",
+        "line_number": 137,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$hero-green",
+        "line_number": 59,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$hero-green",
+        "line_number": 171,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$hero-green",
+        "line_number": 225,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$hero-green",
+        "line_number": 141,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$hero-green",
+        "line_number": 250,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$hero-green",
+        "line_number": 251,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$hero-green",
+        "line_number": 332,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$hero-green",
+        "line_number": 435,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$hero-green",
+        "line_number": 513,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$hero-green",
+        "line_number": 526,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$hero-green",
+        "line_number": 535,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/product-view/product-delivery/edit-delivery-instruction.scss",
+        "line": "$hero-green",
+        "line_number": 22,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/product-view/product-state-progress.scss",
+        "line": "$hero-green",
+        "line_number": 34,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/trends/trend-percentage-indicator.scss",
+        "line": "$hero-green",
+        "line_number": 32,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/trends/trend-percentage-indicator.scss",
+        "line": "$hero-green",
+        "line_number": 36,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/trends/trends-filter.scss",
+        "line": "$hero-green",
+        "line_number": 58,
+        "match": "$hero-green"
+      },
+      {
+        "file": "barrels/webhooks/webhooks.scss",
+        "line": "$hero-green",
+        "line_number": 127,
+        "match": "$hero-green"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$hero-green",
+        "line_number": 15,
+        "match": "$hero-green"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$hero-green",
+        "line_number": 16,
+        "match": "$hero-green"
+      }
+    ],
+    "$iris-blue": [],
+    "$jello-yellow": [],
+    "$lilac-bush": [],
+    "$lime-green": [],
+    "$lochmara": [],
+    "$lotus": [],
+    "$macaroni-and-cheese": [],
+    "$material-grey": [
+      {
+        "file": "barrels/accounting-sub-org/accounting-dashboard.scss",
+        "line": "$material-grey",
+        "line_number": 48,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/accounting-sub-org/accounting-dashboard.scss",
+        "line": "$material-grey",
+        "line_number": 91,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/artist-view/metadata-translations/styles.scss",
+        "line": "$material-grey",
+        "line_number": 22,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/artist-view/metadata-translations/styles.scss",
+        "line": "$material-grey",
+        "line_number": 30,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/artist-view/metadata-translations/styles.scss",
+        "line": "$material-grey",
+        "line_number": 35,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/asset-details/metadata-translations/styles.scss",
+        "line": "$material-grey",
+        "line_number": 11,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/asset-details/metadata-translations/styles.scss",
+        "line": "$material-grey",
+        "line_number": 19,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/asset-details/metadata-translations/styles.scss",
+        "line": "$material-grey",
+        "line_number": 38,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/labels/labels-view.scss",
+        "line": "$material-grey",
+        "line_number": 15,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/labels/labels-view.scss",
+        "line": "$material-grey",
+        "line_number": 54,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "$material-grey",
+        "line_number": 338,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/metadata-translations-common/dialog-styles.scss",
+        "line": "$material-grey",
+        "line_number": 22,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/metadata-translations-common/dialog-styles.scss",
+        "line": "$material-grey",
+        "line_number": 30,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/metadata-translations-common/dialog-styles.scss",
+        "line": "$material-grey",
+        "line_number": 35,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/metadata-translations-common/translations-grid-base.scss",
+        "line": "$material-grey",
+        "line_number": 14,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/organization/organization-view.scss",
+        "line": "$material-grey",
+        "line_number": 35,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/organization/organization-view.scss",
+        "line": "$material-grey",
+        "line_number": 42,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/organization/organization-view.scss",
+        "line": "$material-grey",
+        "line_number": 79,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$material-grey",
+        "line_number": 483,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/product-view/metadata-translations/styles.scss",
+        "line": "$material-grey",
+        "line_number": 11,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/product-view/metadata-translations/styles.scss",
+        "line": "$material-grey",
+        "line_number": 19,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/product-view/metadata-translations/styles.scss",
+        "line": "$material-grey",
+        "line_number": 38,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/product-view/product-header/product-header.scss",
+        "line": "$material-grey",
+        "line_number": 98,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/product-view/product-header/product-header.scss",
+        "line": "$material-grey",
+        "line_number": 125,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/product-view/product-header/product-header.scss",
+        "line": "$material-grey",
+        "line_number": 218,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/product-view/product-territory.scss",
+        "line": "$material-grey",
+        "line_number": 21,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$material-grey",
+        "line_number": 378,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$material-grey",
+        "line_number": 503,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/trends/total-selector.scss",
+        "line": "$material-grey",
+        "line_number": 36,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/user/user-view.scss",
+        "line": "$material-grey",
+        "line_number": 42,
+        "match": "$material-grey"
+      },
+      {
+        "file": "barrels/webhooks/webhooks.scss",
+        "line": "$material-grey",
+        "line_number": 107,
+        "match": "$material-grey"
+      },
+      {
+        "file": "components/chart/line/line-chart.scss",
+        "line": "$material-grey",
+        "line_number": 13,
+        "match": "$material-grey"
+      },
+      {
+        "file": "components/chart/tooltip.scss",
+        "line": "$material-grey",
+        "line_number": 20,
+        "match": "$material-grey"
+      },
+      {
+        "file": "components/grid/infinite-grid.scss",
+        "line": "$material-grey",
+        "line_number": 52,
+        "match": "$material-grey"
+      },
+      {
+        "file": "components/search/search.scss",
+        "line": "$material-grey",
+        "line_number": 42,
+        "match": "$material-grey"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$material-grey",
+        "line_number": 45,
+        "match": "$material-grey"
+      },
+      {
+        "file": "components/territory/territory-overrides.scss",
+        "line": "$material-grey",
+        "line_number": 35,
+        "match": "$material-grey"
+      }
+    ],
+    "$material-grid-bg-grey": [
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 221,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 232,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 529,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 416,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/entity/tags/entity-tags.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 28,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/metadata-translations-common/translations-grid-base.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 10,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 158,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 173,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 316,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 462,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/product-view/product-header/product-header.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 104,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/product-view/product-header/product-header.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 148,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 489,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 494,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 179,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 223,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "components/chart/pie/pie-chart.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 6,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "components/grid/infinite-grid.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 49,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 104,
+        "match": "$material-grid-bg-grey"
+      },
+      {
+        "file": "components/type-indicator/type-indicator.scss",
+        "line": "$material-grid-bg-grey",
+        "line_number": 10,
+        "match": "$material-grid-bg-grey"
+      }
+    ],
+    "$material-light-grey": [
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "$material-light-grey",
+        "line_number": 540,
+        "match": "$material-light-grey"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$material-light-grey",
+        "line_number": 364,
+        "match": "$material-light-grey"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$material-light-grey",
+        "line_number": 495,
+        "match": "$material-light-grey"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$material-light-grey",
+        "line_number": 23,
+        "match": "$material-light-grey"
+      },
+      {
+        "file": "components/chart/tooltip.scss",
+        "line": "$material-light-grey",
+        "line_number": 19,
+        "match": "$material-light-grey"
+      }
+    ],
+    "$material-medium-light-grey": [
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$material-medium-light-grey",
+        "line_number": 406,
+        "match": "$material-medium-light-grey"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$material-medium-light-grey",
+        "line_number": 29,
+        "match": "$material-medium-light-grey"
+      },
+      {
+        "file": "components/input/input.scss",
+        "line": "$material-medium-light-grey",
+        "line_number": 51,
+        "match": "$material-medium-light-grey"
+      },
+      {
+        "file": "components/input/input.scss",
+        "line": "$material-medium-light-grey",
+        "line_number": 66,
+        "match": "$material-medium-light-grey"
+      },
+      {
+        "file": "components/input/input.scss",
+        "line": "$material-medium-light-grey",
+        "line_number": 69,
+        "match": "$material-medium-light-grey"
+      }
+    ],
+    "$matte-black": [],
+    "$mona-lisa": [],
+    "$not-millenial-pink": [
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "$not-millenial-pink",
+        "line_number": 214,
+        "match": "$not-millenial-pink"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$not-millenial-pink",
+        "line_number": 240,
+        "match": "$not-millenial-pink"
+      },
+      {
+        "file": "barrels/product-view/product-actions-select/product-actions-select.scss",
+        "line": "$not-millenial-pink",
+        "line_number": 189,
+        "match": "$not-millenial-pink"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$not-millenial-pink",
+        "line_number": 103,
+        "match": "$not-millenial-pink"
+      },
+      {
+        "file": "barrels/trends/trend-percentage-indicator.scss",
+        "line": "$not-millenial-pink",
+        "line_number": 12,
+        "match": "$not-millenial-pink"
+      },
+      {
+        "file": "barrels/trends/trend-percentage-indicator.scss",
+        "line": "$not-millenial-pink",
+        "line_number": 28,
+        "match": "$not-millenial-pink"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$not-millenial-pink",
+        "line_number": 8,
+        "match": "$not-millenial-pink"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$not-millenial-pink",
+        "line_number": 9,
+        "match": "$not-millenial-pink"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$not-millenial-pink",
+        "line_number": 20,
+        "match": "$not-millenial-pink"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$not-millenial-pink",
+        "line_number": 21,
+        "match": "$not-millenial-pink"
+      }
+    ],
+    "$perfume": [],
+    "$persian-pink": [],
+    "$primrose": [],
+    "$pumpkin": [],
+    "$purple-rain": [],
+    "$quicksand": [],
+    "$rio-grande": [],
+    "$tango-orange": [
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "$tango-orange",
+        "line_number": 41,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions-dialog-buttons/styles.scss",
+        "line": "$tango-orange",
+        "line_number": 30,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$tango-orange",
+        "line_number": 236,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/bulk-actions/bulk-main-component.scss",
+        "line": "$tango-orange",
+        "line_number": 493,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$tango-orange",
+        "line_number": 225,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$tango-orange",
+        "line_number": 240,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$tango-orange",
+        "line_number": 241,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$tango-orange",
+        "line_number": 257,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$tango-orange",
+        "line_number": 258,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/form/form.scss",
+        "line": "$tango-orange",
+        "line_number": 65,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/form/form.scss",
+        "line": "$tango-orange",
+        "line_number": 73,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/form/form.scss",
+        "line": "$tango-orange",
+        "line_number": 169,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/product-view/product-actions-select/product-actions-select.scss",
+        "line": "$tango-orange",
+        "line_number": 168,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/product-view/product-delivery/product-delivery.scss",
+        "line": "$tango-orange",
+        "line_number": 12,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/product-view/product-state-progress.scss",
+        "line": "$tango-orange",
+        "line_number": 51,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$tango-orange",
+        "line_number": 57,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$tango-orange",
+        "line_number": 91,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$tango-orange",
+        "line_number": 614,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/webhooks/webhooks.scss",
+        "line": "$tango-orange",
+        "line_number": 123,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "components/box/box.scss",
+        "line": "$tango-orange",
+        "line_number": 65,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "components/feedback/feedback-button.scss",
+        "line": "$tango-orange",
+        "line_number": 14,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "components/missing-fields/missing-fields.scss",
+        "line": "$tango-orange",
+        "line_number": 10,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$tango-orange",
+        "line_number": 29,
+        "match": "$tango-orange"
+      }
+    ],
+    "$tropical-blue": [],
+    "$very-light-grey": [],
+    "$violet": []
+  },
+  "functions": {
+    "": [],
+    "solidify-color": [
+      {
+        "file": "components/badge/badge.scss",
+        "line": "solidify-color",
+        "line_number": 7,
+        "match": "solidify-color"
+      }
+    ]
+  },
+  "mixins": {}
+}

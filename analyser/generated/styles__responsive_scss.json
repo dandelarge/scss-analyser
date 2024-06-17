@@ -1,0 +1,600 @@
+{
+  "variables": {
+    "": [],
+    "$device-lg": [
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "$device-lg",
+        "line_number": 560,
+        "match": "$device-lg"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-lg",
+        "line_number": 28,
+        "match": "$device-lg"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-lg",
+        "line_number": 32,
+        "match": "$device-lg"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-lg",
+        "line_number": 55,
+        "match": "$device-lg"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-lg",
+        "line_number": 59,
+        "match": "$device-lg"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$device-lg",
+        "line_number": 215,
+        "match": "$device-lg"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$device-lg",
+        "line_number": 219,
+        "match": "$device-lg"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-lg",
+        "line_number": 61,
+        "match": "$device-lg"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-lg",
+        "line_number": 139,
+        "match": "$device-lg"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-lg",
+        "line_number": 159,
+        "match": "$device-lg"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-lg",
+        "line_number": 286,
+        "match": "$device-lg"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-lg",
+        "line_number": 292,
+        "match": "$device-lg"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-lg",
+        "line_number": 322,
+        "match": "$device-lg"
+      }
+    ],
+    "$device-md": [
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-md",
+        "line_number": 32,
+        "match": "$device-md"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-md",
+        "line_number": 36,
+        "match": "$device-md"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-md",
+        "line_number": 59,
+        "match": "$device-md"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$device-md",
+        "line_number": 219,
+        "match": "$device-md"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$device-md",
+        "line_number": 223,
+        "match": "$device-md"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-md",
+        "line_number": 57,
+        "match": "$device-md"
+      },
+      {
+        "file": "barrels/product-view/product-menu-header.scss",
+        "line": "$device-md",
+        "line_number": 22,
+        "match": "$device-md"
+      },
+      {
+        "file": "barrels/product-view/product-menu-header.scss",
+        "line": "$device-md",
+        "line_number": 32,
+        "match": "$device-md"
+      },
+      {
+        "file": "barrels/product-view/product-menu-header.scss",
+        "line": "$device-md",
+        "line_number": 46,
+        "match": "$device-md"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-md",
+        "line_number": 135,
+        "match": "$device-md"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-md",
+        "line_number": 37,
+        "match": "$device-md"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-md",
+        "line_number": 44,
+        "match": "$device-md"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-md",
+        "line_number": 85,
+        "match": "$device-md"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-md",
+        "line_number": 90,
+        "match": "$device-md"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-md",
+        "line_number": 155,
+        "match": "$device-md"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-md",
+        "line_number": 280,
+        "match": "$device-md"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-md",
+        "line_number": 286,
+        "match": "$device-md"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-md",
+        "line_number": 316,
+        "match": "$device-md"
+      }
+    ],
+    "$device-sm": [
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "$device-sm",
+        "line_number": 374,
+        "match": "$device-sm"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "$device-sm",
+        "line_number": 382,
+        "match": "$device-sm"
+      },
+      {
+        "file": "barrels/asset-details/asset-details.scss",
+        "line": "$device-sm",
+        "line_number": 590,
+        "match": "$device-sm"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-sm",
+        "line_number": 49,
+        "match": "$device-sm"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-sm",
+        "line_number": 53,
+        "match": "$device-sm"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-sm",
+        "line_number": 75,
+        "match": "$device-sm"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-sm",
+        "line_number": 96,
+        "match": "$device-sm"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$device-sm",
+        "line_number": 144,
+        "match": "$device-sm"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$device-sm",
+        "line_number": 155,
+        "match": "$device-sm"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$device-sm",
+        "line_number": 117,
+        "match": "$device-sm"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-sm",
+        "line_number": 23,
+        "match": "$device-sm"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-sm",
+        "line_number": 42,
+        "match": "$device-sm"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-sm",
+        "line_number": 127,
+        "match": "$device-sm"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-sm",
+        "line_number": 131,
+        "match": "$device-sm"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-sm",
+        "line_number": 168,
+        "match": "$device-sm"
+      },
+      {
+        "file": "components/popup/popup.scss",
+        "line": "$device-sm",
+        "line_number": 42,
+        "match": "$device-sm"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-sm",
+        "line_number": 30,
+        "match": "$device-sm"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-sm",
+        "line_number": 37,
+        "match": "$device-sm"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-sm",
+        "line_number": 80,
+        "match": "$device-sm"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-sm",
+        "line_number": 85,
+        "match": "$device-sm"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-sm",
+        "line_number": 151,
+        "match": "$device-sm"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-sm",
+        "line_number": 274,
+        "match": "$device-sm"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-sm",
+        "line_number": 280,
+        "match": "$device-sm"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-sm",
+        "line_number": 310,
+        "match": "$device-sm"
+      }
+    ],
+    "$device-xl": [
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-xl",
+        "line_number": 24,
+        "match": "$device-xl"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-xl",
+        "line_number": 28,
+        "match": "$device-xl"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-xl",
+        "line_number": 51,
+        "match": "$device-xl"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-xl",
+        "line_number": 55,
+        "match": "$device-xl"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$device-xl",
+        "line_number": 211,
+        "match": "$device-xl"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$device-xl",
+        "line_number": 215,
+        "match": "$device-xl"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xl",
+        "line_number": 51,
+        "match": "$device-xl"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xl",
+        "line_number": 163,
+        "match": "$device-xl"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xl",
+        "line_number": 292,
+        "match": "$device-xl"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xl",
+        "line_number": 298,
+        "match": "$device-xl"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xl",
+        "line_number": 328,
+        "match": "$device-xl"
+      }
+    ],
+    "$device-xs": [
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-xs",
+        "line_number": 34,
+        "match": "$device-xs"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-xs",
+        "line_number": 42,
+        "match": "$device-xs"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-xs",
+        "line_number": 70,
+        "match": "$device-xs"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-xs",
+        "line_number": 75,
+        "match": "$device-xs"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-xs",
+        "line_number": 88,
+        "match": "$device-xs"
+      },
+      {
+        "file": "barrels/player/player-container.scss",
+        "line": "$device-xs",
+        "line_number": 96,
+        "match": "$device-xs"
+      },
+      {
+        "file": "barrels/product-view/product-view.scss",
+        "line": "$device-xs",
+        "line_number": 135,
+        "match": "$device-xs"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-xs",
+        "line_number": 16,
+        "match": "$device-xs"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-xs",
+        "line_number": 23,
+        "match": "$device-xs"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-xs",
+        "line_number": 34,
+        "match": "$device-xs"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-xs",
+        "line_number": 42,
+        "match": "$device-xs"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-xs",
+        "line_number": 123,
+        "match": "$device-xs"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-xs",
+        "line_number": 127,
+        "match": "$device-xs"
+      },
+      {
+        "file": "components/player/player.scss",
+        "line": "$device-xs",
+        "line_number": 178,
+        "match": "$device-xs"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xs",
+        "line_number": 24,
+        "match": "$device-xs"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xs",
+        "line_number": 30,
+        "match": "$device-xs"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xs",
+        "line_number": 75,
+        "match": "$device-xs"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xs",
+        "line_number": 80,
+        "match": "$device-xs"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xs",
+        "line_number": 268,
+        "match": "$device-xs"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xs",
+        "line_number": 274,
+        "match": "$device-xs"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xs",
+        "line_number": 304,
+        "match": "$device-xs"
+      }
+    ],
+    "$device-xxl": [
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xxl",
+        "line_number": 58,
+        "match": "$device-xxl"
+      }
+    ],
+    "$device-xxs": [],
+    "$device-xxxl": [
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-xxxl",
+        "line_number": 20,
+        "match": "$device-xxxl"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-xxxl",
+        "line_number": 24,
+        "match": "$device-xxxl"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-xxxl",
+        "line_number": 47,
+        "match": "$device-xxxl"
+      },
+      {
+        "file": "barrels/dsp-connections/dsp-connections.scss",
+        "line": "$device-xxxl",
+        "line_number": 51,
+        "match": "$device-xxxl"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$device-xxxl",
+        "line_number": 207,
+        "match": "$device-xxxl"
+      },
+      {
+        "file": "barrels/partners/partners.scss",
+        "line": "$device-xxxl",
+        "line_number": 211,
+        "match": "$device-xxxl"
+      },
+      {
+        "file": "styles/mixins.scss",
+        "line": "$device-xxxl",
+        "line_number": 66,
+        "match": "$device-xxxl"
+      }
+    ],
+    "$lg": [],
+    "$md": [],
+    "$sm": [],
+    "$xl": [],
+    "$xs": [],
+    "$xxl": [],
+    "$xxs": [],
+    "$xxxl": []
+  },
+  "functions": {},
+  "mixins": {}
+}

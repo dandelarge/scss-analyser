@@ -7,13 +7,17 @@ import (
 	"net/http"
 )
 
-func StartServer() {
+func StartServer(port string) {
 	component := templates.Index()
-	fs := http.FileServer(http.Dir("webapp/static"))
+	fs := http.FileServer(http.Dir("./webapp/static"))
 	http.Handle("/static/", http.StripPrefix("/static/", fs))
 	http.Handle("/", templ.Handler(component))
 
-	fmt.Println("Listening on :4321")
+	fmt.Println("Server started at http://localhost:" + port)
 
-	http.ListenAndServe(":4321", nil)
+	error := http.ListenAndServe(":"+port, nil)
+
+	if error != nil {
+		fmt.Println("Error starting server: ", error)
+	}
 }

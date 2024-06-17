@@ -2,6 +2,10 @@ module github.com/IndependentIP/muse-scss-analyser
 
 go 1.22.3
 
+require tree-sitter-scss v0.0.0
+
+replace tree-sitter-scss => ../tree-sitter-scss/bindings/go
+
 require (
 	dario.cat/mergo v1.0.0 // indirect
 	github.com/a-h/templ v0.2.707 // indirect
@@ -20,6 +24,7 @@ require (
 	github.com/mitchellh/hashstructure v1.1.0 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.1.1 // indirect
+	github.com/smacker/go-tree-sitter v0.0.0-20240614082054-0ac8d7d185ec // indirect
 	github.com/spf13/afero v1.11.0 // indirect
 	github.com/spf13/cast v1.6.0 // indirect
 	github.com/tdewolff/parse/v2 v2.7.12 // indirect

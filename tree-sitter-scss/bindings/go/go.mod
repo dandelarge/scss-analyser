@@ -1,4 +1,4 @@
-module github.com/IndependentIp/muse-scss-analyser/tree-sitter-scss
+module tree-sitter-scss
 
 go 1.22
 

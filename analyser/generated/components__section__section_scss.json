@@ -1,0 +1,10 @@
+{
+  "variables": {
+    "": [],
+    "$section-bc": [],
+    "$section-container-bg": [],
+    "$section-header-bg": []
+  },
+  "functions": {},
+  "mixins": {}
+}
