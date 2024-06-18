@@ -6,7 +6,7 @@ The dream is to get rid of node-sass. For that we need to know what is being use
 This tool finds all the imports of SCSS files in Muse. Counts them, and shows the relationships between files in the visualisation tool.
 
 ## Prerequisites
-- Golang 1.16
+- Golang 1.22
 - The Muse project (it must be in your home directory) find it in the [Muse repository](https://github.com/IndependentIP/muse)
 
 ## How to run the analyser
