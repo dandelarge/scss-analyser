@@ -1,4 +1,6 @@
 # Muse SCSS Analyser
+![Screenshot 2024-06-18 at 12 13 03](https://github.com/IndependentIP/muse-scss-analyser/assets/83584112/96266861-3ea5-4eaf-a741-929073ace965)
+![Screenshot 2024-06-18 at 12 17 25](https://github.com/IndependentIP/muse-scss-analyser/assets/83584112/4cae0989-4a84-4d59-bd3c-ea449a74ad2f)
 
 The dream is to get rid of node-sass. For that we need to know what is being used and where, inside Muse.
 This tool finds all the imports of SCSS files in Muse. Counts them, and shows the relationships between files in the visualisation tool.
