@@ -18,7 +18,9 @@ func SearchFiles(folderName string) {
 	fs := NewFileSearcher()
 
 	results := MakeResultsFromFileData(&files, fs)
-	resultsFileName := fmt.Sprintf("results_%s.json", time.Now())
+	now := time.Now()
+	formattedDate := fmt.Sprintf("__%d-%d-%d_%d-%d-%d", now.Year(), now.Month(), now.Day(), now.Hour(), now.Minute(), now.Second())
+	resultsFileName := fmt.Sprintf("generated/results%s.json", formattedDate)
 	WriteResultsToFile(results, resultsFileName)
 
 	fmt.Println("Finished finding imports!!")
