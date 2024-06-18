@@ -56,6 +56,30 @@ func MakeResultsFromFileData(fileData *[]FileData, fileSearcher *FileSearcher) R
 	return results
 }
 
+func MakeD3Data(results Results) D3Data {
+	nodes := []Node{}
+	links := []Link{}
+
+	for _, result := range results {
+		nodes = append(nodes, Node{
+			Id:   result.File,
+			Name: result.File,
+		})
+
+		for _, importedBy := range result.ImportedBy {
+			links = append(links, Link{
+				Source: importedBy,
+				Target: result.File,
+			})
+		}
+	}
+
+	return D3Data{
+		Nodes: nodes,
+		Links: links,
+	}
+}
+
 func MakeFileStructure() FileStructure {
 	return FileStructure{
 		Variables: map[string][]Match{},

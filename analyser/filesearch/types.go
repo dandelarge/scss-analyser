@@ -29,3 +29,18 @@ type FileData struct {
 	file os.DirEntry
 	path string
 }
+
+type Node struct {
+	Id   string `json:"id"`
+	Name string `json:"name"`
+}
+
+type Link struct {
+	Source string `json:"source"`
+	Target string `json:"target"`
+}
+
+type D3Data struct {
+	Nodes []Node `json:"nodes"`
+	Links []Link `json:"links"`
+}

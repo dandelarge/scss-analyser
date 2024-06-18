@@ -1,0 +1,4518 @@
+{
+  "nodes": [
+    {
+      "id": "barrels/asset-details/audio-file/header-upload-progress.jsx",
+      "name": "barrels/asset-details/audio-file/header-upload-progress.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-actions-select/copy-fields-dialog.jsx",
+      "name": "barrels/product-view/product-actions-select/copy-fields-dialog.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery-instructions.jsx",
+      "name": "barrels/product-view/product-delivery-instructions.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/spotify-user-access-type.jsx",
+      "name": "barrels/trends-playlists/widgets/spotify-user-access-type.jsx"
+    },
+    {
+      "id": "components/pricing/custom-pricing-table.jsx",
+      "name": "components/pricing/custom-pricing-table.jsx"
+    },
+    {
+      "id": "barrels/artist-view/artist-identifiers-list.jsx",
+      "name": "barrels/artist-view/artist-identifiers-list.jsx"
+    },
+    {
+      "id": "barrels/custom-report/row-options-popover.jsx",
+      "name": "barrels/custom-report/row-options-popover.jsx"
+    },
+    {
+      "id": "barrels/partners/partner-details.jsx",
+      "name": "barrels/partners/partner-details.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/trends-playlists-detail.jsx",
+      "name": "barrels/trends-playlists/trends-playlists-detail.jsx"
+    },
+    {
+      "id": "components/pricing/add-product-pricing-table.jsx",
+      "name": "components/pricing/add-product-pricing-table.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/playlist-filter-toggle.jsx",
+      "name": "barrels/trends-playlists/widgets/playlist-filter-toggle.jsx"
+    },
+    {
+      "id": "components/ajax-preloader/ajax-preloader.jsx",
+      "name": "components/ajax-preloader/ajax-preloader.jsx"
+    },
+    {
+      "id": "components/scroll-to-top/scroll-to-top.jsx",
+      "name": "components/scroll-to-top/scroll-to-top.jsx"
+    },
+    {
+      "id": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions/helpers.js",
+      "name": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions/helpers.js"
+    },
+    {
+      "id": "barrels/bulk-actions/product/bulk-config-modal-product.jsx",
+      "name": "barrels/bulk-actions/product/bulk-config-modal-product.jsx"
+    },
+    {
+      "id": "barrels/organization/organization-view.scss",
+      "name": "barrels/organization/organization-view.scss"
+    },
+    {
+      "id": "barrels/product-view/product-actions-select/product-actions-select.jsx",
+      "name": "barrels/product-view/product-actions-select/product-actions-select.jsx"
+    },
+    {
+      "id": "barrels/product-view/territory-based-release-date/territory-based-release-form.jsx",
+      "name": "barrels/product-view/territory-based-release-date/territory-based-release-form.jsx"
+    },
+    {
+      "id": "barrels/partners/partner-item.tsx",
+      "name": "barrels/partners/partner-item.tsx"
+    },
+    {
+      "id": "barrels/product-view/product-info.jsx",
+      "name": "barrels/product-view/product-info.jsx"
+    },
+    {
+      "id": "barrels/trends/trends-filter.jsx",
+      "name": "barrels/trends/trends-filter.jsx"
+    },
+    {
+      "id": "components/empty-section/empty-section.jsx",
+      "name": "components/empty-section/empty-section.jsx"
+    },
+    {
+      "id": "components/section/editable-section.jsx",
+      "name": "components/section/editable-section.jsx"
+    },
+    {
+      "id": "styles/themes.scss",
+      "name": "styles/themes.scss"
+    },
+    {
+      "id": "barrels/product-view/context-accept-product.jsx",
+      "name": "barrels/product-view/context-accept-product.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/edit-delivery-instruction.scss",
+      "name": "barrels/product-view/product-delivery/edit-delivery-instruction.scss"
+    },
+    {
+      "id": "barrels/product-view/styles/fonts.scss",
+      "name": "barrels/product-view/styles/fonts.scss"
+    },
+    {
+      "id": "components/badge/badge.jsx",
+      "name": "components/badge/badge.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/play-sources.jsx",
+      "name": "barrels/trends-playlists/widgets/play-sources.jsx"
+    },
+    {
+      "id": "components/error-section/error-section.jsx",
+      "name": "components/error-section/error-section.jsx"
+    },
+    {
+      "id": "components/lightbox/lightbox.scss",
+      "name": "components/lightbox/lightbox.scss"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/edit-delivery-instruction-dialog.jsx",
+      "name": "barrels/product-view/product-delivery/edit-delivery-instruction-dialog.jsx"
+    },
+    {
+      "id": "barrels/webhooks/webhooks-destination-configuration.jsx",
+      "name": "barrels/webhooks/webhooks-destination-configuration.jsx"
+    },
+    {
+      "id": "containers/application.jsx",
+      "name": "containers/application.jsx"
+    },
+    {
+      "id": "containers/application.scss",
+      "name": "containers/application.scss"
+    },
+    {
+      "id": "barrels/artist-view/metadata-translations/styles.scss",
+      "name": "barrels/artist-view/metadata-translations/styles.scss"
+    },
+    {
+      "id": "barrels/submitted-products/submitted-products-actions/reject-products-dialog.jsx",
+      "name": "barrels/submitted-products/submitted-products-actions/reject-products-dialog.jsx"
+    },
+    {
+      "id": "barrels/trends/trends.jsx",
+      "name": "barrels/trends/trends.jsx"
+    },
+    {
+      "id": "barrels/user/user-form.tsx",
+      "name": "barrels/user/user-form.tsx"
+    },
+    {
+      "id": "components/chart/bar/play-duration-bar-chart.jsx",
+      "name": "components/chart/bar/play-duration-bar-chart.jsx"
+    },
+    {
+      "id": "components/player/player.jsx",
+      "name": "components/player/player.jsx"
+    },
+    {
+      "id": "barrels/accounting-sub-org/accounting-entity-dashboard.jsx",
+      "name": "barrels/accounting-sub-org/accounting-entity-dashboard.jsx"
+    },
+    {
+      "id": "barrels/asset-list/asset-list.scss",
+      "name": "barrels/asset-list/asset-list.scss"
+    },
+    {
+      "id": "barrels/help/help-slider.scss",
+      "name": "barrels/help/help-slider.scss"
+    },
+    {
+      "id": "components/dialog/dialog.scss",
+      "name": "components/dialog/dialog.scss"
+    },
+    {
+      "id": "components/territory/territories-detailed.scss",
+      "name": "components/territory/territories-detailed.scss"
+    },
+    {
+      "id": "barrels/custom-report/custom-report-chart.jsx",
+      "name": "barrels/custom-report/custom-report-chart.jsx"
+    },
+    {
+      "id": "styles/fonts.scss",
+      "name": "styles/fonts.scss"
+    },
+    {
+      "id": "barrels/partners/partner-details-menu.jsx",
+      "name": "barrels/partners/partner-details-menu.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/dsp-groups-selector.jsx",
+      "name": "barrels/product-view/product-delivery/dsp-groups-selector.jsx"
+    },
+    {
+      "id": "barrels/trends/total-selector.jsx",
+      "name": "barrels/trends/total-selector.jsx"
+    },
+    {
+      "id": "barrels/custom-report/custom-report-page.jsx",
+      "name": "barrels/custom-report/custom-report-page.jsx"
+    },
+    {
+      "id": "barrels/trends/trends-product.scss",
+      "name": "barrels/trends/trends-product.scss"
+    },
+    {
+      "id": "barrels/accounting-sub-org/accounting-menu.jsx",
+      "name": "barrels/accounting-sub-org/accounting-menu.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/trends-playlists-deezer.jsx",
+      "name": "barrels/trends-playlists/trends-playlists-deezer.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-actions-select/product-asset-list.jsx",
+      "name": "barrels/product-view/product-actions-select/product-asset-list.jsx"
+    },
+    {
+      "id": "components/image/image.scss",
+      "name": "components/image/image.scss"
+    },
+    {
+      "id": "barrels/organization/sub-organization-list.tsx",
+      "name": "barrels/organization/sub-organization-list.tsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/shazam-totals.tsx",
+      "name": "barrels/trends-playlists/widgets/shazam-totals.tsx"
+    },
+    {
+      "id": "components/tooltip/tooltip.scss",
+      "name": "components/tooltip/tooltip.scss"
+    },
+    {
+      "id": "barrels/metadata-ingestion-self-service/metadata-ingestion-header.jsx",
+      "name": "barrels/metadata-ingestion-self-service/metadata-ingestion-header.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/playlist-listeners.jsx",
+      "name": "barrels/trends-playlists/widgets/playlist-listeners.jsx"
+    },
+    {
+      "id": "barrels/create-assets/create-assets.jsx",
+      "name": "barrels/create-assets/create-assets.jsx"
+    },
+    {
+      "id": "components/paginator/paginator.scss",
+      "name": "components/paginator/paginator.scss"
+    },
+    {
+      "id": "components/scroll-to-top/scroll-to-top.scss",
+      "name": "components/scroll-to-top/scroll-to-top.scss"
+    },
+    {
+      "id": "barrels/bulk-actions/bulk-actions-modals/bulk-action-takedown.jsx",
+      "name": "barrels/bulk-actions/bulk-actions-modals/bulk-action-takedown.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/playlist-duration.jsx",
+      "name": "barrels/custom-report/insights/playlist-duration.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/playlist-geolocation.jsx",
+      "name": "barrels/custom-report/insights/playlist-geolocation.jsx"
+    },
+    {
+      "id": "barrels/submitted-products/reject-product-dialog.jsx",
+      "name": "barrels/submitted-products/reject-product-dialog.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+      "name": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "id": "barrels/partners/partner-details-header.jsx",
+      "name": "barrels/partners/partner-details-header.jsx"
+    },
+    {
+      "id": "components/lists/editable-list-button.jsx",
+      "name": "components/lists/editable-list-button.jsx"
+    },
+    {
+      "id": "hoc/scroll-context-styles.scss",
+      "name": "hoc/scroll-context-styles.scss"
+    },
+    {
+      "id": "barrels/metadata-translations-common/dialog-styles.scss",
+      "name": "barrels/metadata-translations-common/dialog-styles.scss"
+    },
+    {
+      "id": "barrels/asset-details/asset-view-with-leftnav/asset-view-details.jsx",
+      "name": "barrels/asset-details/asset-view-with-leftnav/asset-view-details.jsx"
+    },
+    {
+      "id": "components/input/input.scss",
+      "name": "components/input/input.scss"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/delivery-table.jsx",
+      "name": "barrels/product-view/product-delivery/delivery-table.jsx"
+    },
+    {
+      "id": "components/pinable-header/pinable-header.scss",
+      "name": "components/pinable-header/pinable-header.scss"
+    },
+    {
+      "id": "barrels/entity/tags/entity-tags.scss",
+      "name": "barrels/entity/tags/entity-tags.scss"
+    },
+    {
+      "id": "barrels/webhooks/webhooks-upsell.jsx",
+      "name": "barrels/webhooks/webhooks-upsell.jsx"
+    },
+    {
+      "id": "containers/web-uploader/uploader-container.jsx",
+      "name": "containers/web-uploader/uploader-container.jsx"
+    },
+    {
+      "id": "styles/colors.scss",
+      "name": "styles/colors.scss"
+    },
+    {
+      "id": "barrels/asset-details/asset-header.jsx",
+      "name": "barrels/asset-details/asset-header.jsx"
+    },
+    {
+      "id": "barrels/form/input-fields/select-input.jsx",
+      "name": "barrels/form/input-fields/select-input.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-header/product-header.jsx",
+      "name": "barrels/product-view/product-header/product-header.jsx"
+    },
+    {
+      "id": "barrels/trends/trends-saved-filters.jsx",
+      "name": "barrels/trends/trends-saved-filters.jsx"
+    },
+    {
+      "id": "barrels/bulk-actions/bulk-actions-modals/bulk-action-territory-update.jsx",
+      "name": "barrels/bulk-actions/bulk-actions-modals/bulk-action-territory-update.jsx"
+    },
+    {
+      "id": "barrels/trends/trends-filter-chips.jsx",
+      "name": "barrels/trends/trends-filter-chips.jsx"
+    },
+    {
+      "id": "barrels/form/input-fields/auto-assign-input.jsx",
+      "name": "barrels/form/input-fields/auto-assign-input.jsx"
+    },
+    {
+      "id": "components/feedback/feedback-button.jsx",
+      "name": "components/feedback/feedback-button.jsx"
+    },
+    {
+      "id": "barrels/product-view/territory-based-release-date/territory-based-release-form.scss",
+      "name": "barrels/product-view/territory-based-release-date/territory-based-release-form.scss"
+    },
+    {
+      "id": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+      "name": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss"
+    },
+    {
+      "id": "components/date-range-selector/calendar.scss",
+      "name": "components/date-range-selector/calendar.scss"
+    },
+    {
+      "id": "barrels/form/input-fields/text-input.jsx",
+      "name": "barrels/form/input-fields/text-input.jsx"
+    },
+    {
+      "id": "barrels/label-view/label-view-layout/label-view-layout.tsx",
+      "name": "barrels/label-view/label-view-layout/label-view-layout.tsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/add-delivery-instructions.jsx",
+      "name": "barrels/product-view/product-delivery/add-delivery-instructions.jsx"
+    },
+    {
+      "id": "barrels/artist-view/artist-view.scss",
+      "name": "barrels/artist-view/artist-view.scss"
+    },
+    {
+      "id": "barrels/asset-details/product-asset-with-leftnav/asset-video-files.jsx",
+      "name": "barrels/asset-details/product-asset-with-leftnav/asset-video-files.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-actions-select/delete-product-dialog.jsx",
+      "name": "barrels/product-view/product-actions-select/delete-product-dialog.jsx"
+    },
+    {
+      "id": "barrels/main-menu/search/search.scss",
+      "name": "barrels/main-menu/search/search.scss"
+    },
+    {
+      "id": "components/search/global-search.jsx",
+      "name": "components/search/global-search.jsx"
+    },
+    {
+      "id": "barrels/asset-details/asset-details.scss",
+      "name": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "id": "barrels/custom-report/custom-report.scss",
+      "name": "barrels/custom-report/custom-report.scss"
+    },
+    {
+      "id": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-header-v2.jsx",
+      "name": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-header-v2.jsx"
+    },
+    {
+      "id": "barrels/bulk-actions/bulk-main-component.scss",
+      "name": "barrels/bulk-actions/bulk-main-component.scss"
+    },
+    {
+      "id": "barrels/product-view/product-actions-select/entity-header.jsx",
+      "name": "barrels/product-view/product-actions-select/entity-header.jsx"
+    },
+    {
+      "id": "components/section/section.scss",
+      "name": "components/section/section.scss"
+    },
+    {
+      "id": "barrels/asset-details/stereo-files-uploading/stereo-files-uploading.jsx",
+      "name": "barrels/asset-details/stereo-files-uploading/stereo-files-uploading.jsx"
+    },
+    {
+      "id": "barrels/bulk-actions/bulk-actions-modals/bulk-action-usage-rights.jsx",
+      "name": "barrels/bulk-actions/bulk-actions-modals/bulk-action-usage-rights.jsx"
+    },
+    {
+      "id": "barrels/label-view/label-view-layout/label-page.scss",
+      "name": "barrels/label-view/label-view-layout/label-page.scss"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/playlist-audio-format.jsx",
+      "name": "barrels/trends-playlists/widgets/playlist-audio-format.jsx"
+    },
+    {
+      "id": "barrels/create-artist/create-artist.jsx",
+      "name": "barrels/create-artist/create-artist.jsx"
+    },
+    {
+      "id": "components/loader/loader.scss",
+      "name": "components/loader/loader.scss"
+    },
+    {
+      "id": "barrels/product-view/product-header/product-header.scss",
+      "name": "barrels/product-view/product-header/product-header.scss"
+    },
+    {
+      "id": "barrels/player/play-asset-button.jsx",
+      "name": "barrels/player/play-asset-button.jsx"
+    },
+    {
+      "id": "components/player/player.scss",
+      "name": "components/player/player.scss"
+    },
+    {
+      "id": "components/search/search.jsx",
+      "name": "components/search/search.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/paginator.scss",
+      "name": "barrels/trends-playlists/paginator.scss"
+    },
+    {
+      "id": "barrels/accounting-sub-org/accounting-dashboard.scss",
+      "name": "barrels/accounting-sub-org/accounting-dashboard.scss"
+    },
+    {
+      "id": "barrels/metadata-translations-common/translations-grid-base.scss",
+      "name": "barrels/metadata-translations-common/translations-grid-base.scss"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/play-gender.jsx",
+      "name": "barrels/trends-playlists/widgets/play-gender.jsx"
+    },
+    {
+      "id": "barrels/webhooks/webhooks-destinations-overview.jsx",
+      "name": "barrels/webhooks/webhooks-destinations-overview.jsx"
+    },
+    {
+      "id": "components/badge/trends-badge.jsx",
+      "name": "components/badge/trends-badge.jsx"
+    },
+    {
+      "id": "components/chart/line/line-chart.scss",
+      "name": "components/chart/line/line-chart.scss"
+    },
+    {
+      "id": "barrels/product-view/territory-based-release-date/edit-territory-based-release-dialog.jsx",
+      "name": "barrels/product-view/territory-based-release-date/edit-territory-based-release-dialog.jsx"
+    },
+    {
+      "id": "barrels/labels/labels-view.jsx",
+      "name": "barrels/labels/labels-view.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-usage-rights/usage-rights-configuration-dialog.tsx",
+      "name": "barrels/product-view/product-usage-rights/usage-rights-configuration-dialog.tsx"
+    },
+    {
+      "id": "components/territory/territory-overrides.jsx",
+      "name": "components/territory/territory-overrides.jsx"
+    },
+    {
+      "id": "barrels/asset-details/asset-video-preview.jsx",
+      "name": "barrels/asset-details/asset-video-preview.jsx"
+    },
+    {
+      "id": "components/checkbox/checkbox.scss",
+      "name": "components/checkbox/checkbox.scss"
+    },
+    {
+      "id": "barrels/asset-details/product-asset-with-leftnav/asset-details/helpers.ts",
+      "name": "barrels/asset-details/product-asset-with-leftnav/asset-details/helpers.ts"
+    },
+    {
+      "id": "barrels/labels/labels-view.scss",
+      "name": "barrels/labels/labels-view.scss"
+    },
+    {
+      "id": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-status.jsx",
+      "name": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-status.jsx"
+    },
+    {
+      "id": "components/input/inline-save.jsx",
+      "name": "components/input/inline-save.jsx"
+    },
+    {
+      "id": "barrels/artist-view/artist-identifier-dialog.jsx",
+      "name": "barrels/artist-view/artist-identifier-dialog.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-territory.scss",
+      "name": "barrels/product-view/product-territory.scss"
+    },
+    {
+      "id": "components/date-range-selector/date-range-selector.jsx",
+      "name": "components/date-range-selector/date-range-selector.jsx"
+    },
+    {
+      "id": "components/image-loader/image-loader.scss",
+      "name": "components/image-loader/image-loader.scss"
+    },
+    {
+      "id": "barrels/product-view/context-reject-product.jsx",
+      "name": "barrels/product-view/context-reject-product.jsx"
+    },
+    {
+      "id": "components/paginator/smart-paginator.jsx",
+      "name": "components/paginator/smart-paginator.jsx"
+    },
+    {
+      "id": "containers/main/main.scss",
+      "name": "containers/main/main.scss"
+    },
+    {
+      "id": "barrels/metadata-ingestion-self-service/metadata-ingestion-flow-view.jsx",
+      "name": "barrels/metadata-ingestion-self-service/metadata-ingestion-flow-view.jsx"
+    },
+    {
+      "id": "barrels/accounting/statements-view.jsx",
+      "name": "barrels/accounting/statements-view.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/playlist-pie-chart.jsx",
+      "name": "barrels/custom-report/insights/playlist-pie-chart.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/playlist-audience-engagement.jsx",
+      "name": "barrels/trends-playlists/widgets/playlist-audience-engagement.jsx"
+    },
+    {
+      "id": "barrels/asset-details/asset-territory.jsx",
+      "name": "barrels/asset-details/asset-territory.jsx"
+    },
+    {
+      "id": "components/type-indicator/type-indicator.scss",
+      "name": "components/type-indicator/type-indicator.scss"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/geolocation-performance.tsx",
+      "name": "barrels/trends-playlists/widgets/geolocation-performance.tsx"
+    },
+    {
+      "id": "components/@next/pin-header/pin-header.jsx",
+      "name": "components/@next/pin-header/pin-header.jsx"
+    },
+    {
+      "id": "components/empty-section/empty-section.scss",
+      "name": "components/empty-section/empty-section.scss"
+    },
+    {
+      "id": "components/lists/editable-list-button.scss",
+      "name": "components/lists/editable-list-button.scss"
+    },
+    {
+      "id": "components/search/global-search.scss",
+      "name": "components/search/global-search.scss"
+    },
+    {
+      "id": "barrels/product-view/product-actions-select/product-actions-select.scss",
+      "name": "barrels/product-view/product-actions-select/product-actions-select.scss"
+    },
+    {
+      "id": "components/section/section/section.tsx",
+      "name": "components/section/section/section.tsx"
+    },
+    {
+      "id": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions-dialog-buttons/styles.scss",
+      "name": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions-dialog-buttons/styles.scss"
+    },
+    {
+      "id": "barrels/product-view/product-view-with-left-nav/product-details-sections/translations-section/meta-data-translations-section.jsx",
+      "name": "barrels/product-view/product-view-with-left-nav/product-details-sections/translations-section/meta-data-translations-section.jsx"
+    },
+    {
+      "id": "barrels/search/hermes-search.jsx",
+      "name": "barrels/search/hermes-search.jsx"
+    },
+    {
+      "id": "barrels/form/input-fields/time-input.jsx",
+      "name": "barrels/form/input-fields/time-input.jsx"
+    },
+    {
+      "id": "barrels/organization/add-sub-organization.jsx",
+      "name": "barrels/organization/add-sub-organization.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery-history.jsx",
+      "name": "barrels/product-view/product-delivery-history.jsx"
+    },
+    {
+      "id": "components/uploader/button-uploader.scss",
+      "name": "components/uploader/button-uploader.scss"
+    },
+    {
+      "id": "barrels/custom-report/custom-report-filters.jsx",
+      "name": "barrels/custom-report/custom-report-filters.jsx"
+    },
+    {
+      "id": "barrels/product-view/empty-product-view/empty-product-view.jsx",
+      "name": "barrels/product-view/empty-product-view/empty-product-view.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-apple-digital-masters.jsx",
+      "name": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-apple-digital-masters.jsx"
+    },
+    {
+      "id": "barrels/user/users-list.tsx",
+      "name": "barrels/user/users-list.tsx"
+    },
+    {
+      "id": "components/shared-scss/login-form.scss",
+      "name": "components/shared-scss/login-form.scss"
+    },
+    {
+      "id": "barrels/partners/partners-error-boundary.tsx",
+      "name": "barrels/partners/partners-error-boundary.tsx"
+    },
+    {
+      "id": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-pricing-section.jsx",
+      "name": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-pricing-section.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/trends-playlists-spotify.jsx",
+      "name": "barrels/trends-playlists/trends-playlists-spotify.jsx"
+    },
+    {
+      "id": "components/uploader/button-uploader.jsx",
+      "name": "components/uploader/button-uploader.jsx"
+    },
+    {
+      "id": "barrels/artist-view/delete-artist-dialog.jsx",
+      "name": "barrels/artist-view/delete-artist-dialog.jsx"
+    },
+    {
+      "id": "barrels/metadata-validation/validations-details.jsx",
+      "name": "barrels/metadata-validation/validations-details.jsx"
+    },
+    {
+      "id": "barrels/product-view/styles/responsive.scss",
+      "name": "barrels/product-view/styles/responsive.scss"
+    },
+    {
+      "id": "components/dialog/dialog.jsx",
+      "name": "components/dialog/dialog.jsx"
+    },
+    {
+      "id": "components/grid/infinite-grid.scss",
+      "name": "components/grid/infinite-grid.scss"
+    },
+    {
+      "id": "components/password/reset.tsx",
+      "name": "components/password/reset.tsx"
+    },
+    {
+      "id": "components/suggestions/suggestions.scss",
+      "name": "components/suggestions/suggestions.scss"
+    },
+    {
+      "id": "barrels/form/input-fields/date-input.jsx",
+      "name": "barrels/form/input-fields/date-input.jsx"
+    },
+    {
+      "id": "barrels/trends/trends.scss",
+      "name": "barrels/trends/trends.scss"
+    },
+    {
+      "id": "barrels/asset-details/product-asset-details.jsx",
+      "name": "barrels/asset-details/product-asset-details.jsx"
+    },
+    {
+      "id": "barrels/product-view/context-redeliver-asset.jsx",
+      "name": "barrels/product-view/context-redeliver-asset.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-usage-rights/usage-rights-selector.jsx",
+      "name": "barrels/product-view/product-usage-rights/usage-rights-selector.jsx"
+    },
+    {
+      "id": "components/paginator/paginator.jsx",
+      "name": "components/paginator/paginator.jsx"
+    },
+    {
+      "id": "components/territory/territories-detailed.jsx",
+      "name": "components/territory/territories-detailed.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/shazams-by-asset.jsx",
+      "name": "barrels/custom-report/insights/shazams-by-asset.jsx"
+    },
+    {
+      "id": "barrels/form/input-fields/radio-group-input.jsx",
+      "name": "barrels/form/input-fields/radio-group-input.jsx"
+    },
+    {
+      "id": "barrels/trends/scheduled-reports-page.jsx",
+      "name": "barrels/trends/scheduled-reports-page.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/playlist-performance.jsx",
+      "name": "barrels/trends-playlists/widgets/playlist-performance.jsx"
+    },
+    {
+      "id": "components/month-range-selector/month-range-selector.jsx",
+      "name": "components/month-range-selector/month-range-selector.jsx"
+    },
+    {
+      "id": "components/suggestions/suggestions.jsx",
+      "name": "components/suggestions/suggestions.jsx"
+    },
+    {
+      "id": "barrels/accounting-sub-org/accounting-dashboard.jsx",
+      "name": "barrels/accounting-sub-org/accounting-dashboard.jsx"
+    },
+    {
+      "id": "barrels/bulk-actions/bulk-actions-modals/bulk-action-redeliver.jsx",
+      "name": "barrels/bulk-actions/bulk-actions-modals/bulk-action-redeliver.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-info.jsx",
+      "name": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-info.jsx"
+    },
+    {
+      "id": "barrels/submitted-products/submitted-products.scss",
+      "name": "barrels/submitted-products/submitted-products.scss"
+    },
+    {
+      "id": "components/badge/badge-list.jsx",
+      "name": "components/badge/badge-list.jsx"
+    },
+    {
+      "id": "barrels/partners/partners-available.jsx",
+      "name": "barrels/partners/partners-available.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-usage-rights/product-usage-rights.scss",
+      "name": "barrels/product-view/product-usage-rights/product-usage-rights.scss"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/spotify-saves-label.js",
+      "name": "barrels/trends-playlists/widgets/spotify-saves-label.js"
+    },
+    {
+      "id": "components/search/search.scss",
+      "name": "components/search/search.scss"
+    },
+    {
+      "id": "barrels/asset-details/play-asset-icon.jsx",
+      "name": "barrels/asset-details/play-asset-icon.jsx"
+    },
+    {
+      "id": "barrels/form/input-fields/toggle-input.jsx",
+      "name": "barrels/form/input-fields/toggle-input.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-label-management/product-label-management.jsx",
+      "name": "barrels/product-view/product-label-management/product-label-management.jsx"
+    },
+    {
+      "id": "components/image/image.jsx",
+      "name": "components/image/image.jsx"
+    },
+    {
+      "id": "barrels/accounting-sub-org/accounting-indicators.jsx",
+      "name": "barrels/accounting-sub-org/accounting-indicators.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/playlist-source-table.jsx",
+      "name": "barrels/custom-report/insights/playlist-source-table.jsx"
+    },
+    {
+      "id": "barrels/partners/partner-details-description.jsx",
+      "name": "barrels/partners/partner-details-description.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/trends-playlists-detail.scss",
+      "name": "barrels/trends-playlists/trends-playlists-detail.scss"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/add-delivery-instructions.scss",
+      "name": "barrels/product-view/product-delivery/add-delivery-instructions.scss"
+    },
+    {
+      "id": "components/month-range-selector/month-range-selector.scss",
+      "name": "components/month-range-selector/month-range-selector.scss"
+    },
+    {
+      "id": "components/tooltip/tooltip.jsx",
+      "name": "components/tooltip/tooltip.jsx"
+    },
+    {
+      "id": "components/grid/grid.scss",
+      "name": "components/grid/grid.scss"
+    },
+    {
+      "id": "styles/global.scss",
+      "name": "styles/global.scss"
+    },
+    {
+      "id": "components/type-indicator/type-indicator.jsx",
+      "name": "components/type-indicator/type-indicator.jsx"
+    },
+    {
+      "id": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+      "name": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/barrels/metadata-ingestion-self-service/metadata-ingestion.scss"
+    },
+    {
+      "id": "barrels/trends-playlists/trends-playlists-view.scss",
+      "name": "barrels/trends-playlists/trends-playlists-view.scss"
+    },
+    {
+      "id": "components/box/box.jsx",
+      "name": "components/box/box.jsx"
+    },
+    {
+      "id": "components/chart/pie/pie-chart.scss",
+      "name": "components/chart/pie/pie-chart.scss"
+    },
+    {
+      "id": "components/search/search-input.scss",
+      "name": "components/search/search-input.scss"
+    },
+    {
+      "id": "components/territory/territory-overrides.scss",
+      "name": "components/territory/territory-overrides.scss"
+    },
+    {
+      "id": "hoc/scroll-context.jsx",
+      "name": "hoc/scroll-context.jsx"
+    },
+    {
+      "id": "barrels/dsp-configs/dsp-configs.jsx",
+      "name": "barrels/dsp-configs/dsp-configs.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/delivery-history-dialog.jsx",
+      "name": "barrels/product-view/product-delivery/delivery-history-dialog.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/redeliver-product-asset-dialog.jsx",
+      "name": "barrels/product-view/product-delivery/redeliver-product-asset-dialog.jsx"
+    },
+    {
+      "id": "barrels/user/user-view.scss",
+      "name": "barrels/user/user-view.scss"
+    },
+    {
+      "id": "components/chart/bar/bar-chart.scss",
+      "name": "components/chart/bar/bar-chart.scss"
+    },
+    {
+      "id": "barrels/asset-details/product-asset-with-leftnav/asset-video-preview.jsx",
+      "name": "barrels/asset-details/product-asset-with-leftnav/asset-video-preview.jsx"
+    },
+    {
+      "id": "components/slider/slider.scss",
+      "name": "components/slider/slider.scss"
+    },
+    {
+      "id": "barrels/asset-details/asset-trends.jsx",
+      "name": "barrels/asset-details/asset-trends.jsx"
+    },
+    {
+      "id": "barrels/metadata-ingestion-self-service/metadata-ingestion-common.jsx",
+      "name": "barrels/metadata-ingestion-self-service/metadata-ingestion-common.jsx"
+    },
+    {
+      "id": "components/circular-progressbar/circular-progressbar.scss",
+      "name": "components/circular-progressbar/circular-progressbar.scss"
+    },
+    {
+      "id": "components/lists/title-list.scss",
+      "name": "components/lists/title-list.scss"
+    },
+    {
+      "id": "components/delivery/dsp-group-dsp-list-selector.scss",
+      "name": "components/delivery/dsp-group-dsp-list-selector.scss"
+    },
+    {
+      "id": "barrels/bulk-actions/bulk-actions-modals/bulk-action-delete.jsx",
+      "name": "barrels/bulk-actions/bulk-actions-modals/bulk-action-delete.jsx"
+    },
+    {
+      "id": "barrels/bulk-actions/bulk-actions-modals/bulk-action-push-to-suborg.jsx",
+      "name": "barrels/bulk-actions/bulk-actions-modals/bulk-action-push-to-suborg.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/trends-playlists-amazon.jsx",
+      "name": "barrels/trends-playlists/trends-playlists-amazon.jsx"
+    },
+    {
+      "id": "components/ajax-preloader/ajax-preloader.scss",
+      "name": "components/ajax-preloader/ajax-preloader.scss"
+    },
+    {
+      "id": "components/artist/list/artist-list.scss",
+      "name": "components/artist/list/artist-list.scss"
+    },
+    {
+      "id": "barrels/submitted-products/submitted-products-actions/accept-products-dialog.jsx",
+      "name": "barrels/submitted-products/submitted-products-actions/accept-products-dialog.jsx"
+    },
+    {
+      "id": "components/badge/badge.scss",
+      "name": "components/badge/badge.scss"
+    },
+    {
+      "id": "components/popup/popup.scss",
+      "name": "components/popup/popup.scss"
+    },
+    {
+      "id": "barrels/player/play-asset-button.scss",
+      "name": "barrels/player/play-asset-button.scss"
+    },
+    {
+      "id": "components/product/image/product-image.jsx",
+      "name": "components/product/image/product-image.jsx"
+    },
+    {
+      "id": "components/selector/selector.scss",
+      "name": "components/selector/selector.scss"
+    },
+    {
+      "id": "barrels/labels/add-eone-label.jsx",
+      "name": "barrels/labels/add-eone-label.jsx"
+    },
+    {
+      "id": "barrels/product-view/metadata-translations/styles.scss",
+      "name": "barrels/product-view/metadata-translations/styles.scss"
+    },
+    {
+      "id": "barrels/trends/total-selector.scss",
+      "name": "barrels/trends/total-selector.scss"
+    },
+    {
+      "id": "barrels/trends/trend-percentage-indicator.scss",
+      "name": "barrels/trends/trend-percentage-indicator.scss"
+    },
+    {
+      "id": "components/chart/bar/bar-chart.jsx",
+      "name": "components/chart/bar/bar-chart.jsx"
+    },
+    {
+      "id": "barrels/form/form-field.jsx",
+      "name": "barrels/form/form-field.jsx"
+    },
+    {
+      "id": "barrels/partners/partners-entity-linking.jsx",
+      "name": "barrels/partners/partners-entity-linking.jsx"
+    },
+    {
+      "id": "containers/contact/contact.tsx",
+      "name": "containers/contact/contact.tsx"
+    },
+    {
+      "id": "containers/page/page.scss",
+      "name": "containers/page/page.scss"
+    },
+    {
+      "id": "barrels/accounting/revenues-view.jsx",
+      "name": "barrels/accounting/revenues-view.jsx"
+    },
+    {
+      "id": "barrels/asset-details/encodings.scss",
+      "name": "barrels/asset-details/encodings.scss"
+    },
+    {
+      "id": "barrels/dsp-configs/dsp-configs.scss",
+      "name": "barrels/dsp-configs/dsp-configs.scss"
+    },
+    {
+      "id": "components/popup/popup.jsx",
+      "name": "components/popup/popup.jsx"
+    },
+    {
+      "id": "barrels/bulk-actions/bulk-actions-modals/bulk-action-approve.jsx",
+      "name": "barrels/bulk-actions/bulk-actions-modals/bulk-action-approve.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/delivery-status-dialog.jsx",
+      "name": "barrels/product-view/product-delivery/delivery-status-dialog.jsx"
+    },
+    {
+      "id": "components/chart/switcher/chart-type-switcher.scss",
+      "name": "components/chart/switcher/chart-type-switcher.scss"
+    },
+    {
+      "id": "barrels/artist-view/artist-image.jsx",
+      "name": "barrels/artist-view/artist-image.jsx"
+    },
+    {
+      "id": "barrels/form/input-fields/time-input.scss",
+      "name": "barrels/form/input-fields/time-input.scss"
+    },
+    {
+      "id": "components/chip/chip.scss",
+      "name": "components/chip/chip.scss"
+    },
+    {
+      "id": "components/filter-panel/filter-panel.scss",
+      "name": "components/filter-panel/filter-panel.scss"
+    },
+    {
+      "id": "components/section/section-header/section-header.tsx",
+      "name": "components/section/section-header/section-header.tsx"
+    },
+    {
+      "id": "barrels/asset-details/product-asset-with-leftnav/asset-details/asset-details.jsx",
+      "name": "barrels/asset-details/product-asset-with-leftnav/asset-details/asset-details.jsx"
+    },
+    {
+      "id": "components/chart/tooltip.jsx",
+      "name": "components/chart/tooltip.jsx"
+    },
+    {
+      "id": "components/date-range-selector/date-range-selector.scss",
+      "name": "components/date-range-selector/date-range-selector.scss"
+    },
+    {
+      "id": "barrels/product-view/product-view.scss",
+      "name": "barrels/product-view/product-view.scss"
+    },
+    {
+      "id": "barrels/create-artist/create-artist-actions.jsx",
+      "name": "barrels/create-artist/create-artist-actions.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/trends-playlists-line-music.jsx",
+      "name": "barrels/trends-playlists/trends-playlists-line-music.jsx"
+    },
+    {
+      "id": "components/clone/clone-dialog.jsx",
+      "name": "components/clone/clone-dialog.jsx"
+    },
+    {
+      "id": "components/error-section/error-section.scss",
+      "name": "components/error-section/error-section.scss"
+    },
+    {
+      "id": "barrels/product-view/product-state-progress.jsx",
+      "name": "barrels/product-view/product-state-progress.jsx"
+    },
+    {
+      "id": "components/product/image/product-image.scss",
+      "name": "components/product/image/product-image.scss"
+    },
+    {
+      "id": "containers/main/main.jsx",
+      "name": "containers/main/main.jsx"
+    },
+    {
+      "id": "barrels/form/form.scss",
+      "name": "barrels/form/form.scss"
+    },
+    {
+      "id": "barrels/product-view/product-delivery-history.scss",
+      "name": "barrels/product-view/product-delivery-history.scss"
+    },
+    {
+      "id": "components/grid/grid.jsx",
+      "name": "components/grid/grid.jsx"
+    },
+    {
+      "id": "barrels/entity/tags/entity-tags-with-leftnav.jsx",
+      "name": "barrels/entity/tags/entity-tags-with-leftnav.jsx"
+    },
+    {
+      "id": "barrels/form/input-fields/input-fields.scss",
+      "name": "barrels/form/input-fields/input-fields.scss"
+    },
+    {
+      "id": "barrels/product-view/product-state-progress.scss",
+      "name": "barrels/product-view/product-state-progress.scss"
+    },
+    {
+      "id": "barrels/product-view/styles/colors.scss",
+      "name": "barrels/product-view/styles/colors.scss"
+    },
+    {
+      "id": "barrels/asset-details/asset-video-files.jsx",
+      "name": "barrels/asset-details/asset-video-files.jsx"
+    },
+    {
+      "id": "barrels/asset-details/metadata-translations/asset-translations-dialog.jsx",
+      "name": "barrels/asset-details/metadata-translations/asset-translations-dialog.jsx"
+    },
+    {
+      "id": "barrels/asset-details/metadata-translations/styles.scss",
+      "name": "barrels/asset-details/metadata-translations/styles.scss"
+    },
+    {
+      "id": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-usage-rights.jsx",
+      "name": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-usage-rights.jsx"
+    },
+    {
+      "id": "barrels/asset-details/encodings.jsx",
+      "name": "barrels/asset-details/encodings.jsx"
+    },
+    {
+      "id": "barrels/product-view/context-unlock-asset.jsx",
+      "name": "barrels/product-view/context-unlock-asset.jsx"
+    },
+    {
+      "id": "barrels/web-uploader/upload-table/upload-table.jsx",
+      "name": "barrels/web-uploader/upload-table/upload-table.jsx"
+    },
+    {
+      "id": "components/chart/switcher/chart-type-switcher.jsx",
+      "name": "components/chart/switcher/chart-type-switcher.jsx"
+    },
+    {
+      "id": "barrels/asset-details/asset-video-crop-dialog-input.scss",
+      "name": "barrels/asset-details/asset-video-crop-dialog-input.scss"
+    },
+    {
+      "id": "components/image/image-upload-controller.jsx",
+      "name": "components/image/image-upload-controller.jsx"
+    },
+    {
+      "id": "components/image-loader/image-loader.jsx",
+      "name": "components/image-loader/image-loader.jsx"
+    },
+    {
+      "id": "components/selector/selector.jsx",
+      "name": "components/selector/selector.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/trends-playlists-pandora.jsx",
+      "name": "barrels/trends-playlists/trends-playlists-pandora.jsx"
+    },
+    {
+      "id": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-flow-view-v2.jsx",
+      "name": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-flow-view-v2.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/product-delivery.scss",
+      "name": "barrels/product-view/product-delivery/product-delivery.scss"
+    },
+    {
+      "id": "barrels/product-view/product-menu-header.jsx",
+      "name": "barrels/product-view/product-menu-header.jsx"
+    },
+    {
+      "id": "constants/responsive.js",
+      "name": "constants/responsive.js"
+    },
+    {
+      "id": "hoc/scroll-context.scss",
+      "name": "hoc/scroll-context.scss"
+    },
+    {
+      "id": "barrels/artist-view/metadata-translations/artist-translation-group.jsx",
+      "name": "barrels/artist-view/metadata-translations/artist-translation-group.jsx"
+    },
+    {
+      "id": "barrels/metadata-translations-common/translations-dialog-base.scss",
+      "name": "barrels/metadata-translations-common/translations-dialog-base.scss"
+    },
+    {
+      "id": "barrels/asset-details/metadata-translations/asset-translations-group.jsx",
+      "name": "barrels/asset-details/metadata-translations/asset-translations-group.jsx"
+    },
+    {
+      "id": "barrels/submitted-products/submitted-products-filter.jsx",
+      "name": "barrels/submitted-products/submitted-products-filter.jsx"
+    },
+    {
+      "id": "components/search/search-input.jsx",
+      "name": "components/search/search-input.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/tiktok-totals.tsx",
+      "name": "barrels/trends-playlists/widgets/tiktok-totals.tsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/audio-format-area-chart.jsx",
+      "name": "barrels/custom-report/insights/audio-format-area-chart.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/playlist-performance.jsx",
+      "name": "barrels/custom-report/insights/playlist-performance.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/shazam-totals.jsx",
+      "name": "barrels/custom-report/insights/shazam-totals.jsx"
+    },
+    {
+      "id": "barrels/form/form-errors-snack.jsx",
+      "name": "barrels/form/form-errors-snack.jsx"
+    },
+    {
+      "id": "barrels/submitted-products/accept-product-dialog.jsx",
+      "name": "barrels/submitted-products/accept-product-dialog.jsx"
+    },
+    {
+      "id": "styles/mixins.scss",
+      "name": "styles/mixins.scss"
+    },
+    {
+      "id": "components/loader/loader.tsx",
+      "name": "components/loader/loader.tsx"
+    },
+    {
+      "id": "components/slider/slider.jsx",
+      "name": "components/slider/slider.jsx"
+    },
+    {
+      "id": "components/status-indicator/status-indicator.jsx",
+      "name": "components/status-indicator/status-indicator.jsx"
+    },
+    {
+      "id": "styles/responsive.scss",
+      "name": "styles/responsive.scss"
+    },
+    {
+      "id": "barrels/trends/trends-filter.scss",
+      "name": "barrels/trends/trends-filter.scss"
+    },
+    {
+      "id": "containers/context-provider.jsx",
+      "name": "containers/context-provider.jsx"
+    },
+    {
+      "id": "components/button/google-signin-button.jsx",
+      "name": "components/button/google-signin-button.jsx"
+    },
+    {
+      "id": "barrels/asset-details/asset-files.jsx",
+      "name": "barrels/asset-details/asset-files.jsx"
+    },
+    {
+      "id": "barrels/asset-details/encode-video-warning-dialog.jsx",
+      "name": "barrels/asset-details/encode-video-warning-dialog.jsx"
+    },
+    {
+      "id": "barrels/asset-list/asset-list-component.jsx",
+      "name": "barrels/asset-list/asset-list-component.jsx"
+    },
+    {
+      "id": "barrels/breadcrumb/breadcrumb.scss",
+      "name": "barrels/breadcrumb/breadcrumb.scss"
+    },
+    {
+      "id": "barrels/dsp-connections/dsp-connections-menu.jsx",
+      "name": "barrels/dsp-connections/dsp-connections-menu.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-view-with-left-nav/product-details-sections/territory-based-release/territory-based-release-grid.jsx",
+      "name": "barrels/product-view/product-view-with-left-nav/product-details-sections/territory-based-release/territory-based-release-grid.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-label-management.jsx",
+      "name": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-label-management.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/playlist-geolocation.jsx",
+      "name": "barrels/trends-playlists/widgets/playlist-geolocation.jsx"
+    },
+    {
+      "id": "components/clone/clone-dialog.scss",
+      "name": "components/clone/clone-dialog.scss"
+    },
+    {
+      "id": "barrels/form/input-fields/lookup-input.jsx",
+      "name": "barrels/form/input-fields/lookup-input.jsx"
+    },
+    {
+      "id": "barrels/metadata-ingestion-self-service/metadata-ingestion-error-boundary.jsx",
+      "name": "barrels/metadata-ingestion-self-service/metadata-ingestion-error-boundary.jsx"
+    },
+    {
+      "id": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-common-v2.jsx",
+      "name": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-common-v2.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/tiktok-geolocation-performance.jsx",
+      "name": "barrels/custom-report/insights/tiktok-geolocation-performance.jsx"
+    },
+    {
+      "id": "barrels/entity/metadata-translations/group.jsx",
+      "name": "barrels/entity/metadata-translations/group.jsx"
+    },
+    {
+      "id": "barrels/partners/partners.scss",
+      "name": "barrels/partners/partners.scss"
+    },
+    {
+      "id": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-attachments/styles.scss",
+      "name": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-attachments/styles.scss"
+    },
+    {
+      "id": "barrels/asset-details/asset-video-crop-dialog-input.jsx",
+      "name": "barrels/asset-details/asset-video-crop-dialog-input.jsx"
+    },
+    {
+      "id": "components/chart/line/line-chart.jsx",
+      "name": "components/chart/line/line-chart.jsx"
+    },
+    {
+      "id": "barrels/form/form-errors-snack.scss",
+      "name": "barrels/form/form-errors-snack.scss"
+    },
+    {
+      "id": "barrels/metadata-translations-common/translations-grid-base.jsx",
+      "name": "barrels/metadata-translations-common/translations-grid-base.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/track-performance.tsx",
+      "name": "barrels/trends-playlists/widgets/track-performance.tsx"
+    },
+    {
+      "id": "components/status-indicator/status-indicator.scss",
+      "name": "components/status-indicator/status-indicator.scss"
+    },
+    {
+      "id": "containers/web-uploader/uploader-container.scss",
+      "name": "containers/web-uploader/uploader-container.scss"
+    },
+    {
+      "id": "components/login/login-logo.jsx",
+      "name": "components/login/login-logo.jsx"
+    },
+    {
+      "id": "components/section/content.jsx",
+      "name": "components/section/content.jsx"
+    },
+    {
+      "id": "barrels/product-view/metadata-translations/translations-dialog.jsx",
+      "name": "barrels/product-view/metadata-translations/translations-dialog.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/column-trends-export.jsx",
+      "name": "barrels/trends-playlists/column-trends-export.jsx"
+    },
+    {
+      "id": "components/artist/item/artist-item.jsx",
+      "name": "components/artist/item/artist-item.jsx"
+    },
+    {
+      "id": "components/lists/title-list.jsx",
+      "name": "components/lists/title-list.jsx"
+    },
+    {
+      "id": "components/pricing/add-product-pricing-table.scss",
+      "name": "components/pricing/add-product-pricing-table.scss"
+    },
+    {
+      "id": "barrels/product-view/styles/mixins.scss",
+      "name": "barrels/product-view/styles/mixins.scss"
+    },
+    {
+      "id": "barrels/accounting/accounting-view.scss",
+      "name": "barrels/accounting/accounting-view.scss"
+    },
+    {
+      "id": "barrels/custom-report/insights/shazams-by-artist.jsx",
+      "name": "barrels/custom-report/insights/shazams-by-artist.jsx"
+    },
+    {
+      "id": "barrels/partners/partners.tsx",
+      "name": "barrels/partners/partners.tsx"
+    },
+    {
+      "id": "components/missing-fields/missing-fields.scss",
+      "name": "components/missing-fields/missing-fields.scss"
+    },
+    {
+      "id": "components/chart/pie/pie-chart.jsx",
+      "name": "components/chart/pie/pie-chart.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-core-item-number.jsx",
+      "name": "barrels/product-view/product-core-item-number.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/delivery-status-dialog.scss",
+      "name": "barrels/product-view/product-delivery/delivery-status-dialog.scss"
+    },
+    {
+      "id": "barrels/trends/trends-menu.scss",
+      "name": "barrels/trends/trends-menu.scss"
+    },
+    {
+      "id": "barrels/accounting-sub-org/accounting-error-boundary.jsx",
+      "name": "barrels/accounting-sub-org/accounting-error-boundary.jsx"
+    },
+    {
+      "id": "components/missing-fields/missing-fields.jsx",
+      "name": "components/missing-fields/missing-fields.jsx"
+    },
+    {
+      "id": "components/search/hermes-input-search.jsx",
+      "name": "components/search/hermes-input-search.jsx"
+    },
+    {
+      "id": "barrels/help/help-slider.jsx",
+      "name": "barrels/help/help-slider.jsx"
+    },
+    {
+      "id": "barrels/player/player-container.jsx",
+      "name": "barrels/player/player-container.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-actions-select/undelete-product-dialog.jsx",
+      "name": "barrels/product-view/product-actions-select/undelete-product-dialog.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-trends.jsx",
+      "name": "barrels/product-view/product-trends.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/trends-playlists-itunes.jsx",
+      "name": "barrels/trends-playlists/trends-playlists-itunes.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/pie-chart.jsx",
+      "name": "barrels/trends-playlists/widgets/pie-chart.jsx"
+    },
+    {
+      "id": "barrels/product-view/context-unlock-product.jsx",
+      "name": "barrels/product-view/context-unlock-product.jsx"
+    },
+    {
+      "id": "barrels/product-view/context-view-actions.jsx",
+      "name": "barrels/product-view/context-view-actions.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/play-duration.jsx",
+      "name": "barrels/trends-playlists/widgets/play-duration.jsx"
+    },
+    {
+      "id": "components/chip/chip.jsx",
+      "name": "components/chip/chip.jsx"
+    },
+    {
+      "id": "containers/contact/contact.scss",
+      "name": "containers/contact/contact.scss"
+    },
+    {
+      "id": "components/feedback/feedback-button.scss",
+      "name": "components/feedback/feedback-button.scss"
+    },
+    {
+      "id": "components/badge/badge-list.scss",
+      "name": "components/badge/badge-list.scss"
+    },
+    {
+      "id": "components/badge/trends-badge.scss",
+      "name": "components/badge/trends-badge.scss"
+    },
+    {
+      "id": "components/filter-panel/filter-panel.jsx",
+      "name": "components/filter-panel/filter-panel.jsx"
+    },
+    {
+      "id": "barrels/form/input-fields/select-check-boxes.jsx",
+      "name": "barrels/form/input-fields/select-check-boxes.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-actions-select/labelled-checkbox.jsx",
+      "name": "barrels/product-view/product-actions-select/labelled-checkbox.jsx"
+    },
+    {
+      "id": "components/chart/tooltip.scss",
+      "name": "components/chart/tooltip.scss"
+    },
+    {
+      "id": "barrels/custom-report/insights/playlist-audience-engagement.jsx",
+      "name": "barrels/custom-report/insights/playlist-audience-engagement.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/redeliver-product-dialog.scss",
+      "name": "barrels/product-view/product-delivery/redeliver-product-dialog.scss"
+    },
+    {
+      "id": "components/error-handler/error-handler.jsx",
+      "name": "components/error-handler/error-handler.jsx"
+    },
+    {
+      "id": "components/error-handler/error-handler.scss",
+      "name": "components/error-handler/error-handler.scss"
+    },
+    {
+      "id": "components/input/input.jsx",
+      "name": "components/input/input.jsx"
+    },
+    {
+      "id": "components/pinable-header/pinable-header.jsx",
+      "name": "components/pinable-header/pinable-header.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/playlist-performance-chart.jsx",
+      "name": "barrels/custom-report/insights/playlist-performance-chart.jsx"
+    },
+    {
+      "id": "barrels/dsp-connections/dsp-connections.scss",
+      "name": "barrels/dsp-connections/dsp-connections.scss"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/spotify-saves.jsx",
+      "name": "barrels/trends-playlists/widgets/spotify-saves.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/trends-export.jsx",
+      "name": "barrels/trends-playlists/widgets/trends-export.jsx"
+    },
+    {
+      "id": "components/box/box.scss",
+      "name": "components/box/box.scss"
+    },
+    {
+      "id": "barrels/product-view/product-intervals/add-product-interval-table.jsx",
+      "name": "barrels/product-view/product-intervals/add-product-interval-table.jsx"
+    },
+    {
+      "id": "components/lightbox/lightbox.jsx",
+      "name": "components/lightbox/lightbox.jsx"
+    },
+    {
+      "id": "barrels/artist-view/metadata-translations/artist-translations-dialog.jsx",
+      "name": "barrels/artist-view/metadata-translations/artist-translations-dialog.jsx"
+    },
+    {
+      "id": "barrels/breadcrumb/breadcrumb.jsx",
+      "name": "barrels/breadcrumb/breadcrumb.jsx"
+    },
+    {
+      "id": "barrels/bulk-actions/bulk-actions-modals/bulk-action-common.jsx",
+      "name": "barrels/bulk-actions/bulk-actions-modals/bulk-action-common.jsx"
+    },
+    {
+      "id": "barrels/entity/metadata-translations/dialog.jsx",
+      "name": "barrels/entity/metadata-translations/dialog.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/confirm-action-instruction-dialog.jsx",
+      "name": "barrels/product-view/product-delivery/confirm-action-instruction-dialog.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/shazams-by-asset.tsx",
+      "name": "barrels/trends-playlists/widgets/shazams-by-asset.tsx"
+    },
+    {
+      "id": "components/territory/territory-label.jsx",
+      "name": "components/territory/territory-label.jsx"
+    },
+    {
+      "id": "components/month-range-selector/calendar.scss",
+      "name": "components/month-range-selector/calendar.scss"
+    },
+    {
+      "id": "barrels/product-view/product-territory/product-info.jsx",
+      "name": "barrels/product-view/product-territory/product-info.jsx"
+    },
+    {
+      "id": "barrels/web-uploader/upload-table/upload-table.scss",
+      "name": "barrels/web-uploader/upload-table/upload-table.scss"
+    },
+    {
+      "id": "components/input/input-text.jsx",
+      "name": "components/input/input-text.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/playlist-performance-table.jsx",
+      "name": "barrels/custom-report/insights/playlist-performance-table.jsx"
+    },
+    {
+      "id": "barrels/player/player-container.scss",
+      "name": "barrels/player/player-container.scss"
+    },
+    {
+      "id": "barrels/product-view/product-delivery/redeliver-product-dialog.jsx",
+      "name": "barrels/product-view/product-delivery/redeliver-product-dialog.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/play-age.jsx",
+      "name": "barrels/trends-playlists/widgets/play-age.jsx"
+    },
+    {
+      "id": "barrels/trends/trends-menu.jsx",
+      "name": "barrels/trends/trends-menu.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/widgets/shazams-by-artist.tsx",
+      "name": "barrels/trends-playlists/widgets/shazams-by-artist.tsx"
+    },
+    {
+      "id": "barrels/accounting/revenues-filters.jsx",
+      "name": "barrels/accounting/revenues-filters.jsx"
+    },
+    {
+      "id": "styles/reset.scss",
+      "name": "styles/reset.scss"
+    },
+    {
+      "id": "barrels/artist-view/artist-info.jsx",
+      "name": "barrels/artist-view/artist-info.jsx"
+    },
+    {
+      "id": "barrels/asset-details/product-asset-with-leftnav/product-asset-details.tsx",
+      "name": "barrels/asset-details/product-asset-with-leftnav/product-asset-details.tsx"
+    },
+    {
+      "id": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions-dialog-buttons/warning-costs-button/warning-costs-button.jsx",
+      "name": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions-dialog-buttons/warning-costs-button/warning-costs-button.jsx"
+    },
+    {
+      "id": "components/grid/infinite-table.jsx",
+      "name": "components/grid/infinite-table.jsx"
+    },
+    {
+      "id": "constants/distinct-pallete.js",
+      "name": "constants/distinct-pallete.js"
+    },
+    {
+      "id": "barrels/custom-report/insights/playlist-spotify-saves.jsx",
+      "name": "barrels/custom-report/insights/playlist-spotify-saves.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/tiktok-track-performance.jsx",
+      "name": "barrels/custom-report/insights/tiktok-track-performance.jsx"
+    },
+    {
+      "id": "barrels/custom-report/widget/components/widget-fallback.jsx",
+      "name": "barrels/custom-report/widget/components/widget-fallback.jsx"
+    },
+    {
+      "id": "barrels/product-view/product-menu-header.scss",
+      "name": "barrels/product-view/product-menu-header.scss"
+    },
+    {
+      "id": "components/delivery/dsp-group-dsp-list-selector.jsx",
+      "name": "components/delivery/dsp-group-dsp-list-selector.jsx"
+    },
+    {
+      "id": "barrels/custom-report/insights/tiktok-totals.jsx",
+      "name": "barrels/custom-report/insights/tiktok-totals.jsx"
+    },
+    {
+      "id": "barrels/webhooks/webhooks.scss",
+      "name": "barrels/webhooks/webhooks.scss"
+    },
+    {
+      "id": "barrels/product-view/metadata-translations/metadata-translation-group.jsx",
+      "name": "barrels/product-view/metadata-translations/metadata-translation-group.jsx"
+    },
+    {
+      "id": "barrels/trends-playlists/trends-playlists-view.jsx",
+      "name": "barrels/trends-playlists/trends-playlists-view.jsx"
+    }
+  ],
+  "links": [
+    {
+      "source": "barrels/organization/add-sub-organization.jsx",
+      "target": "barrels/organization/organization-view.scss"
+    },
+    {
+      "source": "barrels/organization/sub-organization-list.tsx",
+      "target": "barrels/organization/organization-view.scss"
+    },
+    {
+      "source": "barrels/user/users-list.tsx",
+      "target": "barrels/organization/organization-view.scss"
+    },
+    {
+      "source": "barrels/accounting/accounting-view.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/accounting-sub-org/accounting-dashboard.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/artist-view/artist-view.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-details.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-video-crop-dialog-input.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/asset-details/encodings.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions-dialog-buttons/styles.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/breadcrumb/breadcrumb.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-main-component.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/custom-report/custom-report.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/dsp-configs/dsp-configs.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/dsp-connections/dsp-connections.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/entity/tags/entity-tags.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/form/form.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/input-fields.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/input-fields.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/help/help-slider.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/labels/labels-view.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/metadata-translations-common/translations-grid-base.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/organization/organization-view.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/partners/partners.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/player/play-asset-button.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/player/player-container.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/product-view/product-actions-select/product-actions-select.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/add-delivery-instructions.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/edit-delivery-instruction.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery-history.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/product-view/product-header/product-header.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/product-view/product-territory.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/product-view/product-usage-rights/product-usage-rights.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/trends/trends-menu.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/trends/trends.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/paginator.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-detail.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-view.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/user/user-view.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/webhooks/webhooks.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/box/box.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/chart/bar/bar-chart.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/chart/switcher/chart-type-switcher.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/chart/tooltip.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/checkbox/checkbox.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/chip/chip.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/circular-progressbar/circular-progressbar.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/date-range-selector/calendar.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/date-range-selector/date-range-selector.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/delivery/dsp-group-dsp-list-selector.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/dialog/dialog.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/empty-section/empty-section.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/error-section/error-section.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/filter-panel/filter-panel.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/grid/grid.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/image-loader/image-loader.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/input/input.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/loader/loader.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/month-range-selector/calendar.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/month-range-selector/month-range-selector.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/paginator/paginator.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/pinable-header/pinable-header.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/player/player.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/product/image/product-image.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/scroll-to-top/scroll-to-top.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/shared-scss/login-form.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/status-indicator/status-indicator.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/territory/territories-detailed.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/territory/territory-overrides.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/tooltip/tooltip.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/type-indicator/type-indicator.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "components/uploader/button-uploader.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "containers/main/main.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "hoc/scroll-context-styles.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "hoc/scroll-context.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "styles/global.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "styles/mixins.scss",
+      "target": "styles/themes.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/edit-delivery-instruction-dialog.jsx",
+      "target": "barrels/product-view/product-delivery/edit-delivery-instruction.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-attachments/styles.scss",
+      "target": "barrels/product-view/styles/fonts.scss"
+    },
+    {
+      "source": "components/lightbox/lightbox.jsx",
+      "target": "components/lightbox/lightbox.scss"
+    },
+    {
+      "source": "containers/application.jsx",
+      "target": "containers/application.scss"
+    },
+    {
+      "source": "containers/context-provider.jsx",
+      "target": "containers/application.scss"
+    },
+    {
+      "source": "barrels/artist-view/metadata-translations/artist-translation-group.jsx",
+      "target": "barrels/artist-view/metadata-translations/styles.scss"
+    },
+    {
+      "source": "barrels/artist-view/metadata-translations/artist-translations-dialog.jsx",
+      "target": "barrels/artist-view/metadata-translations/styles.scss"
+    },
+    {
+      "source": "barrels/asset-list/asset-list-component.jsx",
+      "target": "barrels/asset-list/asset-list.scss"
+    },
+    {
+      "source": "barrels/help/help-slider.jsx",
+      "target": "barrels/help/help-slider.scss"
+    },
+    {
+      "source": "components/dialog/dialog.jsx",
+      "target": "components/dialog/dialog.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-territory.jsx",
+      "target": "components/territory/territories-detailed.scss"
+    },
+    {
+      "source": "barrels/product-view/product-territory/product-info.jsx",
+      "target": "components/territory/territories-detailed.scss"
+    },
+    {
+      "source": "components/territory/territories-detailed.jsx",
+      "target": "components/territory/territories-detailed.scss"
+    },
+    {
+      "source": "barrels/artist-view/artist-view.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/artist-view/metadata-translations/styles.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-details.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/asset-details/metadata-translations/styles.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/breadcrumb/breadcrumb.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/custom-report/custom-report.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/dsp-configs/dsp-configs.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/dsp-connections/dsp-connections.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/form/form-errors-snack.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/form/form.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/input-fields.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/help/help-slider.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/labels/labels-view.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/metadata-translations-common/dialog-styles.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/metadata-translations-common/translations-grid-base.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/organization/organization-view.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/player/play-asset-button.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/player/player-container.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/product-view/metadata-translations/styles.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery-history.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/product-view/product-header/product-header.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/product-view/product-menu-header.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/product-view/product-state-progress.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/product-view/product-territory.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/trends/total-selector.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/trends/trends-filter.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/trends/trends-product.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/trends/trends.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/user/user-view.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "barrels/webhooks/webhooks.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/artist/list/artist-list.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/badge/badge-list.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/badge/badge.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/badge/trends-badge.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/box/box.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/chart/pie/pie-chart.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/chart/tooltip.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/circular-progressbar/circular-progressbar.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/grid/grid.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/grid/infinite-grid.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/lists/editable-list-button.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/lists/title-list.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/missing-fields/missing-fields.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/pinable-header/pinable-header.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/player/player.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/popup/popup.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/product/image/product-image.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/section/section.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/selector/selector.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/status-indicator/status-indicator.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/suggestions/suggestions.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/territory/territory-overrides.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/type-indicator/type-indicator.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/uploader/button-uploader.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "containers/contact/contact.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "containers/page/page.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "hoc/scroll-context-styles.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "hoc/scroll-context.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "styles/global.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "styles/reset.scss",
+      "target": "styles/fonts.scss"
+    },
+    {
+      "source": "components/image/image.jsx",
+      "target": "components/image/image.scss"
+    },
+    {
+      "source": "components/tooltip/tooltip.jsx",
+      "target": "components/tooltip/tooltip.scss"
+    },
+    {
+      "source": "components/paginator/paginator.jsx",
+      "target": "components/paginator/paginator.scss"
+    },
+    {
+      "source": "components/paginator/smart-paginator.jsx",
+      "target": "components/paginator/paginator.scss"
+    },
+    {
+      "source": "components/scroll-to-top/scroll-to-top.jsx",
+      "target": "components/scroll-to-top/scroll-to-top.scss"
+    },
+    {
+      "source": "barrels/custom-report/custom-report-chart.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/audio-format-area-chart.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/playlist-audience-engagement.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/playlist-duration.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/playlist-geolocation.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/playlist-performance-chart.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/playlist-performance-table.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/playlist-performance.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/playlist-pie-chart.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/playlist-source-table.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/playlist-spotify-saves.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/shazam-totals.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/shazams-by-artist.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/shazams-by-asset.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/tiktok-geolocation-performance.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/tiktok-totals.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/tiktok-track-performance.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends/scheduled-reports-page.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/geolocation-performance.tsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/pie-chart.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/play-age.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/play-duration.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/play-gender.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/play-sources.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/playlist-audience-engagement.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/playlist-audio-format.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/playlist-filter-toggle.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/playlist-geolocation.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/playlist-listeners.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/playlist-performance.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/shazam-totals.tsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/shazams-by-artist.tsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/shazams-by-asset.tsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/spotify-saves-label.js",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/spotify-saves.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/spotify-user-access-type.jsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/tiktok-totals.tsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/track-performance.tsx",
+      "target": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss"
+    },
+    {
+      "source": "hoc/scroll-context.jsx",
+      "target": "hoc/scroll-context-styles.scss"
+    },
+    {
+      "source": "barrels/entity/metadata-translations/dialog.jsx",
+      "target": "barrels/metadata-translations-common/dialog-styles.scss"
+    },
+    {
+      "source": "barrels/entity/metadata-translations/group.jsx",
+      "target": "barrels/metadata-translations-common/dialog-styles.scss"
+    },
+    {
+      "source": "components/input/inline-save.jsx",
+      "target": "components/input/input.scss"
+    },
+    {
+      "source": "components/input/input.jsx",
+      "target": "components/input/input.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-detail.jsx",
+      "target": "components/pinable-header/pinable-header.scss"
+    },
+    {
+      "source": "components/@next/pin-header/pin-header.jsx",
+      "target": "components/pinable-header/pinable-header.scss"
+    },
+    {
+      "source": "components/pinable-header/pinable-header.jsx",
+      "target": "components/pinable-header/pinable-header.scss"
+    },
+    {
+      "source": "barrels/entity/tags/entity-tags-with-leftnav.jsx",
+      "target": "barrels/entity/tags/entity-tags.scss"
+    },
+    {
+      "source": "barrels/accounting/accounting-view.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/accounting-sub-org/accounting-dashboard.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/artist-view/artist-view.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/artist-view/metadata-translations/styles.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-details.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-files.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/asset-details/audio-file/header-upload-progress.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/asset-details/encode-video-warning-dialog.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/asset-details/metadata-translations/styles.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/asset-details/stereo-files-uploading/stereo-files-uploading.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions-dialog-buttons/styles.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/breadcrumb/breadcrumb.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-main-component.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/create-artist/create-artist-actions.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/create-artist/create-artist.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/create-assets/create-assets.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/custom-report/custom-report.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/custom-report/row-options-popover.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/dsp-configs/dsp-configs.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/dsp-connections/dsp-connections.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/entity/tags/entity-tags.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/form/form-errors-snack.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/form/form-errors-snack.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/form/form.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/input-fields.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/time-input.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/help/help-slider.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/labels/labels-view.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/metadata-translations-common/dialog-styles.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/metadata-translations-common/translations-grid-base.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/organization/organization-view.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/partners/partners.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/player/play-asset-button.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/player/player-container.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/metadata-translations/styles.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-actions-select/product-actions-select.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/add-delivery-instructions.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/edit-delivery-instruction.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/product-delivery.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/redeliver-product-dialog.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery-history.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-header/product-header.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-menu-header.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-state-progress.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-territory.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-usage-rights/product-usage-rights.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-apple-digital-masters.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/trends/total-selector.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/trends/trend-percentage-indicator.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/trends/trends-filter.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/trends/trends-product.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/trends/trends.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/paginator.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-detail.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-view.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/user/user-view.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/webhooks/webhooks-destinations-overview.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/webhooks/webhooks.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/artist/list/artist-list.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/badge/badge-list.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/badge/badge.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/badge/trends-badge.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/box/box.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/button/google-signin-button.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/chart/bar/bar-chart.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/chart/line/line-chart.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/chart/pie/pie-chart.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/chart/switcher/chart-type-switcher.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/chart/tooltip.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/checkbox/checkbox.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/circular-progressbar/circular-progressbar.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/date-range-selector/calendar.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/delivery/dsp-group-dsp-list-selector.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/dialog/dialog.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/empty-section/empty-section.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/error-section/error-section.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/feedback/feedback-button.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/filter-panel/filter-panel.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/grid/grid.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/grid/infinite-grid.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/input/input-text.jsx",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/input/input.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/lists/editable-list-button.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/lists/title-list.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/loader/loader.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/missing-fields/missing-fields.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/month-range-selector/calendar.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/paginator/paginator.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/pinable-header/pinable-header.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/player/player.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/popup/popup.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/product/image/product-image.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/search/global-search.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/search/search-input.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/search/search.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/section/section.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/selector/selector.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/shared-scss/login-form.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/slider/slider.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/status-indicator/status-indicator.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/suggestions/suggestions.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/territory/territories-detailed.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/territory/territory-overrides.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/type-indicator/type-indicator.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "components/uploader/button-uploader.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "constants/distinct-pallete.js",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "containers/contact/contact.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "containers/page/page.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "hoc/scroll-context-styles.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "hoc/scroll-context.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "styles/global.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "styles/mixins.scss",
+      "target": "styles/colors.scss"
+    },
+    {
+      "source": "barrels/product-view/territory-based-release-date/edit-territory-based-release-dialog.jsx",
+      "target": "barrels/product-view/territory-based-release-date/territory-based-release-form.scss"
+    },
+    {
+      "source": "barrels/product-view/territory-based-release-date/territory-based-release-form.jsx",
+      "target": "barrels/product-view/territory-based-release-date/territory-based-release-form.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion-common.jsx",
+      "target": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion-error-boundary.jsx",
+      "target": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion-flow-view.jsx",
+      "target": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion-header.jsx",
+      "target": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-common-v2.jsx",
+      "target": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-flow-view-v2.jsx",
+      "target": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-header-v2.jsx",
+      "target": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss"
+    },
+    {
+      "source": "barrels/metadata-validation/validations-details.jsx",
+      "target": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss"
+    },
+    {
+      "source": "components/date-range-selector/date-range-selector.jsx",
+      "target": "components/date-range-selector/calendar.scss"
+    },
+    {
+      "source": "barrels/artist-view/artist-identifier-dialog.jsx",
+      "target": "barrels/artist-view/artist-view.scss"
+    },
+    {
+      "source": "barrels/artist-view/artist-identifiers-list.jsx",
+      "target": "barrels/artist-view/artist-view.scss"
+    },
+    {
+      "source": "barrels/artist-view/artist-image.jsx",
+      "target": "barrels/artist-view/artist-view.scss"
+    },
+    {
+      "source": "barrels/artist-view/artist-info.jsx",
+      "target": "barrels/artist-view/artist-view.scss"
+    },
+    {
+      "source": "barrels/artist-view/delete-artist-dialog.jsx",
+      "target": "barrels/artist-view/artist-view.scss"
+    },
+    {
+      "source": "barrels/search/hermes-search.jsx",
+      "target": "barrels/main-menu/search/search.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-header.jsx",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-territory.jsx",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-video-files.jsx",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-video-preview.jsx",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-view-with-leftnav/asset-view-details.jsx",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/asset-details/play-asset-icon.jsx",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/asset-details/product-asset-details.jsx",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/asset-details/product-asset-with-leftnav/asset-details/asset-details.jsx",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/asset-details/product-asset-with-leftnav/asset-details/helpers.ts",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/asset-details/product-asset-with-leftnav/asset-video-files.jsx",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/asset-details/product-asset-with-leftnav/asset-video-preview.jsx",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/asset-details/product-asset-with-leftnav/product-asset-details.tsx",
+      "target": "barrels/asset-details/asset-details.scss"
+    },
+    {
+      "source": "barrels/custom-report/custom-report-chart.jsx",
+      "target": "barrels/custom-report/custom-report.scss"
+    },
+    {
+      "source": "barrels/custom-report/custom-report-page.jsx",
+      "target": "barrels/custom-report/custom-report.scss"
+    },
+    {
+      "source": "barrels/custom-report/insights/playlist-source-table.jsx",
+      "target": "barrels/custom-report/custom-report.scss"
+    },
+    {
+      "source": "barrels/custom-report/widget/components/widget-fallback.jsx",
+      "target": "barrels/custom-report/custom-report.scss"
+    },
+    {
+      "source": "barrels/trends/trends.jsx",
+      "target": "barrels/custom-report/custom-report.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-view.jsx",
+      "target": "barrels/custom-report/custom-report.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/playlist-audio-format.jsx",
+      "target": "barrels/custom-report/custom-report.scss"
+    },
+    {
+      "source": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions/helpers.js",
+      "target": "barrels/bulk-actions/bulk-main-component.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-actions-modals/bulk-action-approve.jsx",
+      "target": "barrels/bulk-actions/bulk-main-component.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-actions-modals/bulk-action-common.jsx",
+      "target": "barrels/bulk-actions/bulk-main-component.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-actions-modals/bulk-action-delete.jsx",
+      "target": "barrels/bulk-actions/bulk-main-component.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-actions-modals/bulk-action-push-to-suborg.jsx",
+      "target": "barrels/bulk-actions/bulk-main-component.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-actions-modals/bulk-action-redeliver.jsx",
+      "target": "barrels/bulk-actions/bulk-main-component.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-actions-modals/bulk-action-takedown.jsx",
+      "target": "barrels/bulk-actions/bulk-main-component.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-actions-modals/bulk-action-territory-update.jsx",
+      "target": "barrels/bulk-actions/bulk-main-component.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-actions-modals/bulk-action-usage-rights.jsx",
+      "target": "barrels/bulk-actions/bulk-main-component.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/product/bulk-config-modal-product.jsx",
+      "target": "barrels/bulk-actions/bulk-main-component.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-details.scss",
+      "target": "components/section/section.scss"
+    },
+    {
+      "source": "barrels/dsp-configs/dsp-configs.scss",
+      "target": "components/section/section.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view.scss",
+      "target": "components/section/section.scss"
+    },
+    {
+      "source": "components/section/content.jsx",
+      "target": "components/section/section.scss"
+    },
+    {
+      "source": "components/section/editable-section.jsx",
+      "target": "components/section/section.scss"
+    },
+    {
+      "source": "components/section/section/section.tsx",
+      "target": "components/section/section.scss"
+    },
+    {
+      "source": "components/section/section-header/section-header.tsx",
+      "target": "components/section/section.scss"
+    },
+    {
+      "source": "barrels/label-view/label-view-layout/label-view-layout.tsx",
+      "target": "barrels/label-view/label-view-layout/label-page.scss"
+    },
+    {
+      "source": "components/loader/loader.tsx",
+      "target": "components/loader/loader.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-header.jsx",
+      "target": "barrels/product-view/product-header/product-header.scss"
+    },
+    {
+      "source": "barrels/product-view/product-header/product-header.jsx",
+      "target": "barrels/product-view/product-header/product-header.scss"
+    },
+    {
+      "source": "components/player/player.jsx",
+      "target": "components/player/player.scss"
+    },
+    {
+      "source": "barrels/accounting-sub-org/accounting-dashboard.jsx",
+      "target": "barrels/accounting-sub-org/accounting-dashboard.scss"
+    },
+    {
+      "source": "barrels/accounting-sub-org/accounting-entity-dashboard.jsx",
+      "target": "barrels/accounting-sub-org/accounting-dashboard.scss"
+    },
+    {
+      "source": "barrels/accounting-sub-org/accounting-error-boundary.jsx",
+      "target": "barrels/accounting-sub-org/accounting-dashboard.scss"
+    },
+    {
+      "source": "barrels/accounting-sub-org/accounting-indicators.jsx",
+      "target": "barrels/accounting-sub-org/accounting-dashboard.scss"
+    },
+    {
+      "source": "barrels/accounting-sub-org/accounting-menu.jsx",
+      "target": "barrels/accounting-sub-org/accounting-dashboard.scss"
+    },
+    {
+      "source": "barrels/metadata-translations-common/translations-grid-base.jsx",
+      "target": "barrels/metadata-translations-common/translations-grid-base.scss"
+    },
+    {
+      "source": "components/chart/line/line-chart.jsx",
+      "target": "components/chart/line/line-chart.scss"
+    },
+    {
+      "source": "barrels/labels/add-eone-label.jsx",
+      "target": "barrels/labels/labels-view.scss"
+    },
+    {
+      "source": "barrels/labels/labels-view.jsx",
+      "target": "barrels/labels/labels-view.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-territory.jsx",
+      "target": "barrels/product-view/product-territory.scss"
+    },
+    {
+      "source": "components/image-loader/image-loader.jsx",
+      "target": "components/image-loader/image-loader.scss"
+    },
+    {
+      "source": "containers/main/main.jsx",
+      "target": "containers/main/main.scss"
+    },
+    {
+      "source": "components/empty-section/empty-section.jsx",
+      "target": "components/empty-section/empty-section.scss"
+    },
+    {
+      "source": "components/lists/editable-list-button.jsx",
+      "target": "components/lists/editable-list-button.scss"
+    },
+    {
+      "source": "components/search/global-search.jsx",
+      "target": "components/search/global-search.scss"
+    },
+    {
+      "source": "components/search/hermes-input-search.jsx",
+      "target": "components/search/global-search.scss"
+    },
+    {
+      "source": "barrels/product-view/product-actions-select/copy-fields-dialog.jsx",
+      "target": "barrels/product-view/product-actions-select/product-actions-select.scss"
+    },
+    {
+      "source": "barrels/product-view/product-actions-select/delete-product-dialog.jsx",
+      "target": "barrels/product-view/product-actions-select/product-actions-select.scss"
+    },
+    {
+      "source": "barrels/product-view/product-actions-select/entity-header.jsx",
+      "target": "barrels/product-view/product-actions-select/product-actions-select.scss"
+    },
+    {
+      "source": "barrels/product-view/product-actions-select/labelled-checkbox.jsx",
+      "target": "barrels/product-view/product-actions-select/product-actions-select.scss"
+    },
+    {
+      "source": "barrels/product-view/product-actions-select/product-actions-select.jsx",
+      "target": "barrels/product-view/product-actions-select/product-actions-select.scss"
+    },
+    {
+      "source": "barrels/product-view/product-actions-select/product-asset-list.jsx",
+      "target": "barrels/product-view/product-actions-select/product-actions-select.scss"
+    },
+    {
+      "source": "barrels/product-view/product-actions-select/undelete-product-dialog.jsx",
+      "target": "barrels/product-view/product-actions-select/product-actions-select.scss"
+    },
+    {
+      "source": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions-dialog-buttons/warning-costs-button/warning-costs-button.jsx",
+      "target": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions-dialog-buttons/styles.scss"
+    },
+    {
+      "source": "components/uploader/button-uploader.jsx",
+      "target": "components/uploader/button-uploader.scss"
+    },
+    {
+      "source": "components/login/login-logo.jsx",
+      "target": "components/shared-scss/login-form.scss"
+    },
+    {
+      "source": "components/password/reset.tsx",
+      "target": "components/shared-scss/login-form.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-attachments/styles.scss",
+      "target": "barrels/product-view/styles/responsive.scss"
+    },
+    {
+      "source": "components/grid/infinite-table.jsx",
+      "target": "components/grid/infinite-grid.scss"
+    },
+    {
+      "source": "components/suggestions/suggestions.jsx",
+      "target": "components/suggestions/suggestions.scss"
+    },
+    {
+      "source": "barrels/submitted-products/submitted-products-filter.jsx",
+      "target": "barrels/submitted-products/submitted-products.scss"
+    },
+    {
+      "source": "barrels/product-view/product-usage-rights/usage-rights-configuration-dialog.tsx",
+      "target": "barrels/product-view/product-usage-rights/product-usage-rights.scss"
+    },
+    {
+      "source": "barrels/product-view/product-usage-rights/usage-rights-selector.jsx",
+      "target": "barrels/product-view/product-usage-rights/product-usage-rights.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-usage-rights.jsx",
+      "target": "barrels/product-view/product-usage-rights/product-usage-rights.scss"
+    },
+    {
+      "source": "components/search/search.jsx",
+      "target": "components/search/search.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-detail.jsx",
+      "target": "barrels/trends-playlists/trends-playlists-detail.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/add-delivery-instructions.jsx",
+      "target": "barrels/product-view/product-delivery/add-delivery-instructions.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/dsp-groups-selector.jsx",
+      "target": "barrels/product-view/product-delivery/add-delivery-instructions.scss"
+    },
+    {
+      "source": "components/month-range-selector/month-range-selector.jsx",
+      "target": "components/month-range-selector/month-range-selector.scss"
+    },
+    {
+      "source": "components/grid/grid.jsx",
+      "target": "components/grid/grid.scss"
+    },
+    {
+      "source": "containers/application.scss",
+      "target": "styles/global.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/metadata-ingestion-status.jsx",
+      "target": "barrels/metadata-ingestion-self-service/metadata-ingestion-self-serviceV2/barrels/metadata-ingestion-self-service/metadata-ingestion.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/column-trends-export.jsx",
+      "target": "barrels/trends-playlists/trends-playlists-view.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-amazon.jsx",
+      "target": "barrels/trends-playlists/trends-playlists-view.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-deezer.jsx",
+      "target": "barrels/trends-playlists/trends-playlists-view.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-itunes.jsx",
+      "target": "barrels/trends-playlists/trends-playlists-view.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-line-music.jsx",
+      "target": "barrels/trends-playlists/trends-playlists-view.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-pandora.jsx",
+      "target": "barrels/trends-playlists/trends-playlists-view.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-spotify.jsx",
+      "target": "barrels/trends-playlists/trends-playlists-view.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-view.jsx",
+      "target": "barrels/trends-playlists/trends-playlists-view.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/trends-export.jsx",
+      "target": "barrels/trends-playlists/trends-playlists-view.scss"
+    },
+    {
+      "source": "components/chart/pie/pie-chart.jsx",
+      "target": "components/chart/pie/pie-chart.scss"
+    },
+    {
+      "source": "components/search/search-input.jsx",
+      "target": "components/search/search-input.scss"
+    },
+    {
+      "source": "components/territory/territory-label.jsx",
+      "target": "components/territory/territory-overrides.scss"
+    },
+    {
+      "source": "components/territory/territory-overrides.jsx",
+      "target": "components/territory/territory-overrides.scss"
+    },
+    {
+      "source": "barrels/user/user-form.tsx",
+      "target": "barrels/user/user-view.scss"
+    },
+    {
+      "source": "components/chart/bar/bar-chart.jsx",
+      "target": "components/chart/bar/bar-chart.scss"
+    },
+    {
+      "source": "components/chart/bar/play-duration-bar-chart.jsx",
+      "target": "components/chart/bar/bar-chart.scss"
+    },
+    {
+      "source": "components/slider/slider.jsx",
+      "target": "components/slider/slider.scss"
+    },
+    {
+      "source": "components/lists/title-list.jsx",
+      "target": "components/lists/title-list.scss"
+    },
+    {
+      "source": "components/delivery/dsp-group-dsp-list-selector.jsx",
+      "target": "components/delivery/dsp-group-dsp-list-selector.scss"
+    },
+    {
+      "source": "components/ajax-preloader/ajax-preloader.jsx",
+      "target": "components/ajax-preloader/ajax-preloader.scss"
+    },
+    {
+      "source": "components/artist/item/artist-item.jsx",
+      "target": "components/artist/list/artist-list.scss"
+    },
+    {
+      "source": "components/badge/badge.jsx",
+      "target": "components/badge/badge.scss"
+    },
+    {
+      "source": "components/popup/popup.jsx",
+      "target": "components/popup/popup.scss"
+    },
+    {
+      "source": "barrels/player/play-asset-button.jsx",
+      "target": "barrels/player/play-asset-button.scss"
+    },
+    {
+      "source": "components/selector/selector.jsx",
+      "target": "components/selector/selector.scss"
+    },
+    {
+      "source": "barrels/product-view/metadata-translations/metadata-translation-group.jsx",
+      "target": "barrels/product-view/metadata-translations/styles.scss"
+    },
+    {
+      "source": "barrels/product-view/metadata-translations/translations-dialog.jsx",
+      "target": "barrels/product-view/metadata-translations/styles.scss"
+    },
+    {
+      "source": "barrels/trends/total-selector.jsx",
+      "target": "barrels/trends/total-selector.scss"
+    },
+    {
+      "source": "barrels/asset-details/encodings.jsx",
+      "target": "barrels/asset-details/encodings.scss"
+    },
+    {
+      "source": "barrels/dsp-configs/dsp-configs.jsx",
+      "target": "barrels/dsp-configs/dsp-configs.scss"
+    },
+    {
+      "source": "components/chart/switcher/chart-type-switcher.jsx",
+      "target": "components/chart/switcher/chart-type-switcher.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/time-input.jsx",
+      "target": "barrels/form/input-fields/time-input.scss"
+    },
+    {
+      "source": "components/chip/chip.jsx",
+      "target": "components/chip/chip.scss"
+    },
+    {
+      "source": "components/filter-panel/filter-panel.jsx",
+      "target": "components/filter-panel/filter-panel.scss"
+    },
+    {
+      "source": "components/date-range-selector/date-range-selector.jsx",
+      "target": "components/date-range-selector/date-range-selector.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-trends.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/context-accept-product.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/context-redeliver-asset.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/context-reject-product.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/context-unlock-asset.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/context-unlock-product.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/context-view-actions.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/empty-product-view/empty-product-view.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-core-item-number.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/add-delivery-instructions.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/confirm-action-instruction-dialog.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/delivery-history-dialog.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/delivery-table.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery-instructions.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-header/product-header.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-info.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-label-management/product-label-management.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-trends.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-info.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-label-management.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-pricing-section.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view-with-left-nav/product-details-sections/territory-based-release/territory-based-release-grid.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view-with-left-nav/product-details-sections/translations-section/meta-data-translations-section.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/submitted-products/accept-product-dialog.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/submitted-products/reject-product-dialog.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/submitted-products/submitted-products-actions/accept-products-dialog.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "barrels/submitted-products/submitted-products-actions/reject-products-dialog.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "components/pricing/custom-pricing-table.jsx",
+      "target": "barrels/product-view/product-view.scss"
+    },
+    {
+      "source": "components/error-section/error-section.jsx",
+      "target": "components/error-section/error-section.scss"
+    },
+    {
+      "source": "components/image/image-upload-controller.jsx",
+      "target": "components/product/image/product-image.scss"
+    },
+    {
+      "source": "components/product/image/product-image.jsx",
+      "target": "components/product/image/product-image.scss"
+    },
+    {
+      "source": "barrels/form/form-field.jsx",
+      "target": "barrels/form/form.scss"
+    },
+    {
+      "source": "barrels/product-view/territory-based-release-date/territory-based-release-form.jsx",
+      "target": "barrels/form/form.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery-history.jsx",
+      "target": "barrels/product-view/product-delivery-history.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/auto-assign-input.jsx",
+      "target": "barrels/form/input-fields/input-fields.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/date-input.jsx",
+      "target": "barrels/form/input-fields/input-fields.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/lookup-input.jsx",
+      "target": "barrels/form/input-fields/input-fields.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/radio-group-input.jsx",
+      "target": "barrels/form/input-fields/input-fields.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/select-check-boxes.jsx",
+      "target": "barrels/form/input-fields/input-fields.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/select-input.jsx",
+      "target": "barrels/form/input-fields/input-fields.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/text-input.jsx",
+      "target": "barrels/form/input-fields/input-fields.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/toggle-input.jsx",
+      "target": "barrels/form/input-fields/input-fields.scss"
+    },
+    {
+      "source": "barrels/product-view/product-state-progress.jsx",
+      "target": "barrels/product-view/product-state-progress.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-attachments/styles.scss",
+      "target": "barrels/product-view/styles/colors.scss"
+    },
+    {
+      "source": "barrels/asset-details/metadata-translations/asset-translations-dialog.jsx",
+      "target": "barrels/asset-details/metadata-translations/styles.scss"
+    },
+    {
+      "source": "barrels/asset-details/metadata-translations/asset-translations-group.jsx",
+      "target": "barrels/asset-details/metadata-translations/styles.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-video-crop-dialog-input.jsx",
+      "target": "barrels/asset-details/asset-video-crop-dialog-input.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/delivery-table.jsx",
+      "target": "barrels/product-view/product-delivery/product-delivery.scss"
+    },
+    {
+      "source": "barrels/artist-view/metadata-translations/artist-translations-dialog.jsx",
+      "target": "barrels/metadata-translations-common/translations-dialog-base.scss"
+    },
+    {
+      "source": "barrels/asset-details/metadata-translations/asset-translations-dialog.jsx",
+      "target": "barrels/metadata-translations-common/translations-dialog-base.scss"
+    },
+    {
+      "source": "barrels/entity/metadata-translations/dialog.jsx",
+      "target": "barrels/metadata-translations-common/translations-dialog-base.scss"
+    },
+    {
+      "source": "barrels/product-view/metadata-translations/translations-dialog.jsx",
+      "target": "barrels/metadata-translations-common/translations-dialog-base.scss"
+    },
+    {
+      "source": "barrels/accounting/accounting-view.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/accounting-sub-org/accounting-dashboard.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/artist-view/artist-view.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/artist-view/metadata-translations/styles.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-details.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-video-crop-dialog-input.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/asset-details/encodings.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/asset-details/metadata-translations/styles.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions-dialog-buttons/styles.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/assets-catalog/assets-catalog-bulk-actions/bulk-actions-dialog/bulk-actions-dialog-buttons/styles.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/breadcrumb/breadcrumb.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-main-component.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/bulk-actions/bulk-main-component.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/custom-report/custom-report.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/dsp-configs/dsp-configs.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/dsp-connections/dsp-connections.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/form/form-errors-snack.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/form/form.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/input-fields.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/help/help-slider.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/labels/labels-view.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/metadata-translations-common/dialog-styles.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/metadata-translations-common/translations-grid-base.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/organization/organization-view.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/partners/partners.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/player/play-asset-button.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/player/player-container.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/product-view/metadata-translations/styles.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/product-view/product-actions-select/product-actions-select.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/add-delivery-instructions.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/edit-delivery-instruction.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery-history.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/product-view/product-header/product-header.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/product-view/product-menu-header.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/product-view/product-state-progress.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/product-view/product-territory.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/product-view/product-usage-rights/product-usage-rights.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/trends/total-selector.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/trends/trend-percentage-indicator.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/trends/trends-filter.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/trends/trends-menu.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/trends/trends-product.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/trends/trends.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/paginator.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-detail.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/trends-playlists-view.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/trends-playlists/widgets/trends-playlists-widgets.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/user/user-view.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/webhooks/webhooks.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/artist/list/artist-list.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/badge/badge-list.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/badge/badge.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/badge/trends-badge.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/box/box.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/chart/bar/bar-chart.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/chart/pie/pie-chart.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/chart/switcher/chart-type-switcher.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/chart/tooltip.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/date-range-selector/calendar.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/date-range-selector/date-range-selector.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/delivery/dsp-group-dsp-list-selector.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/empty-section/empty-section.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/error-section/error-section.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/feedback/feedback-button.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/grid/grid.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/grid/infinite-grid.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/image-loader/image-loader.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/lists/editable-list-button.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/lists/title-list.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/missing-fields/missing-fields.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/month-range-selector/calendar.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/month-range-selector/month-range-selector.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/pinable-header/pinable-header.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/popup/popup.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/product/image/product-image.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/scroll-to-top/scroll-to-top.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/search/global-search.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/search/search-input.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/search/search.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/section/section.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/selector/selector.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/shared-scss/login-form.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/slider/slider.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/status-indicator/status-indicator.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/suggestions/suggestions.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/territory/territories-detailed.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/territory/territory-overrides.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/type-indicator/type-indicator.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "components/uploader/button-uploader.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "containers/contact/contact.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "containers/main/main.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "containers/page/page.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "hoc/scroll-context-styles.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "hoc/scroll-context.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "styles/global.scss",
+      "target": "styles/mixins.scss"
+    },
+    {
+      "source": "barrels/artist-view/artist-view.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/artist-view/metadata-translations/styles.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/asset-details/asset-details.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/asset-details/metadata-translations/styles.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/custom-report/custom-report.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/dsp-configs/dsp-configs.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/dsp-connections/dsp-connections.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/form/form-errors-snack.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/form/form.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/form/input-fields/input-fields.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/help/help-slider.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/labels/labels-view.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/metadata-translations-common/dialog-styles.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/metadata-translations-common/translations-grid-base.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/organization/organization-view.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/partners/partners.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/player/play-asset-button.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/player/player-container.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/product-view/metadata-translations/styles.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery-history.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/product-view/product-header/product-header.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/product-view/product-menu-header.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/product-view/product-territory.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/trends/total-selector.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/trends/trends-filter.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/trends/trends-menu.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/trends/trends-product.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/trends/trends.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/user/user-view.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/webhooks/webhooks.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/artist/list/artist-list.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/badge/trends-badge.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/box/box.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/chart/tooltip.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/lists/editable-list-button.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/lists/title-list.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/paginator/paginator.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/pinable-header/pinable-header.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/player/player.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/popup/popup.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/product/image/product-image.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/section/section.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/suggestions/suggestions.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "components/territory/territory-overrides.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "constants/responsive.js",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "containers/contact/contact.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "containers/page/page.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "hoc/scroll-context-styles.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "hoc/scroll-context.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "styles/global.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "styles/mixins.scss",
+      "target": "styles/responsive.scss"
+    },
+    {
+      "source": "barrels/custom-report/custom-report-filters.jsx",
+      "target": "barrels/trends/trends-filter.scss"
+    },
+    {
+      "source": "barrels/trends/trends-filter-chips.jsx",
+      "target": "barrels/trends/trends-filter.scss"
+    },
+    {
+      "source": "barrels/trends/trends-filter.jsx",
+      "target": "barrels/trends/trends-filter.scss"
+    },
+    {
+      "source": "barrels/breadcrumb/breadcrumb.jsx",
+      "target": "barrels/breadcrumb/breadcrumb.scss"
+    },
+    {
+      "source": "components/clone/clone-dialog.jsx",
+      "target": "components/clone/clone-dialog.scss"
+    },
+    {
+      "source": "barrels/partners/partner-details-description.jsx",
+      "target": "barrels/partners/partners.scss"
+    },
+    {
+      "source": "barrels/partners/partner-details-header.jsx",
+      "target": "barrels/partners/partners.scss"
+    },
+    {
+      "source": "barrels/partners/partner-details-menu.jsx",
+      "target": "barrels/partners/partners.scss"
+    },
+    {
+      "source": "barrels/partners/partner-details.jsx",
+      "target": "barrels/partners/partners.scss"
+    },
+    {
+      "source": "barrels/partners/partner-item.tsx",
+      "target": "barrels/partners/partners.scss"
+    },
+    {
+      "source": "barrels/partners/partners-available.jsx",
+      "target": "barrels/partners/partners.scss"
+    },
+    {
+      "source": "barrels/partners/partners-entity-linking.jsx",
+      "target": "barrels/partners/partners.scss"
+    },
+    {
+      "source": "barrels/partners/partners-error-boundary.tsx",
+      "target": "barrels/partners/partners.scss"
+    },
+    {
+      "source": "barrels/partners/partners.tsx",
+      "target": "barrels/partners/partners.scss"
+    },
+    {
+      "source": "components/status-indicator/status-indicator.jsx",
+      "target": "components/status-indicator/status-indicator.scss"
+    },
+    {
+      "source": "components/type-indicator/type-indicator.jsx",
+      "target": "components/status-indicator/status-indicator.scss"
+    },
+    {
+      "source": "containers/web-uploader/uploader-container.jsx",
+      "target": "containers/web-uploader/uploader-container.scss"
+    },
+    {
+      "source": "barrels/product-view/product-intervals/add-product-interval-table.jsx",
+      "target": "components/pricing/add-product-pricing-table.scss"
+    },
+    {
+      "source": "components/pricing/add-product-pricing-table.jsx",
+      "target": "components/pricing/add-product-pricing-table.scss"
+    },
+    {
+      "source": "barrels/product-view/product-view-with-left-nav/product-details-sections/product-attachments/styles.scss",
+      "target": "barrels/product-view/styles/mixins.scss"
+    },
+    {
+      "source": "barrels/accounting/revenues-filters.jsx",
+      "target": "barrels/accounting/accounting-view.scss"
+    },
+    {
+      "source": "barrels/accounting/revenues-view.jsx",
+      "target": "barrels/accounting/accounting-view.scss"
+    },
+    {
+      "source": "barrels/accounting/statements-view.jsx",
+      "target": "barrels/accounting/accounting-view.scss"
+    },
+    {
+      "source": "components/missing-fields/missing-fields.jsx",
+      "target": "components/missing-fields/missing-fields.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/delivery-status-dialog.jsx",
+      "target": "barrels/product-view/product-delivery/delivery-status-dialog.scss"
+    },
+    {
+      "source": "barrels/trends/trends-menu.jsx",
+      "target": "barrels/trends/trends-menu.scss"
+    },
+    {
+      "source": "barrels/trends/trends-saved-filters.jsx",
+      "target": "barrels/trends/trends-menu.scss"
+    },
+    {
+      "source": "containers/contact/contact.tsx",
+      "target": "containers/contact/contact.scss"
+    },
+    {
+      "source": "components/feedback/feedback-button.jsx",
+      "target": "components/feedback/feedback-button.scss"
+    },
+    {
+      "source": "components/badge/badge-list.jsx",
+      "target": "components/badge/badge-list.scss"
+    },
+    {
+      "source": "components/badge/trends-badge.jsx",
+      "target": "components/badge/trends-badge.scss"
+    },
+    {
+      "source": "components/chart/tooltip.jsx",
+      "target": "components/chart/tooltip.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/redeliver-product-asset-dialog.jsx",
+      "target": "barrels/product-view/product-delivery/redeliver-product-dialog.scss"
+    },
+    {
+      "source": "barrels/product-view/product-delivery/redeliver-product-dialog.jsx",
+      "target": "barrels/product-view/product-delivery/redeliver-product-dialog.scss"
+    },
+    {
+      "source": "components/error-handler/error-handler.jsx",
+      "target": "components/error-handler/error-handler.scss"
+    },
+    {
+      "source": "barrels/dsp-connections/dsp-connections-menu.jsx",
+      "target": "barrels/dsp-connections/dsp-connections.scss"
+    },
+    {
+      "source": "components/box/box.jsx",
+      "target": "components/box/box.scss"
+    },
+    {
+      "source": "components/month-range-selector/month-range-selector.jsx",
+      "target": "components/month-range-selector/calendar.scss"
+    },
+    {
+      "source": "barrels/web-uploader/upload-table/upload-table.jsx",
+      "target": "barrels/web-uploader/upload-table/upload-table.scss"
+    },
+    {
+      "source": "barrels/player/player-container.jsx",
+      "target": "barrels/player/player-container.scss"
+    },
+    {
+      "source": "barrels/product-view/product-menu-header.jsx",
+      "target": "barrels/product-view/product-menu-header.scss"
+    },
+    {
+      "source": "barrels/webhooks/webhooks-destination-configuration.jsx",
+      "target": "barrels/webhooks/webhooks.scss"
+    },
+    {
+      "source": "barrels/webhooks/webhooks-destinations-overview.jsx",
+      "target": "barrels/webhooks/webhooks.scss"
+    },
+    {
+      "source": "barrels/webhooks/webhooks-upsell.jsx",
+      "target": "barrels/webhooks/webhooks.scss"
+    }
+  ]
+}

@@ -28,9 +28,9 @@ go run cmd/main.go search /Users/daniel/muse/front-end/src
 5. The results are in the `generated` directory
 
 ## How to run the visualisation tool
-1. copy the latest version of the `generated/results__YYYY-MM-DD_HH-MM-SS.json` file to the `webserver/static` directory
+1. copy the  `generated/d3data.json` file to the `webserver/static` directory
 ```bash
-cp generated/results__YYYY-MM-DD_HH-MM-SS.json webserver/static/results.json
+cp generated/d3data.json webserver/static/results.json
 ```
 
 2. run the web server

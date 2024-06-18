@@ -18,6 +18,10 @@ func SearchFiles(folderName string) {
 	fs := NewFileSearcher()
 
 	results := MakeResultsFromFileData(&files, fs)
+	d3data := MakeD3Data(results)
+
+	WriteResultsToFile(d3data, "generated/d3data.json")
+	fmt.Println("Results for visualisation written to: generated/d3data.json")
 	now := time.Now()
 	formattedDate := fmt.Sprintf("__%d-%d-%d_%d-%d-%d", now.Year(), now.Month(), now.Day(), now.Hour(), now.Minute(), now.Second())
 	resultsFileName := fmt.Sprintf("generated/results%s.json", formattedDate)
