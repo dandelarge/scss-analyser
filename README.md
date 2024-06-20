@@ -32,7 +32,7 @@ go run cmd/main.go search /Users/daniel/muse/front-end/src
 ## How to run the visualisation tool
 1. copy the  `generated/d3data.json` file to the `webserver/static` directory
 ```bash
-cp generated/d3data.json webserver/static/results.json
+cp generated/d3data.json webapp/static/results.json
 ```
 
 2. run the web server
@@ -45,17 +45,20 @@ go run cmd/main.go serve
 You can run the `search` command again to get new results and copy the new file to the `webserver/static` directory. On refresh, you'll see the new results.
 
 ## Building a binary
+Inside the `analyser` directory:
 ```bash
-go build -o muse-analyser cmd/main.go
+go build -o muse-analyser ./cmd/main.go
 ```
 
 ###  Running the binary
+Inside the `analyser` directory:
 For searching
 ```bash
 ./muse-analyser search /Users/daniel/muse/front-end/src
 ```
 
 For serving the visualisation tool
+Inside the `analyser` directory:
 ```bash
 ./muse-analyser serve
 ```
