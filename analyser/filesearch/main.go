@@ -70,5 +70,7 @@ func SearchFiles(folderName string) {
 		outputFileName := strings.ReplaceAll(result.File, "."+fileExtension, "_"+fileExtension+".json")
 		outputFileName = strings.ReplaceAll(outputFileName, "/", "__")
 		WriteResultsToFile(fileStructure, "generated/"+outputFileName)
+
 	}
+	fmt.Println("\n\n\n\n\n   +++++++++\n   + DONE! +\n   +++++++++\n\n\n\n\n\n\n\n")
 }

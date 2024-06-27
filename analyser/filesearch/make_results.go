@@ -5,7 +5,46 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"strings"
 )
+
+func MakeFileStructureFromFilename(filename string) (FileStructure, error) {
+
+	matchFilename := strings.ReplaceAll(filename, "/", "__")
+	matchFilename = strings.ReplaceAll(matchFilename, ".", "_")
+	matchFilename = "generated/" + matchFilename + ".json"
+
+	fmt.Println("Reading file: " + matchFilename)
+
+	file, err := os.ReadFile(matchFilename)
+	if err != nil {
+		return FileStructure{}, err
+	}
+
+	var fileStructure FileStructure
+	err = json.Unmarshal(file, &fileStructure)
+
+	if err != nil {
+		return FileStructure{}, err
+	}
+
+	return fileStructure, nil
+}
+
+func MakeResultsFromResultsFile(resultsFile string) Results {
+	file, err := os.ReadFile(resultsFile)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	var results Results
+	err = json.Unmarshal(file, &results)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	return results
+}
 
 func MakeResultsFromFileData(fileData *[]FileData, fileSearcher *FileSearcher) Results {
 	results := Results{}
@@ -104,4 +143,38 @@ func WriteResultsToFile(results any, fileName string) {
 	targetFile.WriteString(string(resultsJson))
 
 	log.Println("Results written to: " + fileName)
+}
+
+func sortAlphabetically(files []string) []string {
+	for i := 0; i < len(files); i++ {
+		for j := i + 1; j < len(files); j++ {
+			if files[i] > files[j] {
+				files[i], files[j] = files[j], files[i]
+			}
+		}
+	}
+	return files
+}
+
+func ListResultsFiles() []string {
+	resultsFiles := []string{}
+
+	files, err := os.ReadDir("generated")
+	if err != nil {
+		fmt.Println("Error reading the 'generated' folder")
+		panic(err)
+	}
+
+	for _, file := range files {
+		if strings.Index(file.Name(), "results") > -1 {
+			resultsFiles = append(resultsFiles, file.Name())
+		}
+	}
+	return sortAlphabetically(resultsFiles)
+}
+
+func LatestResultsFilename() string {
+	resultsFiles := ListResultsFiles()
+	lastResultFile := resultsFiles[len(resultsFiles)-1:][0]
+	return lastResultFile
 }

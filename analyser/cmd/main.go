@@ -16,6 +16,9 @@ func main() {
 	} else {
 		command := args[0]
 		switch command {
+		case "inspect":
+		case "i":
+		case "find":
 		case "search":
 			if len(args) < 2 {
 				fmt.Println("Please provide a folder to search")
@@ -31,6 +34,18 @@ func main() {
 				port = args[1]
 			}
 			webapp.StartServer(port)
+		case "gr":
+		case "graph-results":
+			var fileName string
+			if len(args) < 2 {
+				fileName = filesearch.LatestResultsFilename()
+			} else {
+				fileName = args[1]
+			}
+
+			results := filesearch.MakeResultsFromResultsFile("generated/" + fileName)
+			d3data := filesearch.MakeD3Data(results)
+			filesearch.WriteResultsToFile(d3data, "generated/d3data.json")
 		default:
 			webapp.StartServer("4321")
 		}

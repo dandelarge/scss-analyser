@@ -58,7 +58,9 @@ const svg = d3
   .append("g")
   .attr("transform", "translate(50,50)");
 
-d3.json("/static/results.json").then((data) => {
+d3.json("/static/results.json").then(runGraph);
+
+function runGraph(data) {
   const link = svg
     .selectAll("line")
     .data(data.links)
@@ -85,8 +87,7 @@ d3.json("/static/results.json").then((data) => {
     .style("text-anchor", "left")
     .style("alignment-baseline", "middle");
 
-  const simulation = d3
-    .forceSimulation(data.nodes)
+  d3.forceSimulation(data.nodes)
     .force(
       "link",
       d3
@@ -127,7 +128,7 @@ d3.json("/static/results.json").then((data) => {
         selectedLabel.attr("x", (d) => d.x + 15).attr("y", (d) => d.y);
         highlightNodes.call(this);
       })
-      .on("mouseout", function (e) {
+      .on("mouseout", function () {
         const allNodes = d3.selectAll("circle");
         const allLinks = d3.selectAll("line");
         const allLabels = d3.selectAll("text");
@@ -140,7 +141,7 @@ d3.json("/static/results.json").then((data) => {
           highlightNodes(state.selected);
         }
       })
-      .on("click", function (e) {
+      .on("click", function () {
         fileDetails.innerHTML = "";
         const allNodes = d3.selectAll("circle");
         const allLinks = d3.selectAll("line");
@@ -193,7 +194,7 @@ d3.json("/static/results.json").then((data) => {
 
   const counts = countFiles(data);
   updateCountUI(counts);
-});
+}
 
 function countFiles(data) {
   const fileCount = data.nodes.length;
