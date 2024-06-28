@@ -16,6 +16,10 @@ type DependencyResult struct {
 	SourceFile string
 }
 
+type SearchResult interface {
+	[]string | filesearch.Results | filesearch.FileStructure | Dependencies | []DependencyResult
+}
+
 func GetResults() filesearch.Results {
 	return filesearch.MakeResultsFromResultsFile("generated/" + filesearch.LatestResultsFilename())
 }
@@ -24,6 +28,18 @@ func FindAllImportsForFile(filename string, results *filesearch.Results) []strin
 	fileData := (*results)[filename]
 
 	return fileData.ImportedBy
+}
+
+func GetFileData(filename string, _ *filesearch.Results) filesearch.FileStructure {
+	usages, err := filesearch.MakeFileStructureFromFilename(filename)
+
+	if err != nil {
+		fmt.Println("Error reading file: " + filename)
+		fmt.Println(err)
+		return filesearch.FileStructure{}
+	}
+
+	return usages
 }
 
 func FindUsedDependencies(file string, _ *filesearch.Results) []string {

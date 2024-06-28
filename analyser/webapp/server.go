@@ -32,6 +32,9 @@ func StartServer(port string) {
 	GetImports := GetHandlerForFunction(data.FindAllImportsForFile)
 	r.HandleFunc("/api/imports", GetImports).Methods("GET")
 
+	GetFileData := GetHandlerForFunction(data.GetFileData)
+	r.HandleFunc("/api/filedata", GetFileData).Methods("GET")
+
 	fs := http.FileServer(http.Dir("./webapp/static"))
 	r.PathPrefix("/static/").Handler(http.StripPrefix("/static/", fs))
 
@@ -107,7 +110,7 @@ func GetDependencies(w http.ResponseWriter, r *http.Request) {
 	w.Write(dependenciesJson)
 }
 
-func GetHandlerForFunction(f func(file string, results *filesearch.Results) []string) func(path http.ResponseWriter, r *http.Request) {
+func GetHandlerForFunction[T data.SearchResult](f func(file string, results *filesearch.Results) T) func(path http.ResponseWriter, r *http.Request) {
 	return func(w http.ResponseWriter, r *http.Request) {
 		query := r.URL.Query()
 		file := query.Get("f")
