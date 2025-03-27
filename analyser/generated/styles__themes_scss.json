@@ -159,127 +159,25 @@
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "theme-get",
-        "line_number": 170,
+        "line_number": 162,
+        "match": "theme-get"
+      },
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "theme-get",
+        "line_number": 173,
+        "match": "theme-get"
+      },
+      {
+        "file": "barrels/artist-view/artist-view.scss",
+        "line": "theme-get",
+        "line_number": 178,
         "match": "theme-get"
       },
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "theme-get",
         "line_number": 181,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/artist-view/artist-view.scss",
-        "line": "theme-get",
-        "line_number": 186,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/artist-view/artist-view.scss",
-        "line": "theme-get",
-        "line_number": 189,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 87,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 111,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 135,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 149,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 170,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 249,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 268,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 276,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 309,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 327,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 340,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 365,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 404,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 421,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 479,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 513,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "theme-get",
-        "line_number": 520,
         "match": "theme-get"
       },
       {
@@ -399,91 +297,79 @@
       {
         "file": "barrels/form/form.scss",
         "line": "theme-get",
-        "line_number": 19,
+        "line_number": 17,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 11,
+        "line_number": 10,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 26,
+        "line_number": 25,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 60,
+        "line_number": 59,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 72,
+        "line_number": 71,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 97,
+        "line_number": 96,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 164,
+        "line_number": 163,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 11,
+        "line_number": 10,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 26,
+        "line_number": 25,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 60,
+        "line_number": 59,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 72,
+        "line_number": 71,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 97,
+        "line_number": 96,
         "match": "theme-get"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "theme-get",
-        "line_number": 164,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/help/help-slider.scss",
-        "line": "theme-get",
-        "line_number": 15,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/help/help-slider.scss",
-        "line": "theme-get",
-        "line_number": 39,
+        "line_number": 163,
         "match": "theme-get"
       },
       {
@@ -495,25 +381,31 @@
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "theme-get",
+        "line_number": 18,
+        "match": "theme-get"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "theme-get",
         "line_number": 19,
         "match": "theme-get"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "theme-get",
-        "line_number": 20,
+        "line_number": 216,
         "match": "theme-get"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "theme-get",
-        "line_number": 212,
+        "line_number": 372,
         "match": "theme-get"
       },
       {
         "file": "barrels/metadata-translations-common/translations-grid-base.scss",
         "line": "theme-get",
-        "line_number": 33,
+        "line_number": 32,
         "match": "theme-get"
       },
       {
@@ -537,25 +429,25 @@
       {
         "file": "barrels/player/play-asset-button.scss",
         "line": "theme-get",
-        "line_number": 19,
+        "line_number": 18,
         "match": "theme-get"
       },
       {
         "file": "barrels/player/play-asset-button.scss",
         "line": "theme-get",
-        "line_number": 32,
+        "line_number": 31,
         "match": "theme-get"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "theme-get",
-        "line_number": 103,
+        "line_number": 102,
         "match": "theme-get"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "theme-get",
-        "line_number": 211,
+        "line_number": 210,
         "match": "theme-get"
       },
       {
@@ -627,43 +519,37 @@
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "theme-get",
-        "line_number": 50,
+        "line_number": 49,
         "match": "theme-get"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "theme-get",
-        "line_number": 69,
+        "line_number": 68,
         "match": "theme-get"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "theme-get",
-        "line_number": 79,
+        "line_number": 78,
         "match": "theme-get"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "theme-get",
-        "line_number": 92,
+        "line_number": 91,
         "match": "theme-get"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "theme-get",
-        "line_number": 214,
+        "line_number": 213,
         "match": "theme-get"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "theme-get",
-        "line_number": 224,
-        "match": "theme-get"
-      },
-      {
-        "file": "barrels/product-view/product-territory.scss",
-        "line": "theme-get",
-        "line_number": 11,
+        "line_number": 223,
         "match": "theme-get"
       },
       {
@@ -693,37 +579,37 @@
       {
         "file": "barrels/trends/trends.scss",
         "line": "theme-get",
-        "line_number": 39,
+        "line_number": 38,
         "match": "theme-get"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "theme-get",
-        "line_number": 61,
+        "line_number": 60,
         "match": "theme-get"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "theme-get",
-        "line_number": 80,
+        "line_number": 79,
         "match": "theme-get"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "theme-get",
-        "line_number": 132,
+        "line_number": 131,
         "match": "theme-get"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "theme-get",
-        "line_number": 312,
+        "line_number": 311,
         "match": "theme-get"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "theme-get",
-        "line_number": 375,
+        "line_number": 374,
         "match": "theme-get"
       },
       {
@@ -843,25 +729,25 @@
       {
         "file": "barrels/webhooks/webhooks.scss",
         "line": "theme-get",
-        "line_number": 133,
+        "line_number": 132,
         "match": "theme-get"
       },
       {
         "file": "components/box/box.scss",
         "line": "theme-get",
-        "line_number": 52,
+        "line_number": 51,
         "match": "theme-get"
       },
       {
         "file": "components/box/box.scss",
         "line": "theme-get",
-        "line_number": 100,
+        "line_number": 99,
         "match": "theme-get"
       },
       {
         "file": "components/box/box.scss",
         "line": "theme-get",
-        "line_number": 143,
+        "line_number": 142,
         "match": "theme-get"
       },
       {
@@ -1167,13 +1053,13 @@
       {
         "file": "components/product/image/product-image.scss",
         "line": "theme-get",
-        "line_number": 40,
+        "line_number": 39,
         "match": "theme-get"
       },
       {
         "file": "components/product/image/product-image.scss",
         "line": "theme-get",
-        "line_number": 159,
+        "line_number": 158,
         "match": "theme-get"
       },
       {
@@ -1191,7 +1077,7 @@
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "theme-get",
-        "line_number": 116,
+        "line_number": 115,
         "match": "theme-get"
       },
       {
@@ -1215,13 +1101,13 @@
       {
         "file": "components/territory/territory-overrides.scss",
         "line": "theme-get",
-        "line_number": 46,
+        "line_number": 45,
         "match": "theme-get"
       },
       {
         "file": "components/territory/territory-overrides.scss",
         "line": "theme-get",
-        "line_number": 73,
+        "line_number": 72,
         "match": "theme-get"
       },
       {
@@ -1239,19 +1125,7 @@
       {
         "file": "components/type-indicator/type-indicator.scss",
         "line": "theme-get",
-        "line_number": 16,
-        "match": "theme-get"
-      },
-      {
-        "file": "components/uploader/button-uploader.scss",
-        "line": "theme-get",
-        "line_number": 22,
-        "match": "theme-get"
-      },
-      {
-        "file": "components/uploader/button-uploader.scss",
-        "line": "theme-get",
-        "line_number": 28,
+        "line_number": 15,
         "match": "theme-get"
       },
       {
@@ -1263,31 +1137,31 @@
       {
         "file": "styles/global.scss",
         "line": "theme-get",
-        "line_number": 25,
+        "line_number": 27,
         "match": "theme-get"
       },
       {
         "file": "styles/global.scss",
         "line": "theme-get",
-        "line_number": 32,
+        "line_number": 35,
         "match": "theme-get"
       },
       {
         "file": "styles/global.scss",
         "line": "theme-get",
-        "line_number": 66,
+        "line_number": 70,
         "match": "theme-get"
       },
       {
         "file": "styles/mixins.scss",
         "line": "theme-get",
-        "line_number": 244,
+        "line_number": 247,
         "match": "theme-get"
       },
       {
         "file": "styles/mixins.scss",
         "line": "theme-get",
-        "line_number": 254,
+        "line_number": 257,
         "match": "theme-get"
       }
     ]
@@ -1364,115 +1238,7 @@
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "themify",
-        "line_number": 164,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 86,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 110,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 134,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 148,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 169,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 248,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 267,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 275,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 308,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 326,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 339,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 364,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 403,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 420,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 470,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 478,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 512,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "themify",
-        "line_number": 519,
+        "line_number": 156,
         "match": "themify"
       },
       {
@@ -1568,91 +1334,79 @@
       {
         "file": "barrels/form/form.scss",
         "line": "themify",
-        "line_number": 18,
+        "line_number": 16,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 10,
+        "line_number": 9,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 25,
+        "line_number": 24,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 59,
+        "line_number": 58,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 71,
+        "line_number": 70,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 96,
+        "line_number": 95,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 163,
+        "line_number": 162,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 10,
+        "line_number": 9,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 25,
+        "line_number": 24,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 59,
+        "line_number": 58,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 71,
+        "line_number": 70,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 96,
+        "line_number": 95,
         "match": "themify"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "themify",
-        "line_number": 163,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/help/help-slider.scss",
-        "line": "themify",
-        "line_number": 14,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/help/help-slider.scss",
-        "line": "themify",
-        "line_number": 38,
+        "line_number": 162,
         "match": "themify"
       },
       {
@@ -1664,19 +1418,25 @@
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "themify",
-        "line_number": 18,
+        "line_number": 17,
         "match": "themify"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "themify",
-        "line_number": 211,
+        "line_number": 215,
+        "match": "themify"
+      },
+      {
+        "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
+        "line": "themify",
+        "line_number": 371,
         "match": "themify"
       },
       {
         "file": "barrels/metadata-translations-common/translations-grid-base.scss",
         "line": "themify",
-        "line_number": 32,
+        "line_number": 31,
         "match": "themify"
       },
       {
@@ -1700,25 +1460,25 @@
       {
         "file": "barrels/player/play-asset-button.scss",
         "line": "themify",
-        "line_number": 18,
+        "line_number": 17,
         "match": "themify"
       },
       {
         "file": "barrels/player/play-asset-button.scss",
         "line": "themify",
-        "line_number": 31,
+        "line_number": 30,
         "match": "themify"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "themify",
-        "line_number": 102,
+        "line_number": 101,
         "match": "themify"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "themify",
-        "line_number": 210,
+        "line_number": 209,
         "match": "themify"
       },
       {
@@ -1766,43 +1526,37 @@
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "themify",
-        "line_number": 49,
+        "line_number": 48,
         "match": "themify"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "themify",
-        "line_number": 68,
+        "line_number": 67,
         "match": "themify"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "themify",
-        "line_number": 78,
+        "line_number": 77,
         "match": "themify"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "themify",
-        "line_number": 91,
+        "line_number": 90,
         "match": "themify"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "themify",
-        "line_number": 213,
+        "line_number": 212,
         "match": "themify"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "themify",
-        "line_number": 223,
-        "match": "themify"
-      },
-      {
-        "file": "barrels/product-view/product-territory.scss",
-        "line": "themify",
-        "line_number": 10,
+        "line_number": 222,
         "match": "themify"
       },
       {
@@ -1832,37 +1586,37 @@
       {
         "file": "barrels/trends/trends.scss",
         "line": "themify",
-        "line_number": 38,
+        "line_number": 37,
         "match": "themify"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "themify",
-        "line_number": 60,
+        "line_number": 59,
         "match": "themify"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "themify",
-        "line_number": 79,
+        "line_number": 78,
         "match": "themify"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "themify",
-        "line_number": 131,
+        "line_number": 130,
         "match": "themify"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "themify",
-        "line_number": 311,
+        "line_number": 310,
         "match": "themify"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "themify",
-        "line_number": 374,
+        "line_number": 373,
         "match": "themify"
       },
       {
@@ -1928,25 +1682,25 @@
       {
         "file": "barrels/webhooks/webhooks.scss",
         "line": "themify",
-        "line_number": 132,
+        "line_number": 131,
         "match": "themify"
       },
       {
         "file": "components/box/box.scss",
         "line": "themify",
-        "line_number": 51,
+        "line_number": 50,
         "match": "themify"
       },
       {
         "file": "components/box/box.scss",
         "line": "themify",
-        "line_number": 99,
+        "line_number": 98,
         "match": "themify"
       },
       {
         "file": "components/box/box.scss",
         "line": "themify",
-        "line_number": 142,
+        "line_number": 141,
         "match": "themify"
       },
       {
@@ -2180,13 +1934,13 @@
       {
         "file": "components/product/image/product-image.scss",
         "line": "themify",
-        "line_number": 39,
+        "line_number": 38,
         "match": "themify"
       },
       {
         "file": "components/product/image/product-image.scss",
         "line": "themify",
-        "line_number": 158,
+        "line_number": 157,
         "match": "themify"
       },
       {
@@ -2204,7 +1958,7 @@
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "themify",
-        "line_number": 115,
+        "line_number": 114,
         "match": "themify"
       },
       {
@@ -2216,19 +1970,19 @@
       {
         "file": "components/territory/territory-overrides.scss",
         "line": "themify",
-        "line_number": 21,
+        "line_number": 20,
         "match": "themify"
       },
       {
         "file": "components/territory/territory-overrides.scss",
         "line": "themify",
-        "line_number": 45,
+        "line_number": 44,
         "match": "themify"
       },
       {
         "file": "components/territory/territory-overrides.scss",
         "line": "themify",
-        "line_number": 72,
+        "line_number": 71,
         "match": "themify"
       },
       {
@@ -2246,19 +2000,7 @@
       {
         "file": "components/type-indicator/type-indicator.scss",
         "line": "themify",
-        "line_number": 15,
-        "match": "themify"
-      },
-      {
-        "file": "components/uploader/button-uploader.scss",
-        "line": "themify",
-        "line_number": 21,
-        "match": "themify"
-      },
-      {
-        "file": "components/uploader/button-uploader.scss",
-        "line": "themify",
-        "line_number": 27,
+        "line_number": 14,
         "match": "themify"
       },
       {
@@ -2270,31 +2012,31 @@
       {
         "file": "styles/global.scss",
         "line": "themify",
-        "line_number": 24,
+        "line_number": 26,
         "match": "themify"
       },
       {
         "file": "styles/global.scss",
         "line": "themify",
-        "line_number": 31,
+        "line_number": 34,
         "match": "themify"
       },
       {
         "file": "styles/global.scss",
         "line": "themify",
-        "line_number": 65,
+        "line_number": 69,
         "match": "themify"
       },
       {
         "file": "styles/mixins.scss",
         "line": "themify",
-        "line_number": 243,
+        "line_number": 246,
         "match": "themify"
       },
       {
         "file": "styles/mixins.scss",
         "line": "themify",
-        "line_number": 253,
+        "line_number": 256,
         "match": "themify"
       }
     ]

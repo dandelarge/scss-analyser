@@ -161,6 +161,7 @@ func (fs FileSearcher) FindVarInvocations(sourceFile string) []Match {
 
 	return fs.FindPatternInFile(variableReferencePattern, sourceFile)
 }
+
 func (fs FileSearcher) FindVarDeclarations(sourceFile string) []Match {
 
 	variableStatementPattern := `

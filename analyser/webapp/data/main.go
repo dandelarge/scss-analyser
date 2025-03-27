@@ -17,11 +17,19 @@ type DependencyResult struct {
 }
 
 type SearchResult interface {
-	[]string | filesearch.Results | filesearch.FileStructure | Dependencies | []DependencyResult
+	[]string | filesearch.Results | filesearch.FileStructure | Dependencies | []DependencyResult | map[string][]string
 }
 
-func GetResults() filesearch.Results {
-	return filesearch.MakeResultsFromResultsFile("generated/" + filesearch.LatestResultsFilename())
+func GetResults(filename string) filesearch.Results {
+	if filename == "" {
+		return filesearch.MakeResultsFromResultsFile("generated/" + filesearch.LatestResultsFilename())
+	}
+	return filesearch.MakeResultsFromResultsFile("generated/" + filename)
+}
+
+func GetD3Data(filename string) filesearch.D3Data {
+	results := GetResults(filename)
+	return filesearch.MakeD3Data(results)
 }
 
 func FindAllImportsForFile(filename string, results *filesearch.Results) []string {
@@ -77,6 +85,52 @@ func FindUnusedDependencies(file string, results *filesearch.Results) []string {
 	foundDependencies := FindUsedDependencies(file, results)
 
 	return diffSlices(imports, foundDependencies)
+}
+
+func FindAllUnusedDependencies(results *filesearch.Results) map[string][]string {
+	allUnused := map[string][]string{}
+
+	for file := range *results {
+
+		unused := FindUnusedDependencies(file, results)
+		// imports := FindAllImportsForFile(file, results)
+		//
+		// if len(unused) != len(imports) {
+		// 	continue
+		// }
+		for _, u := range unused {
+			extension := u[len(u)-4:]
+
+			if extension != "scss" {
+				continue
+			}
+			if allUnused[u] != nil {
+				allUnused[u] = append(allUnused[u], file)
+			} else {
+				allUnused[u] = []string{file}
+			}
+		}
+	}
+
+	return allUnused
+}
+
+func removeDuplicates(elements []string) []string {
+	encountered := map[string]bool{}
+	result := []string{}
+
+	for v := range elements {
+		if encountered[elements[v]] == true {
+			// Do not add duplicate.
+		} else {
+			// Record this element as an encountered element.
+			encountered[elements[v]] = true
+			// Append to result slice.
+			result = append(result, elements[v])
+		}
+	}
+
+	return result
 }
 
 func contains(s []string, e string) bool {

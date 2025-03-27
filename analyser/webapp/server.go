@@ -21,10 +21,15 @@ func StartServer(port string) {
 
 	r.HandleFunc("/api/results", GetResults).Methods("GET")
 
+	r.HandleFunc("/api/resultsfiles", GetResultsFiles).Methods("GET")
+
+	r.HandleFunc("/api/d3data", GetD3Data).Methods("GET")
+
 	r.HandleFunc("/api/dependencies", GetDependencies).Methods("GET")
 
-	GetUnused := GetHandlerForFunction(data.FindUnusedDependencies)
-	r.HandleFunc("/api/unused", GetUnused).Methods("GET")
+	r.HandleFunc("/api/allunused", GetAllUnused).Methods("GET")
+
+	r.HandleFunc("/api/unused", GetHandlerForFunction(data.FindUnusedDependencies)).Methods("GET")
 
 	GetUsed := GetHandlerForFunction(data.FindUsedDependencies)
 	r.HandleFunc("/api/used", GetUsed).Methods("GET")
@@ -52,7 +57,8 @@ func StartServer(port string) {
 }
 
 func GetResults(w http.ResponseWriter, r *http.Request) {
-	data := data.GetResults()
+	filename := r.URL.Query().Get("f")
+	data := data.GetResults(filename)
 
 	resultsJson, err := json.Marshal(data)
 
@@ -67,10 +73,40 @@ func GetResults(w http.ResponseWriter, r *http.Request) {
 	w.WriteHeader(http.StatusOK)
 }
 
+func GetD3Data(w http.ResponseWriter, r *http.Request) {
+	filename := r.URL.Query().Get("f")
+	data := data.GetD3Data(filename)
+
+	resultsJson, err := json.Marshal(data)
+
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	w.Write(resultsJson)
+	w.Header().Set("Content-Type", "application/json")
+	w.WriteHeader(http.StatusOK)
+}
+
+func GetResultsFiles(w http.ResponseWriter, r *http.Request) {
+	data := filesearch.ListResultsFiles()
+	resultsJson, err := json.Marshal(data)
+
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	w.Write(resultsJson)
+	w.Header().Set("Content-Type", "application/json")
+	w.WriteHeader(http.StatusOK)
+}
+
 func GetDependencies(w http.ResponseWriter, r *http.Request) {
 	query := r.URL.Query()
 	file := query.Get("f")
-	results := data.GetResults()
+	results := data.GetResults(file)
 
 	if file == "" {
 		filenames := make([]string, 0, len(results))
@@ -108,6 +144,24 @@ func GetDependencies(w http.ResponseWriter, r *http.Request) {
 	}
 
 	w.Write(dependenciesJson)
+	w.Header().Set("Content-Type", "application/json")
+	w.WriteHeader(http.StatusOK)
+}
+
+func GetAllUnused(w http.ResponseWriter, r *http.Request) {
+	results := data.GetResults("")
+	dependencies := data.FindAllUnusedDependencies(&results)
+
+	dependenciesJson, err := json.Marshal(dependencies)
+
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	w.Write(dependenciesJson)
+	w.Header().Set("Content-Type", "application/json")
+	w.WriteHeader(http.StatusOK)
 }
 
 func GetHandlerForFunction[T data.SearchResult](f func(file string, results *filesearch.Results) T) func(path http.ResponseWriter, r *http.Request) {
@@ -121,7 +175,7 @@ func GetHandlerForFunction[T data.SearchResult](f func(file string, results *fil
 			return
 		}
 
-		results := data.GetResults()
+		results := data.GetResults(file)
 		dependencies := f(decodedFilename, &results)
 
 		dependenciesJson, err := json.Marshal(dependencies)
@@ -132,5 +186,7 @@ func GetHandlerForFunction[T data.SearchResult](f func(file string, results *fil
 		}
 
 		w.Write(dependenciesJson)
+		w.Header().Set("Content-Type", "application/json")
+		w.WriteHeader(http.StatusOK)
 	}
 }

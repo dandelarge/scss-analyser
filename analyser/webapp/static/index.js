@@ -58,7 +58,7 @@ const svg = d3
   .append("g")
   .attr("transform", "translate(50,50)");
 
-d3.json("/static/results.json").then(runGraph);
+d3.json("api/d3data").then(runGraph);
 
 function runGraph(data) {
   const link = svg

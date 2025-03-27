@@ -3,33 +3,27 @@
     "": [],
     "$device-lg": [
       {
-        "file": "barrels/asset-details/asset-details.scss",
+        "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-lg",
-        "line_number": 560,
+        "line_number": 27,
         "match": "$device-lg"
       },
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-lg",
-        "line_number": 28,
+        "line_number": 31,
         "match": "$device-lg"
       },
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-lg",
-        "line_number": 32,
+        "line_number": 54,
         "match": "$device-lg"
       },
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-lg",
-        "line_number": 55,
-        "match": "$device-lg"
-      },
-      {
-        "file": "barrels/dsp-connections/dsp-connections.scss",
-        "line": "$device-lg",
-        "line_number": 59,
+        "line_number": 58,
         "match": "$device-lg"
       },
       {
@@ -47,7 +41,7 @@
       {
         "file": "barrels/player/player-container.scss",
         "line": "$device-lg",
-        "line_number": 61,
+        "line_number": 60,
         "match": "$device-lg"
       },
       {
@@ -59,25 +53,25 @@
       {
         "file": "styles/mixins.scss",
         "line": "$device-lg",
-        "line_number": 159,
+        "line_number": 162,
         "match": "$device-lg"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-lg",
-        "line_number": 286,
+        "line_number": 289,
         "match": "$device-lg"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-lg",
-        "line_number": 292,
+        "line_number": 295,
         "match": "$device-lg"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-lg",
-        "line_number": 322,
+        "line_number": 325,
         "match": "$device-lg"
       }
     ],
@@ -85,19 +79,19 @@
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-md",
-        "line_number": 32,
+        "line_number": 31,
         "match": "$device-md"
       },
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-md",
-        "line_number": 36,
+        "line_number": 35,
         "match": "$device-md"
       },
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-md",
-        "line_number": 59,
+        "line_number": 58,
         "match": "$device-md"
       },
       {
@@ -115,25 +109,7 @@
       {
         "file": "barrels/player/player-container.scss",
         "line": "$device-md",
-        "line_number": 57,
-        "match": "$device-md"
-      },
-      {
-        "file": "barrels/product-view/product-menu-header.scss",
-        "line": "$device-md",
-        "line_number": 22,
-        "match": "$device-md"
-      },
-      {
-        "file": "barrels/product-view/product-menu-header.scss",
-        "line": "$device-md",
-        "line_number": 32,
-        "match": "$device-md"
-      },
-      {
-        "file": "barrels/product-view/product-menu-header.scss",
-        "line": "$device-md",
-        "line_number": 46,
+        "line_number": 56,
         "match": "$device-md"
       },
       {
@@ -145,111 +121,81 @@
       {
         "file": "styles/mixins.scss",
         "line": "$device-md",
-        "line_number": 37,
+        "line_number": 40,
         "match": "$device-md"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-md",
-        "line_number": 44,
+        "line_number": 47,
         "match": "$device-md"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-md",
-        "line_number": 85,
+        "line_number": 88,
         "match": "$device-md"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-md",
-        "line_number": 90,
+        "line_number": 93,
         "match": "$device-md"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-md",
-        "line_number": 155,
+        "line_number": 158,
         "match": "$device-md"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-md",
-        "line_number": 280,
+        "line_number": 283,
         "match": "$device-md"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-md",
-        "line_number": 286,
+        "line_number": 289,
         "match": "$device-md"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-md",
-        "line_number": 316,
+        "line_number": 319,
         "match": "$device-md"
       }
     ],
     "$device-sm": [
       {
-        "file": "barrels/asset-details/asset-details.scss",
+        "file": "barrels/player/player-container.scss",
         "line": "$device-sm",
-        "line_number": 374,
-        "match": "$device-sm"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "$device-sm",
-        "line_number": 382,
-        "match": "$device-sm"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "$device-sm",
-        "line_number": 590,
+        "line_number": 48,
         "match": "$device-sm"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "$device-sm",
-        "line_number": 49,
+        "line_number": 52,
         "match": "$device-sm"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "$device-sm",
-        "line_number": 53,
+        "line_number": 74,
         "match": "$device-sm"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "$device-sm",
-        "line_number": 75,
-        "match": "$device-sm"
-      },
-      {
-        "file": "barrels/player/player-container.scss",
-        "line": "$device-sm",
-        "line_number": 96,
-        "match": "$device-sm"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$device-sm",
-        "line_number": 144,
-        "match": "$device-sm"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$device-sm",
-        "line_number": 155,
+        "line_number": 95,
         "match": "$device-sm"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "$device-sm",
-        "line_number": 117,
+        "line_number": 116,
         "match": "$device-sm"
       },
       {
@@ -285,55 +231,55 @@
       {
         "file": "components/popup/popup.scss",
         "line": "$device-sm",
-        "line_number": 42,
+        "line_number": 41,
         "match": "$device-sm"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-sm",
-        "line_number": 30,
+        "line_number": 33,
         "match": "$device-sm"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-sm",
-        "line_number": 37,
+        "line_number": 40,
         "match": "$device-sm"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-sm",
-        "line_number": 80,
+        "line_number": 83,
         "match": "$device-sm"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-sm",
-        "line_number": 85,
+        "line_number": 88,
         "match": "$device-sm"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-sm",
-        "line_number": 151,
+        "line_number": 154,
         "match": "$device-sm"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-sm",
-        "line_number": 274,
+        "line_number": 277,
         "match": "$device-sm"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-sm",
-        "line_number": 280,
+        "line_number": 283,
         "match": "$device-sm"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-sm",
-        "line_number": 310,
+        "line_number": 313,
         "match": "$device-sm"
       }
     ],
@@ -341,25 +287,25 @@
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-xl",
-        "line_number": 24,
+        "line_number": 23,
         "match": "$device-xl"
       },
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-xl",
-        "line_number": 28,
+        "line_number": 27,
         "match": "$device-xl"
       },
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-xl",
-        "line_number": 51,
+        "line_number": 50,
         "match": "$device-xl"
       },
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-xl",
-        "line_number": 55,
+        "line_number": 54,
         "match": "$device-xl"
       },
       {
@@ -377,31 +323,31 @@
       {
         "file": "styles/mixins.scss",
         "line": "$device-xl",
-        "line_number": 51,
+        "line_number": 54,
         "match": "$device-xl"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-xl",
-        "line_number": 163,
+        "line_number": 166,
         "match": "$device-xl"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-xl",
-        "line_number": 292,
+        "line_number": 295,
         "match": "$device-xl"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-xl",
-        "line_number": 298,
+        "line_number": 301,
         "match": "$device-xl"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-xl",
-        "line_number": 328,
+        "line_number": 331,
         "match": "$device-xl"
       }
     ],
@@ -409,43 +355,37 @@
       {
         "file": "barrels/player/player-container.scss",
         "line": "$device-xs",
-        "line_number": 34,
+        "line_number": 33,
         "match": "$device-xs"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "$device-xs",
-        "line_number": 42,
+        "line_number": 41,
         "match": "$device-xs"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "$device-xs",
-        "line_number": 70,
+        "line_number": 69,
         "match": "$device-xs"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "$device-xs",
-        "line_number": 75,
+        "line_number": 74,
         "match": "$device-xs"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "$device-xs",
-        "line_number": 88,
+        "line_number": 87,
         "match": "$device-xs"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "$device-xs",
-        "line_number": 96,
-        "match": "$device-xs"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$device-xs",
-        "line_number": 135,
+        "line_number": 95,
         "match": "$device-xs"
       },
       {
@@ -493,43 +433,43 @@
       {
         "file": "styles/mixins.scss",
         "line": "$device-xs",
-        "line_number": 24,
+        "line_number": 27,
         "match": "$device-xs"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-xs",
-        "line_number": 30,
+        "line_number": 33,
         "match": "$device-xs"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-xs",
-        "line_number": 75,
+        "line_number": 78,
         "match": "$device-xs"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-xs",
-        "line_number": 80,
+        "line_number": 83,
         "match": "$device-xs"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-xs",
-        "line_number": 268,
+        "line_number": 271,
         "match": "$device-xs"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-xs",
-        "line_number": 274,
+        "line_number": 277,
         "match": "$device-xs"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$device-xs",
-        "line_number": 304,
+        "line_number": 307,
         "match": "$device-xs"
       }
     ],
@@ -537,7 +477,7 @@
       {
         "file": "styles/mixins.scss",
         "line": "$device-xxl",
-        "line_number": 58,
+        "line_number": 61,
         "match": "$device-xxl"
       }
     ],
@@ -546,25 +486,25 @@
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-xxxl",
-        "line_number": 20,
+        "line_number": 19,
         "match": "$device-xxxl"
       },
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-xxxl",
-        "line_number": 24,
+        "line_number": 23,
         "match": "$device-xxxl"
       },
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-xxxl",
-        "line_number": 47,
+        "line_number": 46,
         "match": "$device-xxxl"
       },
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "$device-xxxl",
-        "line_number": 51,
+        "line_number": 50,
         "match": "$device-xxxl"
       },
       {
@@ -582,7 +522,7 @@
       {
         "file": "styles/mixins.scss",
         "line": "$device-xxxl",
-        "line_number": 66,
+        "line_number": 69,
         "match": "$device-xxxl"
       }
     ],

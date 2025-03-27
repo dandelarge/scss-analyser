@@ -3,24 +3,6 @@
     "": [],
     "$font-family-main": [
       {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "$font-family-main",
-        "line_number": 496,
-        "match": "$font-family-main"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$font-family-main",
-        "line_number": 169,
-        "match": "$font-family-main"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$font-family-main",
-        "line_number": 260,
-        "match": "$font-family-main"
-      },
-      {
         "file": "barrels/trends/trends-product.scss",
         "line": "$font-family-main",
         "line_number": 29,
@@ -113,14 +95,7 @@
         "match": "$font-player"
       }
     ],
-    "$font-size-large": [
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$font-size-large",
-        "line_number": 261,
-        "match": "$font-size-large"
-      }
-    ],
+    "$font-size-large": [],
     "$font-size-normal": [
       {
         "file": "barrels/asset-details/metadata-translations/styles.scss",
@@ -137,7 +112,7 @@
       {
         "file": "styles/global.scss",
         "line": "$font-size-normal",
-        "line_number": 42,
+        "line_number": 45,
         "match": "$font-size-normal"
       }
     ],
@@ -148,12 +123,6 @@
   "mixins": {
     "": [],
     "Body1": [
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "Body1",
-        "line_number": 152,
-        "match": "Body1"
-      },
       {
         "file": "barrels/breadcrumb/breadcrumb.scss",
         "line": "Body1",
@@ -166,18 +135,6 @@
         "file": "barrels/artist-view/artist-view.scss",
         "line": "Body2",
         "line_number": 42,
-        "match": "Body2"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "Body2",
-        "line_number": 144,
-        "match": "Body2"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "Body2",
-        "line_number": 156,
         "match": "Body2"
       }
     ],
@@ -201,12 +158,6 @@
         "match": "Body3"
       },
       {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "Body3",
-        "line_number": 377,
-        "match": "Body3"
-      },
-      {
         "file": "barrels/user/user-view.scss",
         "line": "Body3",
         "line_number": 41,
@@ -225,12 +176,6 @@
         "file": "barrels/artist-view/artist-view.scss",
         "line": "Sub2",
         "line_number": 37,
-        "match": "Sub2"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "Sub2",
-        "line_number": 140,
         "match": "Sub2"
       }
     ],

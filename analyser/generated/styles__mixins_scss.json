@@ -19,17 +19,11 @@
       {
         "file": "components/box/box.scss",
         "line": "border",
-        "line_number": 13,
+        "line_number": 12,
         "match": "border"
       }
     ],
     "button": [
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "button",
-        "line_number": 240,
-        "match": "button"
-      },
       {
         "file": "components/section/section.scss",
         "line": "button",
@@ -41,13 +35,13 @@
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "buttonNoStyle",
-        "line_number": 172,
+        "line_number": 164,
         "match": "buttonNoStyle"
       },
       {
         "file": "barrels/player/play-asset-button.scss",
         "line": "buttonNoStyle",
-        "line_number": 11,
+        "line_number": 10,
         "match": "buttonNoStyle"
       },
       {
@@ -74,19 +68,19 @@
       {
         "file": "barrels/custom-report/custom-report.scss",
         "line": "container",
-        "line_number": 8,
+        "line_number": 7,
         "match": "container"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "container",
-        "line_number": 27,
+        "line_number": 26,
         "match": "container"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "container",
-        "line_number": 8,
+        "line_number": 7,
         "match": "container"
       },
       {
@@ -104,27 +98,15 @@
         "match": "container-with-subheader"
       },
       {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "container-with-subheader",
-        "line_number": 17,
-        "match": "container-with-subheader"
-      },
-      {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "container-with-subheader",
-        "line_number": 8,
-        "match": "container-with-subheader"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "container-with-subheader",
-        "line_number": 10,
+        "line_number": 7,
         "match": "container-with-subheader"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "container-with-subheader",
-        "line_number": 8,
+        "line_number": 7,
         "match": "container-with-subheader"
       }
     ],
@@ -132,7 +114,7 @@
       {
         "file": "components/popup/popup.scss",
         "line": "custom-scroll",
-        "line_number": 19,
+        "line_number": 18,
         "match": "custom-scroll"
       }
     ],
@@ -142,7 +124,7 @@
       {
         "file": "barrels/dsp-connections/dsp-connections.scss",
         "line": "masthead-subheader",
-        "line_number": 12,
+        "line_number": 11,
         "match": "masthead-subheader"
       },
       {
@@ -154,13 +136,13 @@
       {
         "file": "hoc/scroll-context-styles.scss",
         "line": "masthead-subheader",
-        "line_number": 8,
+        "line_number": 7,
         "match": "masthead-subheader"
       },
       {
         "file": "hoc/scroll-context.scss",
         "line": "masthead-subheader",
-        "line_number": 8,
+        "line_number": 7,
         "match": "masthead-subheader"
       }
     ],
@@ -201,13 +183,13 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "media-max-md",
-        "line_number": 78,
+        "line_number": 77,
         "match": "media-max-md"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "media-max-md",
-        "line_number": 108,
+        "line_number": 107,
         "match": "media-max-md"
       },
       {
@@ -225,19 +207,19 @@
       {
         "file": "barrels/product-view/product-state-progress.scss",
         "line": "media-max-md",
-        "line_number": 77,
+        "line_number": 76,
         "match": "media-max-md"
       },
       {
         "file": "barrels/product-view/product-state-progress.scss",
         "line": "media-max-md",
-        "line_number": 121,
+        "line_number": 120,
         "match": "media-max-md"
       },
       {
-        "file": "barrels/trends/trends-filter.scss",
+        "file": "barrels/trends/trends-filter/trends-filter.scss",
         "line": "media-max-md",
-        "line_number": 115,
+        "line_number": 114,
         "match": "media-max-md"
       },
       {
@@ -267,7 +249,7 @@
       {
         "file": "components/territory/territory-overrides.scss",
         "line": "media-max-md",
-        "line_number": 14,
+        "line_number": 13,
         "match": "media-max-md"
       }
     ],
@@ -323,31 +305,13 @@
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "media-max-sm",
-        "line_number": 99,
+        "line_number": 95,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "media-max-sm",
-        "line_number": 120,
-        "match": "media-max-sm"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "media-max-sm",
-        "line_number": 184,
-        "match": "media-max-sm"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "media-max-sm",
-        "line_number": 207,
-        "match": "media-max-sm"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "media-max-sm",
-        "line_number": 222,
+        "line_number": 112,
         "match": "media-max-sm"
       },
       {
@@ -383,31 +347,31 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "media-max-sm",
-        "line_number": 21,
+        "line_number": 20,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "media-max-sm",
-        "line_number": 89,
+        "line_number": 88,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/form/form-errors-snack.scss",
         "line": "media-max-sm",
-        "line_number": 16,
+        "line_number": 15,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/form/form.scss",
         "line": "media-max-sm",
-        "line_number": 100,
+        "line_number": 90,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/form/form.scss",
         "line": "media-max-sm",
-        "line_number": 143,
+        "line_number": 126,
         "match": "media-max-sm"
       },
       {
@@ -437,37 +401,13 @@
       {
         "file": "barrels/product-view/product-state-progress.scss",
         "line": "media-max-sm",
-        "line_number": 64,
+        "line_number": 63,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/product-view/product-state-progress.scss",
         "line": "media-max-sm",
-        "line_number": 127,
-        "match": "media-max-sm"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "media-max-sm",
-        "line_number": 308,
-        "match": "media-max-sm"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "media-max-sm",
-        "line_number": 325,
-        "match": "media-max-sm"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "media-max-sm",
-        "line_number": 349,
-        "match": "media-max-sm"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "media-max-sm",
-        "line_number": 624,
+        "line_number": 126,
         "match": "media-max-sm"
       },
       {
@@ -509,31 +449,31 @@
       {
         "file": "barrels/trends/trends.scss",
         "line": "media-max-sm",
-        "line_number": 107,
+        "line_number": 106,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "media-max-sm",
-        "line_number": 152,
+        "line_number": 151,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "media-max-sm",
-        "line_number": 167,
+        "line_number": 166,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "media-max-sm",
-        "line_number": 280,
+        "line_number": 279,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "media-max-sm",
-        "line_number": 283,
+        "line_number": 282,
         "match": "media-max-sm"
       },
       {
@@ -683,19 +623,19 @@
       {
         "file": "barrels/webhooks/webhooks.scss",
         "line": "media-max-sm",
-        "line_number": 70,
+        "line_number": 69,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/webhooks/webhooks.scss",
         "line": "media-max-sm",
-        "line_number": 81,
+        "line_number": 80,
         "match": "media-max-sm"
       },
       {
         "file": "barrels/webhooks/webhooks.scss",
         "line": "media-max-sm",
-        "line_number": 91,
+        "line_number": 90,
         "match": "media-max-sm"
       },
       {
@@ -713,43 +653,43 @@
       {
         "file": "components/box/box.scss",
         "line": "media-max-sm",
-        "line_number": 34,
+        "line_number": 33,
         "match": "media-max-sm"
       },
       {
         "file": "components/box/box.scss",
         "line": "media-max-sm",
-        "line_number": 44,
+        "line_number": 43,
         "match": "media-max-sm"
       },
       {
         "file": "components/box/box.scss",
         "line": "media-max-sm",
-        "line_number": 55,
+        "line_number": 54,
         "match": "media-max-sm"
       },
       {
         "file": "components/box/box.scss",
         "line": "media-max-sm",
-        "line_number": 75,
+        "line_number": 74,
         "match": "media-max-sm"
       },
       {
         "file": "components/box/box.scss",
         "line": "media-max-sm",
-        "line_number": 85,
+        "line_number": 84,
         "match": "media-max-sm"
       },
       {
         "file": "components/box/box.scss",
         "line": "media-max-sm",
-        "line_number": 93,
+        "line_number": 92,
         "match": "media-max-sm"
       },
       {
         "file": "components/box/box.scss",
         "line": "media-max-sm",
-        "line_number": 114,
+        "line_number": 113,
         "match": "media-max-sm"
       },
       {
@@ -767,7 +707,7 @@
       {
         "file": "components/grid/infinite-grid.scss",
         "line": "media-max-sm",
-        "line_number": 76,
+        "line_number": 75,
         "match": "media-max-sm"
       },
       {
@@ -803,13 +743,13 @@
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "media-max-sm",
-        "line_number": 95,
+        "line_number": 94,
         "match": "media-max-sm"
       },
       {
         "file": "components/suggestions/suggestions.scss",
         "line": "media-max-sm",
-        "line_number": 16,
+        "line_number": 15,
         "match": "media-max-sm"
       },
       {
@@ -821,7 +761,7 @@
       {
         "file": "containers/contact/contact.scss",
         "line": "media-max-sm",
-        "line_number": 15,
+        "line_number": 14,
         "match": "media-max-sm"
       }
     ],
@@ -843,13 +783,13 @@
       {
         "file": "components/badge/badge.scss",
         "line": "media-max-xs",
-        "line_number": 16,
+        "line_number": 15,
         "match": "media-max-xs"
       },
       {
         "file": "components/badge/trends-badge.scss",
         "line": "media-max-xs",
-        "line_number": 40,
+        "line_number": 39,
         "match": "media-max-xs"
       }
     ],
@@ -860,12 +800,6 @@
         "line": "media-sm",
         "line_number": 38,
         "match": "media-sm"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "media-sm",
-        "line_number": 19,
-        "match": "media-sm"
       }
     ],
     "media-xl": [],
@@ -874,12 +808,6 @@
         "file": "barrels/partners/partners.scss",
         "line": "media-xs",
         "line_number": 41,
-        "match": "media-xs"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "media-xs",
-        "line_number": 15,
         "match": "media-xs"
       },
       {
@@ -910,12 +838,6 @@
     "media-xxl": [],
     "paper-shadow": [
       {
-        "file": "barrels/help/help-slider.scss",
-        "line": "paper-shadow",
-        "line_number": 42,
-        "match": "paper-shadow"
-      },
-      {
         "file": "components/scroll-to-top/scroll-to-top.scss",
         "line": "paper-shadow",
         "line_number": 18,
@@ -924,7 +846,7 @@
       {
         "file": "components/selector/selector.scss",
         "line": "paper-shadow",
-        "line_number": 40,
+        "line_number": 39,
         "match": "paper-shadow"
       }
     ],
@@ -944,19 +866,13 @@
       {
         "file": "barrels/player/player-container.scss",
         "line": "responsive-container",
-        "line_number": 30,
-        "match": "responsive-container"
-      },
-      {
-        "file": "barrels/product-view/product-menu-header.scss",
-        "line": "responsive-container",
-        "line_number": 87,
+        "line_number": 29,
         "match": "responsive-container"
       },
       {
         "file": "styles/global.scss",
         "line": "responsive-container",
-        "line_number": 52,
+        "line_number": 55,
         "match": "responsive-container"
       }
     ],
@@ -971,13 +887,13 @@
       {
         "file": "barrels/trends/trends.scss",
         "line": "section-shadow",
-        "line_number": 270,
+        "line_number": 269,
         "match": "section-shadow"
       },
       {
         "file": "components/lists/editable-list-button.scss",
         "line": "section-shadow",
-        "line_number": 12,
+        "line_number": 11,
         "match": "section-shadow"
       }
     ],
@@ -993,37 +909,25 @@
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "shadow",
-        "line_number": 236,
-        "match": "shadow"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "shadow",
-        "line_number": 533,
+        "line_number": 228,
         "match": "shadow"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "shadow",
-        "line_number": 19,
+        "line_number": 18,
         "match": "shadow"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "shadow",
-        "line_number": 28,
-        "match": "shadow"
-      },
-      {
-        "file": "barrels/product-view/product-menu-header.scss",
-        "line": "shadow",
-        "line_number": 70,
+        "line_number": 27,
         "match": "shadow"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "shadow",
-        "line_number": 354,
+        "line_number": 353,
         "match": "shadow"
       },
       {
@@ -1049,31 +953,31 @@
       {
         "file": "barrels/player/player-container.scss",
         "line": "textOverflow",
-        "line_number": 106,
+        "line_number": 105,
         "match": "textOverflow"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "textOverflow",
-        "line_number": 115,
+        "line_number": 114,
         "match": "textOverflow"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "textOverflow",
-        "line_number": 188,
+        "line_number": 187,
         "match": "textOverflow"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "textOverflow",
-        "line_number": 196,
+        "line_number": 195,
         "match": "textOverflow"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "textOverflow",
-        "line_number": 143,
+        "line_number": 142,
         "match": "textOverflow"
       },
       {
@@ -1087,7 +991,7 @@
       {
         "file": "barrels/trends/trends.scss",
         "line": "tileShadow",
-        "line_number": 181,
+        "line_number": 180,
         "match": "tileShadow"
       },
       {
@@ -1111,7 +1015,7 @@
       {
         "file": "components/suggestions/suggestions.scss",
         "line": "tileShadow",
-        "line_number": 23,
+        "line_number": 22,
         "match": "tileShadow"
       }
     ]

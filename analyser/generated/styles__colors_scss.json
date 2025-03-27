@@ -34,15 +34,9 @@
         "match": "$bright-white"
       },
       {
-        "file": "barrels/product-view/product-menu-header.scss",
-        "line": "$bright-white",
-        "line_number": 73,
-        "match": "$bright-white"
-      },
-      {
         "file": "barrels/trends/trends.scss",
         "line": "$bright-white",
-        "line_number": 352,
+        "line_number": 351,
         "match": "$bright-white"
       },
       {
@@ -57,7 +51,7 @@
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "$color-black",
-        "line_number": 112,
+        "line_number": 111,
         "match": "$color-black"
       }
     ],
@@ -85,7 +79,7 @@
       {
         "file": "components/territory/territory-overrides.scss",
         "line": "$color-gray",
-        "line_number": 30,
+        "line_number": 29,
         "match": "$color-gray"
       }
     ],
@@ -105,7 +99,13 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-gray-border",
-        "line_number": 17,
+        "line_number": 16,
+        "match": "$color-gray-border"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-gray-border",
+        "line_number": 246,
         "match": "$color-gray-border"
       },
       {
@@ -115,39 +115,27 @@
         "match": "$color-gray-border"
       },
       {
-        "file": "barrels/dsp-configs/dsp-configs.scss",
-        "line": "$color-gray-border",
-        "line_number": 248,
-        "match": "$color-gray-border"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$color-gray-border",
-        "line_number": 61,
-        "match": "$color-gray-border"
-      },
-      {
         "file": "barrels/trends/total-selector.scss",
         "line": "$color-gray-border",
-        "line_number": 41,
+        "line_number": 40,
         "match": "$color-gray-border"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "$color-gray-border",
-        "line_number": 115,
+        "line_number": 114,
         "match": "$color-gray-border"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "$color-gray-border",
-        "line_number": 188,
+        "line_number": 187,
         "match": "$color-gray-border"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "$color-gray-border",
-        "line_number": 295,
+        "line_number": 294,
         "match": "$color-gray-border"
       },
       {
@@ -177,7 +165,7 @@
       {
         "file": "components/box/box.scss",
         "line": "$color-gray-border",
-        "line_number": 121,
+        "line_number": 120,
         "match": "$color-gray-border"
       },
       {
@@ -189,7 +177,7 @@
       {
         "file": "styles/mixins.scss",
         "line": "$color-gray-border",
-        "line_number": 210,
+        "line_number": 213,
         "match": "$color-gray-border"
       }
     ],
@@ -197,13 +185,13 @@
       {
         "file": "barrels/trends/trends.scss",
         "line": "$color-gray-grid",
-        "line_number": 97,
+        "line_number": 96,
         "match": "$color-gray-grid"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "$color-gray-grid",
-        "line_number": 291,
+        "line_number": 290,
         "match": "$color-gray-grid"
       },
       {
@@ -223,7 +211,7 @@
       {
         "file": "barrels/player/player-container.scss",
         "line": "$color-gray-hard",
-        "line_number": 84,
+        "line_number": 83,
         "match": "$color-gray-hard"
       }
     ],
@@ -231,37 +219,25 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-gray-heavy",
-        "line_number": 153,
+        "line_number": 152,
         "match": "$color-gray-heavy"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-gray-heavy",
-        "line_number": 160,
+        "line_number": 159,
         "match": "$color-gray-heavy"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-gray-heavy",
-        "line_number": 176,
+        "line_number": 175,
         "match": "$color-gray-heavy"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "$color-gray-heavy",
-        "line_number": 16,
-        "match": "$color-gray-heavy"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$color-gray-heavy",
-        "line_number": 49,
-        "match": "$color-gray-heavy"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$color-gray-heavy",
-        "line_number": 122,
+        "line_number": 15,
         "match": "$color-gray-heavy"
       },
       {
@@ -273,13 +249,13 @@
       {
         "file": "barrels/trends/trends.scss",
         "line": "$color-gray-heavy",
-        "line_number": 176,
+        "line_number": 175,
         "match": "$color-gray-heavy"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "$color-gray-heavy",
-        "line_number": 203,
+        "line_number": 202,
         "match": "$color-gray-heavy"
       },
       {
@@ -291,7 +267,7 @@
       {
         "file": "components/box/box.scss",
         "line": "$color-gray-heavy",
-        "line_number": 135,
+        "line_number": 134,
         "match": "$color-gray-heavy"
       },
       {
@@ -309,7 +285,7 @@
       {
         "file": "components/grid/infinite-grid.scss",
         "line": "$color-gray-heavy",
-        "line_number": 92,
+        "line_number": 91,
         "match": "$color-gray-heavy"
       },
       {
@@ -333,13 +309,13 @@
       {
         "file": "styles/global.scss",
         "line": "$color-gray-heavy",
-        "line_number": 57,
+        "line_number": 60,
         "match": "$color-gray-heavy"
       },
       {
         "file": "styles/mixins.scss",
         "line": "$color-gray-heavy",
-        "line_number": 217,
+        "line_number": 220,
         "match": "$color-gray-heavy"
       }
     ],
@@ -347,7 +323,7 @@
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-gray-light",
-        "line_number": 100,
+        "line_number": 104,
         "match": "$color-gray-light"
       },
       {
@@ -365,13 +341,13 @@
       {
         "file": "barrels/product-view/product-delivery-history.scss",
         "line": "$color-gray-light",
-        "line_number": 46,
+        "line_number": 45,
         "match": "$color-gray-light"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "$color-gray-light",
-        "line_number": 161,
+        "line_number": 160,
         "match": "$color-gray-light"
       },
       {
@@ -389,7 +365,7 @@
       {
         "file": "styles/mixins.scss",
         "line": "$color-gray-light",
-        "line_number": 221,
+        "line_number": 224,
         "match": "$color-gray-light"
       }
     ],
@@ -403,31 +379,25 @@
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "$color-gray-normal",
-        "line_number": 198,
-        "match": "$color-gray-normal"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "$color-gray-normal",
-        "line_number": 430,
+        "line_number": 190,
         "match": "$color-gray-normal"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-gray-normal",
-        "line_number": 49,
+        "line_number": 48,
         "match": "$color-gray-normal"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-gray-normal",
-        "line_number": 52,
+        "line_number": 51,
         "match": "$color-gray-normal"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-gray-normal",
-        "line_number": 238,
+        "line_number": 242,
         "match": "$color-gray-normal"
       },
       {
@@ -445,73 +415,61 @@
       {
         "file": "barrels/player/play-asset-button.scss",
         "line": "$color-gray-normal",
-        "line_number": 25,
+        "line_number": 24,
         "match": "$color-gray-normal"
       },
       {
         "file": "barrels/product-view/product-delivery-history.scss",
         "line": "$color-gray-normal",
-        "line_number": 17,
+        "line_number": 16,
         "match": "$color-gray-normal"
       },
       {
         "file": "barrels/product-view/product-state-progress.scss",
         "line": "$color-gray-normal",
-        "line_number": 43,
+        "line_number": 42,
         "match": "$color-gray-normal"
       },
       {
         "file": "barrels/product-view/product-state-progress.scss",
         "line": "$color-gray-normal",
-        "line_number": 116,
-        "match": "$color-gray-normal"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$color-gray-normal",
-        "line_number": 48,
-        "match": "$color-gray-normal"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$color-gray-normal",
-        "line_number": 53,
+        "line_number": 115,
         "match": "$color-gray-normal"
       },
       {
         "file": "barrels/trends/total-selector.scss",
         "line": "$color-gray-normal",
-        "line_number": 31,
+        "line_number": 30,
         "match": "$color-gray-normal"
       },
       {
-        "file": "barrels/trends/trends-filter.scss",
+        "file": "barrels/trends/trends-filter/trends-filter.scss",
         "line": "$color-gray-normal",
-        "line_number": 75,
-        "match": "$color-gray-normal"
-      },
-      {
-        "file": "barrels/trends/trends.scss",
-        "line": "$color-gray-normal",
-        "line_number": 210,
+        "line_number": 74,
         "match": "$color-gray-normal"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "$color-gray-normal",
-        "line_number": 225,
+        "line_number": 209,
+        "match": "$color-gray-normal"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-gray-normal",
+        "line_number": 224,
         "match": "$color-gray-normal"
       },
       {
         "file": "components/box/box.scss",
         "line": "$color-gray-normal",
-        "line_number": 72,
+        "line_number": 71,
         "match": "$color-gray-normal"
       },
       {
         "file": "components/box/box.scss",
         "line": "$color-gray-normal",
-        "line_number": 82,
+        "line_number": 81,
         "match": "$color-gray-normal"
       },
       {
@@ -535,7 +493,7 @@
       {
         "file": "styles/global.scss",
         "line": "$color-gray-normal",
-        "line_number": 60,
+        "line_number": 63,
         "match": "$color-gray-normal"
       }
     ],
@@ -561,19 +519,13 @@
       {
         "file": "barrels/form/form.scss",
         "line": "$color-gray-normal-heavy",
-        "line_number": 45,
+        "line_number": 42,
         "match": "$color-gray-normal-heavy"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-gray-normal-heavy",
-        "line_number": 114,
-        "match": "$color-gray-normal-heavy"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$color-gray-normal-heavy",
-        "line_number": 280,
+        "line_number": 118,
         "match": "$color-gray-normal-heavy"
       },
       {
@@ -591,13 +543,13 @@
       {
         "file": "barrels/trends/trends.scss",
         "line": "$color-gray-normal-heavy",
-        "line_number": 142,
+        "line_number": 141,
         "match": "$color-gray-normal-heavy"
       },
       {
         "file": "barrels/trends/trends.scss",
         "line": "$color-gray-normal-heavy",
-        "line_number": 233,
+        "line_number": 232,
         "match": "$color-gray-normal-heavy"
       },
       {
@@ -633,7 +585,7 @@
       {
         "file": "components/popup/popup.scss",
         "line": "$color-gray-normal-heavy",
-        "line_number": 81,
+        "line_number": 80,
         "match": "$color-gray-normal-heavy"
       },
       {
@@ -647,7 +599,7 @@
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "$color-gray-soft",
-        "line_number": 249,
+        "line_number": 241,
         "match": "$color-gray-soft"
       },
       {
@@ -659,43 +611,37 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-gray-soft",
-        "line_number": 13,
+        "line_number": 12,
         "match": "$color-gray-soft"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-gray-soft",
-        "line_number": 95,
+        "line_number": 94,
         "match": "$color-gray-soft"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-gray-soft",
-        "line_number": 150,
+        "line_number": 154,
         "match": "$color-gray-soft"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-gray-soft",
-        "line_number": 153,
+        "line_number": 157,
         "match": "$color-gray-soft"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-gray-soft",
-        "line_number": 282,
+        "line_number": 286,
         "match": "$color-gray-soft"
       },
       {
         "file": "barrels/product-view/product-delivery/edit-delivery-instruction.scss",
         "line": "$color-gray-soft",
         "line_number": 23,
-        "match": "$color-gray-soft"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$color-gray-soft",
-        "line_number": 221,
         "match": "$color-gray-soft"
       },
       {
@@ -721,13 +667,7 @@
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-gray-softer",
-        "line_number": 107,
-        "match": "$color-gray-softer"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$color-gray-softer",
-        "line_number": 264,
+        "line_number": 111,
         "match": "$color-gray-softer"
       },
       {
@@ -755,19 +695,19 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-green",
-        "line_number": 221,
+        "line_number": 220,
+        "match": "$color-green"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$color-green",
+        "line_number": 231,
         "match": "$color-green"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-green",
         "line_number": 232,
-        "match": "$color-green"
-      },
-      {
-        "file": "barrels/dsp-configs/dsp-configs.scss",
-        "line": "$color-green",
-        "line_number": 233,
         "match": "$color-green"
       },
       {
@@ -823,7 +763,7 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-main",
-        "line_number": 99,
+        "line_number": 98,
         "match": "$color-main"
       },
       {
@@ -876,21 +816,15 @@
     "$color-main-soft": [],
     "$color-orange": [
       {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "$color-orange",
-        "line_number": 73,
-        "match": "$color-orange"
-      },
-      {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-orange",
-        "line_number": 193,
+        "line_number": 197,
         "match": "$color-orange"
       },
       {
         "file": "components/box/box.scss",
         "line": "$color-orange",
-        "line_number": 134,
+        "line_number": 133,
         "match": "$color-orange"
       }
     ],
@@ -902,12 +836,6 @@
         "match": "$color-red"
       },
       {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "$color-red",
-        "line_number": 673,
-        "match": "$color-red"
-      },
-      {
         "file": "barrels/bulk-actions/bulk-main-component.scss",
         "line": "$color-red",
         "line_number": 443,
@@ -916,49 +844,49 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-red",
-        "line_number": 274,
+        "line_number": 273,
         "match": "$color-red"
       },
       {
         "file": "barrels/form/form-errors-snack.scss",
         "line": "$color-red",
-        "line_number": 13,
+        "line_number": 12,
         "match": "$color-red"
       },
       {
         "file": "barrels/form/form.scss",
         "line": "$color-red",
-        "line_number": 120,
+        "line_number": 103,
         "match": "$color-red"
       },
       {
         "file": "barrels/form/form.scss",
         "line": "$color-red",
-        "line_number": 124,
+        "line_number": 107,
         "match": "$color-red"
       },
       {
         "file": "barrels/form/form.scss",
         "line": "$color-red",
-        "line_number": 128,
+        "line_number": 111,
         "match": "$color-red"
       },
       {
         "file": "barrels/form/form.scss",
         "line": "$color-red",
-        "line_number": 140,
+        "line_number": 123,
         "match": "$color-red"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-red",
-        "line_number": 167,
+        "line_number": 171,
         "match": "$color-red"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$color-red",
-        "line_number": 185,
+        "line_number": 189,
         "match": "$color-red"
       },
       {
@@ -1008,85 +936,67 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-white",
-        "line_number": 30,
+        "line_number": 29,
         "match": "$color-white"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-white",
-        "line_number": 54,
+        "line_number": 53,
         "match": "$color-white"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-white",
-        "line_number": 59,
+        "line_number": 58,
         "match": "$color-white"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$color-white",
-        "line_number": 68,
+        "line_number": 67,
         "match": "$color-white"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "$color-white",
-        "line_number": 113,
+        "line_number": 112,
         "match": "$color-white"
       },
       {
         "file": "barrels/player/player-container.scss",
         "line": "$color-white",
-        "line_number": 155,
+        "line_number": 154,
         "match": "$color-white"
       },
       {
         "file": "barrels/player/player-container.scss",
-        "line": "$color-white",
-        "line_number": 183,
-        "match": "$color-white"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$color-white",
-        "line_number": 220,
-        "match": "$color-white"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$color-white",
-        "line_number": 246,
-        "match": "$color-white"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$color-white",
-        "line_number": 253,
-        "match": "$color-white"
-      },
-      {
-        "file": "barrels/trends/total-selector.scss",
-        "line": "$color-white",
-        "line_number": 20,
-        "match": "$color-white"
-      },
-      {
-        "file": "barrels/trends/trends.scss",
         "line": "$color-white",
         "line_number": 182,
         "match": "$color-white"
       },
       {
+        "file": "barrels/trends/total-selector.scss",
+        "line": "$color-white",
+        "line_number": 19,
+        "match": "$color-white"
+      },
+      {
+        "file": "barrels/trends/trends.scss",
+        "line": "$color-white",
+        "line_number": 181,
+        "match": "$color-white"
+      },
+      {
         "file": "components/box/box.scss",
         "line": "$color-white",
-        "line_number": 12,
+        "line_number": 11,
         "match": "$color-white"
       },
       {
         "file": "components/grid/infinite-grid.scss",
         "line": "$color-white",
-        "line_number": 87,
+        "line_number": 86,
         "match": "$color-white"
       },
       {
@@ -1098,13 +1008,13 @@
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "$color-white",
-        "line_number": 79,
+        "line_number": 78,
         "match": "$color-white"
       },
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "$color-white",
-        "line_number": 84,
+        "line_number": 83,
         "match": "$color-white"
       }
     ],
@@ -1138,7 +1048,7 @@
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "$hero-green",
-        "line_number": 248,
+        "line_number": 240,
         "match": "$hero-green"
       },
       {
@@ -1168,37 +1078,37 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$hero-green",
-        "line_number": 263,
+        "line_number": 262,
         "match": "$hero-green"
       },
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$hero-green",
-        "line_number": 264,
+        "line_number": 263,
         "match": "$hero-green"
       },
       {
         "file": "barrels/form/input-fields/input-fields.scss",
         "line": "$hero-green",
-        "line_number": 137,
+        "line_number": 136,
         "match": "$hero-green"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$hero-green",
-        "line_number": 59,
+        "line_number": 58,
         "match": "$hero-green"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$hero-green",
-        "line_number": 171,
+        "line_number": 175,
         "match": "$hero-green"
       },
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$hero-green",
-        "line_number": 225,
+        "line_number": 229,
         "match": "$hero-green"
       },
       {
@@ -1258,7 +1168,7 @@
       {
         "file": "barrels/product-view/product-state-progress.scss",
         "line": "$hero-green",
-        "line_number": 34,
+        "line_number": 33,
         "match": "$hero-green"
       },
       {
@@ -1274,27 +1184,27 @@
         "match": "$hero-green"
       },
       {
-        "file": "barrels/trends/trends-filter.scss",
+        "file": "barrels/trends/trends-filter/trends-filter.scss",
         "line": "$hero-green",
-        "line_number": 58,
+        "line_number": 57,
         "match": "$hero-green"
       },
       {
         "file": "barrels/webhooks/webhooks.scss",
         "line": "$hero-green",
-        "line_number": 127,
+        "line_number": 126,
+        "match": "$hero-green"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$hero-green",
+        "line_number": 14,
         "match": "$hero-green"
       },
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "$hero-green",
         "line_number": 15,
-        "match": "$hero-green"
-      },
-      {
-        "file": "components/status-indicator/status-indicator.scss",
-        "line": "$hero-green",
-        "line_number": 16,
         "match": "$hero-green"
       }
     ],
@@ -1321,19 +1231,19 @@
       {
         "file": "barrels/artist-view/metadata-translations/styles.scss",
         "line": "$material-grey",
-        "line_number": 22,
+        "line_number": 21,
         "match": "$material-grey"
       },
       {
         "file": "barrels/artist-view/metadata-translations/styles.scss",
         "line": "$material-grey",
-        "line_number": 30,
+        "line_number": 29,
         "match": "$material-grey"
       },
       {
         "file": "barrels/artist-view/metadata-translations/styles.scss",
         "line": "$material-grey",
-        "line_number": 35,
+        "line_number": 34,
         "match": "$material-grey"
       },
       {
@@ -1369,31 +1279,31 @@
       {
         "file": "barrels/metadata-ingestion-self-service/metadata-ingestion.scss",
         "line": "$material-grey",
-        "line_number": 338,
+        "line_number": 342,
         "match": "$material-grey"
       },
       {
         "file": "barrels/metadata-translations-common/dialog-styles.scss",
         "line": "$material-grey",
-        "line_number": 22,
+        "line_number": 21,
         "match": "$material-grey"
       },
       {
         "file": "barrels/metadata-translations-common/dialog-styles.scss",
         "line": "$material-grey",
-        "line_number": 30,
+        "line_number": 29,
         "match": "$material-grey"
       },
       {
         "file": "barrels/metadata-translations-common/dialog-styles.scss",
         "line": "$material-grey",
-        "line_number": 35,
+        "line_number": 34,
         "match": "$material-grey"
       },
       {
         "file": "barrels/metadata-translations-common/translations-grid-base.scss",
         "line": "$material-grey",
-        "line_number": 14,
+        "line_number": 13,
         "match": "$material-grey"
       },
       {
@@ -1441,43 +1351,25 @@
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "$material-grey",
-        "line_number": 98,
+        "line_number": 97,
         "match": "$material-grey"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "$material-grey",
-        "line_number": 125,
+        "line_number": 124,
         "match": "$material-grey"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "$material-grey",
-        "line_number": 218,
-        "match": "$material-grey"
-      },
-      {
-        "file": "barrels/product-view/product-territory.scss",
-        "line": "$material-grey",
-        "line_number": 21,
-        "match": "$material-grey"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$material-grey",
-        "line_number": 378,
-        "match": "$material-grey"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$material-grey",
-        "line_number": 503,
+        "line_number": 217,
         "match": "$material-grey"
       },
       {
         "file": "barrels/trends/total-selector.scss",
         "line": "$material-grey",
-        "line_number": 36,
+        "line_number": 35,
         "match": "$material-grey"
       },
       {
@@ -1489,7 +1381,7 @@
       {
         "file": "barrels/webhooks/webhooks.scss",
         "line": "$material-grey",
-        "line_number": 107,
+        "line_number": 106,
         "match": "$material-grey"
       },
       {
@@ -1501,13 +1393,13 @@
       {
         "file": "components/chart/tooltip.scss",
         "line": "$material-grey",
-        "line_number": 20,
+        "line_number": 19,
         "match": "$material-grey"
       },
       {
         "file": "components/grid/infinite-grid.scss",
         "line": "$material-grey",
-        "line_number": 52,
+        "line_number": 51,
         "match": "$material-grey"
       },
       {
@@ -1519,13 +1411,13 @@
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "$material-grey",
-        "line_number": 45,
+        "line_number": 44,
         "match": "$material-grey"
       },
       {
         "file": "components/territory/territory-overrides.scss",
         "line": "$material-grey",
-        "line_number": 35,
+        "line_number": 34,
         "match": "$material-grey"
       }
     ],
@@ -1533,19 +1425,13 @@
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "$material-grid-bg-grey",
-        "line_number": 221,
+        "line_number": 213,
         "match": "$material-grid-bg-grey"
       },
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "$material-grid-bg-grey",
-        "line_number": 232,
-        "match": "$material-grid-bg-grey"
-      },
-      {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "$material-grid-bg-grey",
-        "line_number": 529,
+        "line_number": 224,
         "match": "$material-grid-bg-grey"
       },
       {
@@ -1563,7 +1449,7 @@
       {
         "file": "barrels/metadata-translations-common/translations-grid-base.scss",
         "line": "$material-grid-bg-grey",
-        "line_number": 10,
+        "line_number": 9,
         "match": "$material-grid-bg-grey"
       },
       {
@@ -1593,25 +1479,13 @@
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "$material-grid-bg-grey",
-        "line_number": 104,
+        "line_number": 103,
         "match": "$material-grid-bg-grey"
       },
       {
         "file": "barrels/product-view/product-header/product-header.scss",
         "line": "$material-grid-bg-grey",
-        "line_number": 148,
-        "match": "$material-grid-bg-grey"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$material-grid-bg-grey",
-        "line_number": 489,
-        "match": "$material-grid-bg-grey"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$material-grid-bg-grey",
-        "line_number": 494,
+        "line_number": 147,
         "match": "$material-grid-bg-grey"
       },
       {
@@ -1635,51 +1509,33 @@
       {
         "file": "components/grid/infinite-grid.scss",
         "line": "$material-grid-bg-grey",
-        "line_number": 49,
+        "line_number": 48,
         "match": "$material-grid-bg-grey"
       },
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "$material-grid-bg-grey",
-        "line_number": 104,
+        "line_number": 103,
         "match": "$material-grid-bg-grey"
       },
       {
         "file": "components/type-indicator/type-indicator.scss",
         "line": "$material-grid-bg-grey",
-        "line_number": 10,
+        "line_number": 9,
         "match": "$material-grid-bg-grey"
       }
     ],
     "$material-light-grey": [
       {
-        "file": "barrels/asset-details/asset-details.scss",
-        "line": "$material-light-grey",
-        "line_number": 540,
-        "match": "$material-light-grey"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$material-light-grey",
-        "line_number": 364,
-        "match": "$material-light-grey"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$material-light-grey",
-        "line_number": 495,
-        "match": "$material-light-grey"
-      },
-      {
         "file": "barrels/trends/trends.scss",
         "line": "$material-light-grey",
-        "line_number": 23,
+        "line_number": 22,
         "match": "$material-light-grey"
       },
       {
         "file": "components/chart/tooltip.scss",
         "line": "$material-light-grey",
-        "line_number": 19,
+        "line_number": 18,
         "match": "$material-light-grey"
       }
     ],
@@ -1721,7 +1577,7 @@
       {
         "file": "barrels/artist-view/artist-view.scss",
         "line": "$not-millenial-pink",
-        "line_number": 214,
+        "line_number": 206,
         "match": "$not-millenial-pink"
       },
       {
@@ -1734,12 +1590,6 @@
         "file": "barrels/product-view/product-actions-select/product-actions-select.scss",
         "line": "$not-millenial-pink",
         "line_number": 189,
-        "match": "$not-millenial-pink"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$not-millenial-pink",
-        "line_number": 103,
         "match": "$not-millenial-pink"
       },
       {
@@ -1757,25 +1607,25 @@
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "$not-millenial-pink",
+        "line_number": 7,
+        "match": "$not-millenial-pink"
+      },
+      {
+        "file": "components/status-indicator/status-indicator.scss",
+        "line": "$not-millenial-pink",
         "line_number": 8,
         "match": "$not-millenial-pink"
       },
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "$not-millenial-pink",
-        "line_number": 9,
+        "line_number": 19,
         "match": "$not-millenial-pink"
       },
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "$not-millenial-pink",
         "line_number": 20,
-        "match": "$not-millenial-pink"
-      },
-      {
-        "file": "components/status-indicator/status-indicator.scss",
-        "line": "$not-millenial-pink",
-        "line_number": 21,
         "match": "$not-millenial-pink"
       }
     ],
@@ -1814,7 +1664,13 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$tango-orange",
-        "line_number": 225,
+        "line_number": 224,
+        "match": "$tango-orange"
+      },
+      {
+        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "line": "$tango-orange",
+        "line_number": 239,
         "match": "$tango-orange"
       },
       {
@@ -1826,7 +1682,7 @@
       {
         "file": "barrels/dsp-configs/dsp-configs.scss",
         "line": "$tango-orange",
-        "line_number": 241,
+        "line_number": 256,
         "match": "$tango-orange"
       },
       {
@@ -1836,27 +1692,21 @@
         "match": "$tango-orange"
       },
       {
-        "file": "barrels/dsp-configs/dsp-configs.scss",
+        "file": "barrels/form/form.scss",
         "line": "$tango-orange",
-        "line_number": 258,
+        "line_number": 55,
         "match": "$tango-orange"
       },
       {
         "file": "barrels/form/form.scss",
         "line": "$tango-orange",
-        "line_number": 65,
+        "line_number": 63,
         "match": "$tango-orange"
       },
       {
         "file": "barrels/form/form.scss",
         "line": "$tango-orange",
-        "line_number": 73,
-        "match": "$tango-orange"
-      },
-      {
-        "file": "barrels/form/form.scss",
-        "line": "$tango-orange",
-        "line_number": 169,
+        "line_number": 151,
         "match": "$tango-orange"
       },
       {
@@ -1866,45 +1716,21 @@
         "match": "$tango-orange"
       },
       {
-        "file": "barrels/product-view/product-delivery/product-delivery.scss",
-        "line": "$tango-orange",
-        "line_number": 12,
-        "match": "$tango-orange"
-      },
-      {
         "file": "barrels/product-view/product-state-progress.scss",
         "line": "$tango-orange",
-        "line_number": 51,
-        "match": "$tango-orange"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$tango-orange",
-        "line_number": 57,
-        "match": "$tango-orange"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$tango-orange",
-        "line_number": 91,
-        "match": "$tango-orange"
-      },
-      {
-        "file": "barrels/product-view/product-view.scss",
-        "line": "$tango-orange",
-        "line_number": 614,
+        "line_number": 50,
         "match": "$tango-orange"
       },
       {
         "file": "barrels/webhooks/webhooks.scss",
         "line": "$tango-orange",
-        "line_number": 123,
+        "line_number": 122,
         "match": "$tango-orange"
       },
       {
         "file": "components/box/box.scss",
         "line": "$tango-orange",
-        "line_number": 65,
+        "line_number": 64,
         "match": "$tango-orange"
       },
       {
@@ -1922,7 +1748,7 @@
       {
         "file": "components/status-indicator/status-indicator.scss",
         "line": "$tango-orange",
-        "line_number": 29,
+        "line_number": 28,
         "match": "$tango-orange"
       }
     ],
@@ -1936,7 +1762,7 @@
       {
         "file": "components/badge/badge.scss",
         "line": "solidify-color",
-        "line_number": 7,
+        "line_number": 6,
         "match": "solidify-color"
       }
     ]
