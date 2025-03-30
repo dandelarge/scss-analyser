@@ -87,17 +87,20 @@ func FindUnusedDependencies(file string, results *filesearch.Results) []string {
 	return diffSlices(imports, foundDependencies)
 }
 
-func FindAllUnusedDependencies(results *filesearch.Results) map[string][]string {
+func FindAllUnusedDependencies(results *filesearch.Results, onlyFiles bool) map[string][]string {
 	allUnused := map[string][]string{}
 
 	for file := range *results {
 
 		unused := FindUnusedDependencies(file, results)
-		// imports := FindAllImportsForFile(file, results)
-		//
-		// if len(unused) != len(imports) {
-		// 	continue
-		// }
+
+		if onlyFiles {
+			imports := FindAllImportsForFile(file, results)
+
+			if len(unused) != len(imports) {
+				continue
+			}
+		}
 		for _, u := range unused {
 			extension := u[len(u)-4:]
 

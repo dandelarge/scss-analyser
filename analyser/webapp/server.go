@@ -150,7 +150,8 @@ func GetDependencies(w http.ResponseWriter, r *http.Request) {
 
 func GetAllUnused(w http.ResponseWriter, r *http.Request) {
 	results := data.GetResults("")
-	dependencies := data.FindAllUnusedDependencies(&results)
+	onlyFiles := r.URL.Query().Get("onlyFiles") == "true"
+	dependencies := data.FindAllUnusedDependencies(&results, onlyFiles)
 
 	dependenciesJson, err := json.Marshal(dependencies)
 
